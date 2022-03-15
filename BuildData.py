@@ -13,7 +13,7 @@ class BuildData:
         self.clubNames: Dict[str, str] = {}
         self.players: Dict[str, Player] = {}
         self.seasons: Dict[str, Season] = {}
-        self.transfersArray: list[Transfer] = []
+        self.transfersArray = set()
         self.dirName = dirName
 
         self.createObjects()
@@ -38,13 +38,14 @@ class BuildData:
             fee: float = 0
         isLoan: bool = "loan" in array[5] or "Loan" in array[5]
         period: str = array[7]
+        league: str = array[9]
 
-        transfer = Transfer(fromClub, toClub, player, fee, season, period, isLoan)
+        transfer = Transfer(fromClub, toClub, player, fee, season, period, isLoan, league)
         fromClub.addTransfer(transfer)
         toClub.addTransfer(transfer)
         player.addTransfer(transfer)
         season.addTransfer(transfer)
-        self.transfersArray.append(transfer)
+        self.transfersArray.add(transfer)
 
 
     def createObjects(self):
@@ -53,7 +54,7 @@ class BuildData:
             club_name: str = array[0]
             if club_name not in self.clubNames:
                 self.clubNames[club_name] = club_name
-                self.clubs[club_name] = Club(club_name)
+                self.clubs[club_name] = Club(club_name, array[-1])
 
             season_name: str = array[11]
             if season_name not in self.seasons:
@@ -77,7 +78,7 @@ class BuildData:
                     self.clubNames[club_name] = name_matches[0]
                 else:
                     self.clubNames[club_name] = club_name
-                    self.clubs[club_name] = Club(club_name)
+                    self.clubs[club_name] = Club(club_name, array[-1])
 
         outcastClubNames = {
             "Barcelona" : "FC Barcelona",
@@ -96,7 +97,7 @@ class BuildData:
             val.sort()
         for _, val in self.seasons.items():
             val.sort()
-        self.transfersArray.sort()
+        self.transfersArray = sorted(self.transfersArray)
 
     def combineTransfers(self):
         transfersArray = []
@@ -105,7 +106,19 @@ class BuildData:
         for (dirpath, _, filenames) in os.walk(dirName):
             listOfFiles += [os.path.join(dirpath, file) for file in filenames]
 
+        countryList = {"dutch_eredivisie.csv" : "Netherlands",
+                       "english_championship.csv" : "United Kingdom",
+                       "english_premier_league.csv" : "United Kingdom",
+                       "french_ligue_1.csv" : "France",
+                       "german_bundesliga_1.csv" : "Germany",
+                       "italian_serie_a.csv" : "Italy",
+                       "portugese_liga_nos.csv" : "Portugal",
+                       "russian_premier_liga.csv" : "Russia",
+                       "spanish_primera_division.csv" : "Spain"}
+
         for file in listOfFiles:
+            leagueName = file.split("/")[-1]
+            countryName = countryList[leagueName]
             with open(file, encoding="utf-8") as file_name:
                 reader = csv.reader(file_name, delimiter=',')
                 reader.__next__()
@@ -115,6 +128,7 @@ class BuildData:
                     elif len(row) > 12:
                         row[5] = row[5] + "," + row[6]
                         row.remove(6)
+                    row.append(countryName)
                     transfersArray.append(row)
         return transfersArray
 
@@ -147,8 +161,8 @@ class BuildData:
         self.csv(array, fileName)
 
     def csv(self, array: list[Transfer], fileName: str):
-        arrayToPrint = [["from club", "to club", "player name", "age", "position", "fee", 
-                         "transfer type", "period", "year", "season"]]
+        arrayToPrint = [["from club", "to club", "league", "player name", "age", "position", "fee", 
+                         "transfer type", "period", "year", "season", "tranfer between"]]
         arrayToPrint.extend([tf.toArray() for tf in array]) 
         with open(fileName, 'w', newline='') as file:
             mywriter = csv.writer(file, delimiter=',')
@@ -172,5 +186,11 @@ if __name__ == "__main__":
 
 
 # improvevments:
-# add count, write query code, write graph code
+# further pruning is needed
+#    multiple instances of the same transaction in different files
+#       and different ages of the players
+#    add a new field country in the clubs based on the filename also the league
+#       and indicate whethere the transaction was international or local
+#    check the player's age
+#   
 # output in csv

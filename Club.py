@@ -1,9 +1,10 @@
 import Transferable
 
 class Club(Transferable.Transferable):
-    def __init__(self, name):
+    def __init__(self, name, country):
         super().__init__()
         self.name = name
+        self.country = country
 
     def __str__(self):
         return self.name
