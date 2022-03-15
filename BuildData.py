@@ -79,8 +79,7 @@ class BuildData:
 
         outcastClubNames = {
             "Barcelona" : "FC Barcelona",
-            "Admira/Wacker" : "FC Flyeralarm Admira",
-            "Admira Wacker" : "FC Flyeralarm Admira",
+            "Admira/Wacker" : "Admira Wacker",
         }
 
         for key, _ in outcastClubNames.items():
@@ -115,14 +114,38 @@ class BuildData:
                         row.remove(6)
                     self.transfersArray.append(row)
 
+    def filter(self, club_name: str = None, player_name: str = None, season: str = None):
+        if not club_name and not player_name and not season:
+            return self.transfersArray
+        if club_name:
+            return self.clubs[self.clubNames[club_name]].transfers
+        if player_name:
+            return self.players[player_name].transfers
+        if season:
+            return self.seasons[season].transfers
+
+        # add some mixed filtering
+        return []
+
+    def csv(self, club_name: str = None, player_name: str = None, season: str = None):
+        filteredTransfersArray: list[Transfer] = self.filter(club_name, player_name, season)
+        fileName: str = "allTransfers" + ("_"+club_name if club_name else "") + \
+                                         ("_"+player_name if player_name else "") + \
+                                         ("_"+season if season else "") + ".csv"
+        arrayToPrint = [tf.toArray() for tf in filteredTransfersArray]
+        with open(fileName, 'w', newline='') as file:
+            mywriter = csv.writer(file, delimiter=',')
+            mywriter.writerows(arrayToPrint)
+
+
+
+
 if __name__ == "__main__":
     bd = BuildData()
-    barca: Club = bd.getClub("Barcelona")
+    bd.csv(club_name = "Admira Wacker")
     # with open("clubNames.json", 'w', encoding="utf-8") as f:
     #     json.dump(bd.clubNames, f, ensure_ascii=False)
 
-    for barca_transfer in barca.transfers:
-        print(barca_transfer)
 
 
 # improvevments:

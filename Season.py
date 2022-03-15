@@ -3,7 +3,7 @@ import Transferable
 class Season(Transferable.Transferable):
     def __init__(self, year, season):
         super().__init__()
-        self.year = year
+        self.year = int(year)
         self.season = season
 
     def __str__(self):

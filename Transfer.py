@@ -34,3 +34,16 @@ class Transfer:
                self.fromClub.__str__() + " -> " + self.toClub.__str__() + \
                (", loaned for " if self.isLoan else ", sold for ") + \
                str(self.fee) + "M, during " + self.season.__str__()
+
+    def toArray(self):
+        arr = []
+        arr.append(self.fromClub.name)
+        arr.append(self.toClub.name)
+        arr.append(self.player.name)
+        arr.append(str(self.season.year - self.player.birth_year))
+        arr.append(self.player.position)
+        arr.append(str(self.fee))
+        arr.append(("on loan" if self.isLoan else "sold"))
+        arr.append(self.period)
+        arr.append(self.season.season)
+        return arr
