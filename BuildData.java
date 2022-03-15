@@ -176,16 +176,20 @@ public class BuildData{
     }
   }
 
+  // public void writeToFile(){
+  //
+  // }
+
   public static void main(String[] args) {
     BuildData bd = new BuildData();
-    // Club bercelona = bd.getClub("Barcelona");
-    // System.out.println(bercelona);
-    // for (Transfer t: bercelona.transfers)
-    //   System.out.println(t);
-
-    Player jean = bd.getPlayer("Jean-Clair Todibo");
-    for (Transfer t: jean.transfers)
+    Club bercelona = bd.getClub("Barcelona");
+    System.out.println(bercelona);
+    for (Transfer t: bercelona.transfers)
       System.out.println(t);
+
+    // Player jean = bd.getPlayer("Jean-Clair Todibo");
+    // for (Transfer t: jean.transfers)
+    //   System.out.println(t);
   }
 
 }

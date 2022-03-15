@@ -1,11 +1,11 @@
-import java.util.HashSet;
+import java.util.TreeSet;
 
 public class Club extends Transfarable{
-  private String name;
+  public String name;
 
   public Club(String name){
     this.name = name;
-    this.transfers = new HashSet<Transfer>();
+    this.transfers = new TreeSet<Transfer>();
   }
 
   public String toString(){

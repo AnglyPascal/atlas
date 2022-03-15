@@ -1,10 +1,8 @@
-import java.util.HashSet;
-
 public class Transfer implements Comparable<Transfer>{
   private Club fromClub, toClub;
   private Player player;
   private Double fee;
-  public Season season;
+  private Season season;
   private String period;
   private boolean isLoan;
 
@@ -23,7 +21,35 @@ public class Transfer implements Comparable<Transfer>{
   }
 
   public int compareTo(Transfer that){
-    return this.season.compareTo(that.season);
+    if (this.season.season.compareTo(that.season.season) > 0)
+      return 1;
+    else if (this.season.season.compareTo(that.season.season) < 0)
+      return -1;
+    else if (this.player.name.compareTo(that.player.name) > 0)
+      return 1;
+    else if (this.player.name.compareTo(that.player.name) < 0)
+      return -1;
+    else if (this.fromClub.name.compareTo(that.fromClub.name) > 0)
+      return 1;
+    else if (this.fromClub.name.compareTo(that.fromClub.name) < 0)
+      return -1;
+    else if (this.toClub.name.compareTo(that.toClub.name) > 0)
+      return 1;
+    else if (this.toClub.name.compareTo(that.toClub.name) < 0)
+      return -1;
+    else if (this.period.compareTo(that.period) > 0)
+      return 1;
+    else if (this.period.compareTo(that.period) < 0)
+      return -1;
+    else if (this.fee < that.fee)
+        return 1;
+    else if (this.fee > that.fee)
+        return -1;
+    else 
+      return 0;
   }
 }
 
+
+/** there's also some complicated cases for loan
+ */
