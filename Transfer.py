@@ -19,12 +19,12 @@ class Transfer:
     def __lt__(self, other):
         if self.season != other.season:
             return self.season < other.season
-        if self.player != other.player:
-            return self.player < other.player
         if self.fromClub != other.fromClub:
             return self.fromClub < other.fromClub
         if self.toClub != other.toClub:
             return self.toClub < other.toClub
+        if self.player != other.player:
+            return self.player < other.player
         if self.period != other.period:
             return self.period < other.period
         return False
@@ -42,7 +42,7 @@ class Transfer:
         arr.append(self.player.name)
         arr.append(str(self.season.year - self.player.birth_year))
         arr.append(self.player.position)
-        arr.append(str(self.fee))
+        arr.append(str(self.fee)+"M" if self.fee != 0 else "NA")
         arr.append(("on loan" if self.isLoan else "sold"))
         arr.append(self.period)
         arr.append(self.season.year)

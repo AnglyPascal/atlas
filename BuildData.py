@@ -13,10 +13,9 @@ class BuildData:
         self.clubNames: Dict[str, str] = {}
         self.players: Dict[str, Player] = {}
         self.seasons: Dict[str, Season] = {}
-        self.transfersArray: list[list[str]] = []
+        self.transfersArray: list[Transfer] = []
         self.dirName = dirName
 
-        self.combineTransfers()
         self.createObjects()
 
     def getClub(self, name) -> Club:
@@ -45,9 +44,12 @@ class BuildData:
         toClub.addTransfer(transfer)
         player.addTransfer(transfer)
         season.addTransfer(transfer)
+        self.transfersArray.append(transfer)
+
 
     def createObjects(self):
-        for array in self.transfersArray:
+        transfersArray = self.combineTransfers()
+        for array in transfersArray:
             club_name: str = array[0]
             if club_name not in self.clubNames:
                 self.clubNames[club_name] = club_name
@@ -66,7 +68,7 @@ class BuildData:
                 position: str = array[3]
                 self.players[player_name] = Player(player_name, birth_year, position)
 
-        for array in self.transfersArray:
+        for array in transfersArray:
             club_name: str = array[4]
             if club_name not in self.clubNames:
                 name_matches: list[str] = [key for key, val in self.clubs.items() 
@@ -85,7 +87,7 @@ class BuildData:
         for key, _ in outcastClubNames.items():
             self.clubNames[key] = outcastClubNames[key]
 
-        for array in self.transfersArray:
+        for array in transfersArray:
             self.addTransfer(array)
 
         for _, val in self.clubs.items():
@@ -94,9 +96,10 @@ class BuildData:
             val.sort()
         for _, val in self.seasons.items():
             val.sort()
-
+        self.transfersArray.sort()
 
     def combineTransfers(self):
+        transfersArray = []
         listOfFiles: list[str] = []
         dirName: str = self.dirName if self.dirName else "./data"
         for (dirpath, _, filenames) in os.walk(dirName):
@@ -112,7 +115,8 @@ class BuildData:
                     elif len(row) > 12:
                         row[5] = row[5] + "," + row[6]
                         row.remove(6)
-                    self.transfersArray.append(row)
+                    transfersArray.append(row)
+        return transfersArray
 
     def filter(self, club_name: str = None, player_name: str = None, season: str = None):
         if not club_name and not player_name and not season:
@@ -145,6 +149,7 @@ class BuildData:
 if __name__ == "__main__":
     bd = BuildData()
     bd.csv(club_name = "Admira Wacker")
+    bd.csv()
     # with open("clubNames.json", 'w', encoding="utf-8") as f:
     #     json.dump(bd.clubNames, f, ensure_ascii=False)
 
