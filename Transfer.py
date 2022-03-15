@@ -45,5 +45,6 @@ class Transfer:
         arr.append(str(self.fee))
         arr.append(("on loan" if self.isLoan else "sold"))
         arr.append(self.period)
+        arr.append(self.season.year)
         arr.append(self.season.season)
         return arr

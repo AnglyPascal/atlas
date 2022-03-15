@@ -132,7 +132,9 @@ class BuildData:
         fileName: str = "allTransfers" + ("_"+club_name if club_name else "") + \
                                          ("_"+player_name if player_name else "") + \
                                          ("_"+season if season else "") + ".csv"
-        arrayToPrint = [tf.toArray() for tf in filteredTransfersArray]
+        arrayToPrint = [["from club", "to club", "player name", "age", "position", "fee", 
+                         "transfer type", "period", "year", "season"]]
+        arrayToPrint.extend([tf.toArray() for tf in filteredTransfersArray]) 
         with open(fileName, 'w', newline='') as file:
             mywriter = csv.writer(file, delimiter=',')
             mywriter.writerows(arrayToPrint)
