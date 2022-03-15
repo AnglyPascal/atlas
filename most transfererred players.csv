@@ -1,413 +1,413 @@
 from club,to club,league,player name,age,position,fee,transfer type,period,year,season,tranfer between
-GD Ribeirão,SC Salgueiros,Liga Nos,João Pedro,9,Centre-Back,NA,sold,Winter,1997,1997/1998,local
-SC Salgueiros,CD Santa Clara,Liga Nos,João Pedro,14,Centre-Back,NA,sold,Summer,2002,2002/2003,local
-Boavista Y19,Boavista FC,Liga Nos,João Pedro,16,Centre-Back,NA,sold,Summer,2004,2004/2005,local
-Braga U19,SC Braga,Liga Nos,João Pedro,16,Centre-Back,NA,sold,Summer,2004,2004/2005,local
-Boavista FC,SC Beira-Mar,Liga Nos,João Pedro,17,Centre-Back,NA,on loan,Summer,2005,2005/2006,local
-Estoril Praia,Gil Vicente FC,Liga Nos,João Pedro,17,Centre-Back,NA,sold,Summer,2005,2005/2006,local
+GD Ribeirão,SC Salgueiros,Liga Nos,João Pedro,22,Centre-Back,NA,sold,Winter,1997,1997/1998,local
+SC Salgueiros,CD Santa Clara,Liga Nos,João Pedro,27,Centre-Back,NA,sold,Summer,2002,2002/2003,local
+Boavista Y19,Boavista FC,Liga Nos,João Pedro,19,Centre-Back,NA,sold,Summer,2004,2004/2005,local
+Braga U19,SC Braga,Liga Nos,João Pedro,18,Centre-Back,NA,sold,Summer,2004,2004/2005,local
+Boavista FC,SC Beira-Mar,Liga Nos,João Pedro,20,Centre-Back,NA,on loan,Summer,2005,2005/2006,local
+Estoril Praia,Gil Vicente FC,Liga Nos,João Pedro,24,Centre-Back,NA,sold,Summer,2005,2005/2006,local
 FC Porto U19,FC Porto,Liga Nos,João Pedro,17,Centre-Back,NA,sold,Summer,2005,2005/2006,local
-Boavista FC,União Lamas,Liga Nos,João Pedro,18,Centre-Back,NA,on loan,Summer,2006,2006/2007,local
-FC Porto,Portimonense SC,Liga Nos,João Pedro,18,Centre-Back,NA,on loan,Winter,2006,2006/2007,local
-SC Beira-Mar,Boavista FC,Liga Nos,João Pedro,18,Centre-Back,NA,on loan,Summer,2006,2006/2007,local
-SC Braga,FC Penafiel,Liga Nos,João Pedro,18,Centre-Back,NA,on loan,Summer,2006,2006/2007,local
-Boavista FC,ASIL Lysi,Liga Nos,João Pedro,19,Centre-Back,NA,sold,Summer,2007,2007/2008,local
-FC Penafiel,SC Braga,Liga Nos,João Pedro,19,Centre-Back,NA,on loan,Summer,2007,2007/2008,local
+Boavista FC,União Lamas,Liga Nos,João Pedro,21,Centre-Back,NA,on loan,Summer,2006,2006/2007,local
+FC Porto,Portimonense SC,Liga Nos,João Pedro,19,Centre-Back,NA,on loan,Winter,2006,2006/2007,local
+SC Beira-Mar,Boavista FC,Liga Nos,João Pedro,21,Centre-Back,NA,on loan,Summer,2006,2006/2007,local
+SC Braga,FC Penafiel,Liga Nos,João Pedro,20,Centre-Back,NA,on loan,Summer,2006,2006/2007,local
+Boavista FC,ASIL Lysi,Liga Nos,João Pedro,22,Centre-Back,NA,sold,Summer,2007,2007/2008,local
+FC Penafiel,SC Braga,Liga Nos,João Pedro,21,Centre-Back,NA,on loan,Summer,2007,2007/2008,local
 FC Porto,FC Penafiel,Liga Nos,João Pedro,19,Centre-Back,NA,on loan,Summer,2007,2007/2008,local
 Portimonense SC,FC Porto,Liga Nos,João Pedro,19,Centre-Back,NA,on loan,Summer,2007,2007/2008,local
-SC Braga,SC Beira-Mar,Liga Nos,João Pedro,19,Centre-Back,NA,on loan,Summer,2007,2007/2008,local
-União Lamas,Boavista FC,Liga Nos,João Pedro,19,Centre-Back,NA,on loan,Summer,2007,2007/2008,local
+SC Braga,SC Beira-Mar,Liga Nos,João Pedro,21,Centre-Back,NA,on loan,Summer,2007,2007/2008,local
+União Lamas,Boavista FC,Liga Nos,João Pedro,22,Centre-Back,NA,on loan,Summer,2007,2007/2008,local
 FC Penafiel,FC Porto,Liga Nos,João Pedro,20,Centre-Back,NA,on loan,Summer,2008,2008/2009,local
 FC Porto,Gloria Bistrita,Liga Nos,João Pedro,20,Centre-Back,NA,on loan,Summer,2008,2008/2009,local
-SC Beira-Mar,SC Braga,Liga Nos,João Pedro,20,Centre-Back,NA,on loan,Summer,2008,2008/2009,local
-SC Braga,União de Leiria,Liga Nos,João Pedro,20,Centre-Back,NA,sold,Summer,2008,2008/2009,local
+SC Beira-Mar,SC Braga,Liga Nos,João Pedro,22,Centre-Back,NA,on loan,Summer,2008,2008/2009,local
+SC Braga,União de Leiria,Liga Nos,João Pedro,22,Centre-Back,NA,sold,Summer,2008,2008/2009,local
 FC Porto,Portimonense SC,Liga Nos,João Pedro,21,Centre-Back,NA,sold,Summer,2009,2009/2010,local
 Gloria Bistrita,FC Porto,Liga Nos,João Pedro,21,Centre-Back,NA,on loan,Summer,2009,2009/2010,local
-Leixões SC,Retired,Liga Nos,João Pedro,21,Centre-Back,NA,sold,Summer,2009,2009/2010,international
-União de Leiria,Oliveirense,Liga Nos,João Pedro,21,Centre-Back,NA,sold,Summer,2009,2009/2010,local
-Atlético-MG,US Palermo,Serie A,João Pedro,22,Centre-Back,2.25M,sold,Summer,2010,2010/2011,international
-Oliveirense,Naval 1º de Maio,Liga Nos,João Pedro,22,Centre-Back,NA,sold,Summer,2010,2010/2011,local
+Leixões SC,Retired,Liga Nos,João Pedro,34,Centre-Back,NA,sold,Summer,2009,2009/2010,international
+União de Leiria,Oliveirense,Liga Nos,João Pedro,23,Centre-Back,NA,sold,Summer,2009,2009/2010,local
+Atlético-MG,US Palermo,Serie A,João Pedro,18,Centre-Back,2.25M,sold,Summer,2010,2010/2011,international
+Oliveirense,Naval 1º de Maio,Liga Nos,João Pedro,24,Centre-Back,NA,sold,Summer,2010,2010/2011,local
 Portimonense SC,Desportivo Aves,Liga Nos,João Pedro,22,Centre-Back,NA,sold,Summer,2010,2010/2011,local
-US Palermo,Vit. Guimarães,Serie A,João Pedro,22,Centre-Back,NA,on loan,Winter,2010,2010/2011,international
-US Palermo,Vitória Guimarães SC,Liga Nos,João Pedro,22,Centre-Back,NA,on loan,Winter,2010,2010/2011,international
-US Palermo,Peñarol,Serie A,João Pedro,23,Centre-Back,NA,on loan,Summer,2011,2011/2012,local
-Vitória Guimarães SC,US Palermo,Liga Nos,João Pedro,23,Centre-Back,NA,on loan,Summer,2011,2011/2012,international
+US Palermo,Vit. Guimarães,Serie A,João Pedro,18,Centre-Back,NA,on loan,Winter,2010,2010/2011,international
+US Palermo,Vitória Guimarães SC,Liga Nos,João Pedro,18,Centre-Back,NA,on loan,Winter,2010,2010/2011,international
+US Palermo,Peñarol,Serie A,João Pedro,19,Centre-Back,NA,on loan,Summer,2011,2011/2012,local
+Vitória Guimarães SC,US Palermo,Liga Nos,João Pedro,19,Centre-Back,NA,on loan,Summer,2011,2011/2012,international
 Desportivo Aves,GD Estoril Praia,Liga Nos,João Pedro,24,Centre-Back,NA,sold,Summer,2012,2012/2013,local
-Naval 1º de Maio,SC Braga,Liga Nos,João Pedro,24,Centre-Back,0.09M,sold,Winter,2012,2012/2013,local
-US Palermo,Desp. Brasil,Serie A,João Pedro,24,Centre-Back,NA,sold,Summer,2012,2012/2013,international
-Desp. Brasil,GD Estoril Praia,Liga Nos,João Pedro,25,Centre-Back,NA,on loan,Summer,2013,2013/2014,international
-Gil Vicente FC,FC Penafiel,Liga Nos,João Pedro,25,Centre-Back,NA,sold,Summer,2013,2013/2014,local
-SC Braga,Belenenses SAD,Liga Nos,João Pedro,25,Centre-Back,NA,on loan,Summer,2013,2013/2014,local
-Belenenses SAD,SC Braga,Liga Nos,João Pedro,26,Centre-Back,NA,on loan,Summer,2014,2014/2015,local
-Desp. Brasil,GD Estoril Praia,Liga Nos,João Pedro,26,Centre-Back,NA,sold,Summer,2014,2014/2015,international
-Estoril Praia,Cagliari Calcio,Serie A,João Pedro,26,Centre-Back,1.17M,sold,Summer,2014,2014/2015,international
+Naval 1º de Maio,SC Braga,Liga Nos,João Pedro,26,Centre-Back,0.09M,sold,Winter,2012,2012/2013,local
+US Palermo,Desp. Brasil,Serie A,João Pedro,20,Centre-Back,NA,sold,Summer,2012,2012/2013,international
+Desp. Brasil,GD Estoril Praia,Liga Nos,João Pedro,21,Centre-Back,NA,on loan,Summer,2013,2013/2014,international
+Gil Vicente FC,FC Penafiel,Liga Nos,João Pedro,32,Centre-Back,NA,sold,Summer,2013,2013/2014,local
+SC Braga,Belenenses SAD,Liga Nos,João Pedro,27,Centre-Back,NA,on loan,Summer,2013,2013/2014,local
+Belenenses SAD,SC Braga,Liga Nos,João Pedro,28,Centre-Back,NA,on loan,Summer,2014,2014/2015,local
+Desp. Brasil,GD Estoril Praia,Liga Nos,João Pedro,22,Centre-Back,NA,sold,Summer,2014,2014/2015,international
+Estoril Praia,Cagliari Calcio,Serie A,João Pedro,22,Centre-Back,1.17M,sold,Summer,2014,2014/2015,international
 Estoril Praia,FC Penafiel,Liga Nos,João Pedro,26,Centre-Back,NA,sold,Summer,2014,2014/2015,local
-FC Penafiel,FC Famalicão,Liga Nos,João Pedro,26,Centre-Back,NA,sold,Summer,2014,2014/2015,local
-FC Penafiel,Moreirense FC,Liga Nos,João Pedro,26,Centre-Back,NA,sold,Winter,2014,2014/2015,local
-GD Estoril Praia,Cagliari Calcio,Liga Nos,João Pedro,26,Centre-Back,1.17M,sold,Summer,2014,2014/2015,international
-GD Estoril Praia,Desp. Brasil,Liga Nos,João Pedro,26,Centre-Back,NA,on loan,Summer,2014,2014/2015,international
+FC Penafiel,FC Famalicão,Liga Nos,João Pedro,33,Centre-Back,NA,sold,Summer,2014,2014/2015,local
+FC Penafiel,Moreirense FC,Liga Nos,João Pedro,27,Centre-Back,NA,sold,Winter,2014,2014/2015,local
+GD Estoril Praia,Cagliari Calcio,Liga Nos,João Pedro,22,Centre-Back,1.17M,sold,Summer,2014,2014/2015,international
+GD Estoril Praia,Desp. Brasil,Liga Nos,João Pedro,22,Centre-Back,NA,on loan,Summer,2014,2014/2015,international
 GD Estoril Praia,FC Penafiel,Liga Nos,João Pedro,26,Centre-Back,NA,sold,Summer,2014,2014/2015,local
-SC Braga,Moreirense FC,Liga Nos,João Pedro,26,Centre-Back,NA,on loan,Summer,2014,2014/2015,local
-Guimarães B,Vitória Guimarães SC,Liga Nos,João Pedro,27,Centre-Back,NA,sold,Summer,2015,2015/2016,local
+SC Braga,Moreirense FC,Liga Nos,João Pedro,28,Centre-Back,NA,on loan,Summer,2014,2014/2015,local
+Guimarães B,Vitória Guimarães SC,Liga Nos,João Pedro,22,Centre-Back,NA,sold,Summer,2015,2015/2016,local
 Moreirense FC,FC Famalicão,Liga Nos,João Pedro,27,Centre-Back,NA,sold,Summer,2015,2015/2016,local
-Moreirense FC,SC Braga,Liga Nos,João Pedro,27,Centre-Back,NA,on loan,Summer,2015,2015/2016,local
-SC Braga,Apol. Limassol,Liga Nos,João Pedro,27,Centre-Back,NA,on loan,Summer,2015,2015/2016,local
-Apol. Limassol,SC Braga,Liga Nos,João Pedro,28,Centre-Back,NA,on loan,Summer,2016,2016/2017,local
-SC Braga,Apol. Limassol,Liga Nos,João Pedro,28,Centre-Back,NA,sold,Summer,2016,2016/2017,local
-Vitória Guimarães SC,Los Angeles,Liga Nos,João Pedro,28,Centre-Back,1.31M,sold,Winter,2016,2016/2017,international
+Moreirense FC,SC Braga,Liga Nos,João Pedro,29,Centre-Back,NA,on loan,Summer,2015,2015/2016,local
+SC Braga,Apol. Limassol,Liga Nos,João Pedro,29,Centre-Back,NA,on loan,Summer,2015,2015/2016,local
+Apol. Limassol,SC Braga,Liga Nos,João Pedro,30,Centre-Back,NA,on loan,Summer,2016,2016/2017,local
+SC Braga,Apol. Limassol,Liga Nos,João Pedro,30,Centre-Back,NA,sold,Summer,2016,2016/2017,local
+Vitória Guimarães SC,Los Angeles,Liga Nos,João Pedro,23,Centre-Back,1.31M,sold,Winter,2016,2016/2017,international
 Desportivo Aves,CD Santa Clara,Liga Nos,João Pedro,29,Centre-Back,NA,sold,Summer,2017,2017/2018,local
 CD Santa Clara,Estoril Praia,Liga Nos,João Pedro,30,Centre-Back,NA,sold,Summer,2018,2018/2019,local
-FC Porto,FC Porto B,Liga Nos,João Pedro,30,Centre-Back,NA,sold,Winter,2018,2018/2019,local
-Los Angeles,CD Tondela,Liga Nos,João Pedro,30,Centre-Back,NA,on loan,Winter,2018,2018/2019,international
-Palmeiras,FC Porto,Liga Nos,João Pedro,30,Centre-Back,3.6M,sold,Summer,2018,2018/2019,international
-CD Tondela,Los Angeles,Liga Nos,João Pedro,31,Centre-Back,NA,on loan,Winter,2019,2019/2020,international
-Fluminense,Watford FC,Premier League,João Pedro,31,Centre-Back,3.6M,sold,Winter,2019,2019/2020,international
-Guimarães B,Vitória Guimarães SC,Liga Nos,João Pedro,31,Centre-Back,NA,sold,Winter,2019,2019/2020,local
-Los Angeles,CD Tondela,Liga Nos,João Pedro,31,Centre-Back,NA,sold,Winter,2019,2019/2020,international
-Vit. Guimarães,FC Paços de Ferreira,Liga Nos,João Pedro,32,Centre-Back,NA,sold,Summer,2020,2020/2021,local
-Vitória Guimarães SC,Paços Ferreira,Liga Nos,João Pedro,32,Centre-Back,NA,sold,Summer,2020,2020/2021,local
-FC Vizela,Retired,Liga Nos,João Pedro,33,Centre-Back,NA,sold,Summer,2021,2021/2022,international
-Real Madrid C,Real Valladolid CF,Primera Division,Fernando,16,Attacking Midfield,NA,sold,Summer,1995,1995/1996,local
-SD Huesca,SC Farense,Liga Nos,Fernando,17,Attacking Midfield,NA,sold,Summer,1996,1996/1997,international
-Real Valladolid CF,Real Betis Balompié,Primera Division,Fernando,18,Attacking Midfield,NA,sold,Summer,1997,1997/1998,local
-SC Farense,Terrassa FC,Liga Nos,Fernando,18,Attacking Midfield,NA,sold,Summer,1997,1997/1998,international
-Valencia CF,Wolves,Primera Division,Fernando,19,Attacking Midfield,NA,sold,Summer,1998,1998/1999,international
-Real Betis Balompié,Dep. La Coruña,Primera Division,Fernando,20,Attacking Midfield,NA,sold,Summer,1999,1999/2000,local
-Real Betis Balompié,Deportivo de La Coruña,Primera Division,Fernando,20,Attacking Midfield,NA,sold,Summer,1999,1999/2000,local
+FC Porto,FC Porto B,Liga Nos,João Pedro,22,Centre-Back,NA,sold,Winter,2018,2018/2019,local
+Los Angeles,CD Tondela,Liga Nos,João Pedro,25,Centre-Back,NA,on loan,Winter,2018,2018/2019,international
+Palmeiras,FC Porto,Liga Nos,João Pedro,21,Centre-Back,3.6M,sold,Summer,2018,2018/2019,international
+CD Tondela,Los Angeles,Liga Nos,João Pedro,26,Centre-Back,NA,on loan,Winter,2019,2019/2020,international
+Fluminense,Watford FC,Premier League,João Pedro,18,Centre-Back,3.6M,sold,Winter,2019,2019/2020,international
+Guimarães B,Vitória Guimarães SC,Liga Nos,João Pedro,23,Centre-Back,NA,sold,Winter,2019,2019/2020,local
+Los Angeles,CD Tondela,Liga Nos,João Pedro,26,Centre-Back,NA,sold,Winter,2019,2019/2020,international
+Vit. Guimarães,FC Paços de Ferreira,Liga Nos,João Pedro,23,Centre-Back,NA,sold,Summer,2020,2020/2021,local
+Vitória Guimarães SC,Paços Ferreira,Liga Nos,João Pedro,23,Centre-Back,NA,sold,Summer,2020,2020/2021,local
+FC Vizela,Retired,Liga Nos,João Pedro,31,Centre-Back,NA,sold,Summer,2021,2021/2022,international
+Real Madrid C,Real Valladolid CF,Primera Division,Fernando,23,Attacking Midfield,NA,sold,Summer,1995,1995/1996,local
+SD Huesca,SC Farense,Liga Nos,Fernando,28,Attacking Midfield,NA,sold,Summer,1996,1996/1997,international
+Real Valladolid CF,Real Betis Balompié,Primera Division,Fernando,25,Attacking Midfield,NA,sold,Summer,1997,1997/1998,local
+SC Farense,Terrassa FC,Liga Nos,Fernando,29,Attacking Midfield,NA,sold,Summer,1997,1997/1998,international
+Valencia CF,Wolves,Primera Division,Fernando,32,Attacking Midfield,NA,sold,Summer,1998,1998/1999,international
+Real Betis Balompié,Dep. La Coruña,Primera Division,Fernando,27,Attacking Midfield,NA,sold,Summer,1999,1999/2000,local
+Real Betis Balompié,Deportivo de La Coruña,Primera Division,Fernando,27,Attacking Midfield,NA,sold,Summer,1999,1999/2000,local
 Real Madrid B,Real Madrid,Primera Division,Fernando,20,Attacking Midfield,NA,sold,Winter,1999,1999/2000,local
-Marítimo B,CS Marítimo,Liga Nos,Fernando,21,Attacking Midfield,NA,sold,Summer,2000,2000/2001,local
+Marítimo B,CS Marítimo,Liga Nos,Fernando,19,Attacking Midfield,NA,sold,Summer,2000,2000/2001,local
 Real Madrid,Real Valladolid CF,Primera Division,Fernando,21,Attacking Midfield,NA,on loan,Summer,2000,2000/2001,local
-Dep. La Coruña,CA Osasuna,Primera Division,Fernando,22,Attacking Midfield,NA,on loan,Summer,2001,2001/2002,local
-Deportivo de La Coruña,CA Osasuna,Primera Division,Fernando,22,Attacking Midfield,NA,on loan,Summer,2001,2001/2002,local
+Dep. La Coruña,CA Osasuna,Primera Division,Fernando,29,Attacking Midfield,NA,on loan,Summer,2001,2001/2002,local
+Deportivo de La Coruña,CA Osasuna,Primera Division,Fernando,29,Attacking Midfield,NA,on loan,Summer,2001,2001/2002,local
 Real Valladolid CF,Real Madrid,Primera Division,Fernando,22,Attacking Midfield,NA,on loan,Summer,2001,2001/2002,local
-Anápolis-GO,Varzim SC,Liga Nos,Fernando,23,Attacking Midfield,NA,sold,Summer,2002,2002/2003,local
-CA Osasuna,Dep. La Coruña,Primera Division,Fernando,23,Attacking Midfield,NA,on loan,Summer,2002,2002/2003,local
-CA Osasuna,Deportivo de La Coruña,Primera Division,Fernando,23,Attacking Midfield,NA,on loan,Summer,2002,2002/2003,local
-Dep. La Coruña,Hannover 96,1 Bundesliga,Fernando,23,Attacking Midfield,NA,on loan,Summer,2002,2002/2003,international
-Deportivo de La Coruña,Hannover 96,Primera Division,Fernando,23,Attacking Midfield,NA,on loan,Summer,2002,2002/2003,international
+Anápolis-GO,Varzim SC,Liga Nos,Fernando,21,Attacking Midfield,NA,sold,Summer,2002,2002/2003,local
+CA Osasuna,Dep. La Coruña,Primera Division,Fernando,30,Attacking Midfield,NA,on loan,Summer,2002,2002/2003,local
+CA Osasuna,Deportivo de La Coruña,Primera Division,Fernando,30,Attacking Midfield,NA,on loan,Summer,2002,2002/2003,local
+Dep. La Coruña,Hannover 96,1 Bundesliga,Fernando,30,Attacking Midfield,NA,on loan,Summer,2002,2002/2003,international
+Deportivo de La Coruña,Hannover 96,Primera Division,Fernando,30,Attacking Midfield,NA,on loan,Summer,2002,2002/2003,international
 Real Madrid,Real Betis Balompié,Primera Division,Fernando,23,Attacking Midfield,NA,sold,Summer,2002,2002/2003,local
-Deportivo de La Coruña,Córdoba CF,Primera Division,Fernando,24,Attacking Midfield,NA,on loan,Summer,2003,2003/2004,local
-Flamengo,TSV 1860 Munich,1 Bundesliga,Fernando,24,Attacking Midfield,1.08M,sold,Winter,2003,2003/2004,international
-Hannover 96,Dep. La Coruña,1 Bundesliga,Fernando,24,Attacking Midfield,NA,on loan,Summer,2003,2003/2004,international
-Hannover 96,Deportivo de La Coruña,Primera Division,Fernando,24,Attacking Midfield,NA,on loan,Summer,2003,2003/2004,international
-Juventude,AC Siena,Serie A,Fernando,24,Attacking Midfield,NA,sold,Summer,2003,2003/2004,international
-AC Siena,Calcio Catania,Serie A,Fernando,25,Attacking Midfield,NA,on loan,Winter,2004,2004/2005,local
-Córdoba CF,Deportivo de La Coruña,Primera Division,Fernando,25,Attacking Midfield,NA,on loan,Summer,2004,2004/2005,local
-Deportivo de La Coruña,Retired,Primera Division,Fernando,25,Attacking Midfield,NA,sold,Summer,2004,2004/2005,international
-Varzim SC,Moreirense FC,Liga Nos,Fernando,25,Attacking Midfield,NA,sold,Summer,2004,2004/2005,local
-AC Siena,FC Girondins Bordeaux,Ligue 1,Fernando,26,Attacking Midfield,NA,on loan,Summer,2005,2005/2006,international
-AC Siena,G. Bordeaux B,Serie A,Fernando,26,Attacking Midfield,NA,on loan,Summer,2005,2005/2006,international
-Moreirense FC,Académica Coimbra,Liga Nos,Fernando,26,Attacking Midfield,0.36M,sold,Summer,2005,2005/2006,local
-AC Siena,FC Girondins Bordeaux,Ligue 1,Fernando,27,Attacking Midfield,NA,sold,Summer,2006,2006/2007,international
-AC Siena,G. Bordeaux B,Serie A,Fernando,27,Attacking Midfield,NA,sold,Summer,2006,2006/2007,international
-Académica Coimbra,Belenenses SAD,Liga Nos,Fernando,27,Attacking Midfield,NA,sold,Summer,2006,2006/2007,local
-FC Girondins Bordeaux,AC Siena,Ligue 1,Fernando,27,Attacking Midfield,NA,on loan,Summer,2006,2006/2007,international
-FC Porto,CF Estrela Amadora SAD,Liga Nos,Fernando,28,Attacking Midfield,NA,on loan,Summer,2007,2007/2008,local
-FC Porto,Clube Futebol Estrela da Amadora,Liga Nos,Fernando,28,Attacking Midfield,NA,on loan,Summer,2007,2007/2008,local
-Naval 1º de Maio,SC Beira-Mar,Liga Nos,Fernando,28,Attacking Midfield,NA,on loan,Summer,2007,2007/2008,local
-Vila Nova FC,FC Porto,Liga Nos,Fernando,28,Attacking Midfield,0.648M,sold,Summer,2007,2007/2008,local
-Without Club,MSV Duisburg,1 Bundesliga,Fernando,28,Attacking Midfield,NA,sold,Summer,2007,2007/2008,international
-CF Estrela Amadora SAD,FC Porto,Liga Nos,Fernando,29,Attacking Midfield,NA,on loan,Summer,2008,2008/2009,local
-Clube Futebol Estrela da Amadora,FC Porto,Liga Nos,Fernando,29,Attacking Midfield,NA,on loan,Summer,2008,2008/2009,local
-Naval 1º de Maio,Without Club,Liga Nos,Fernando,29,Attacking Midfield,NA,sold,Summer,2008,2008/2009,international
+Deportivo de La Coruña,Córdoba CF,Primera Division,Fernando,31,Attacking Midfield,NA,on loan,Summer,2003,2003/2004,local
+Flamengo,TSV 1860 Munich,1 Bundesliga,Fernando,23,Attacking Midfield,1.08M,sold,Winter,2003,2003/2004,international
+Hannover 96,Dep. La Coruña,1 Bundesliga,Fernando,31,Attacking Midfield,NA,on loan,Summer,2003,2003/2004,international
+Hannover 96,Deportivo de La Coruña,Primera Division,Fernando,31,Attacking Midfield,NA,on loan,Summer,2003,2003/2004,international
+Juventude,AC Siena,Serie A,Fernando,22,Attacking Midfield,NA,sold,Summer,2003,2003/2004,international
+AC Siena,Calcio Catania,Serie A,Fernando,23,Attacking Midfield,NA,on loan,Winter,2004,2004/2005,local
+Córdoba CF,Deportivo de La Coruña,Primera Division,Fernando,32,Attacking Midfield,NA,on loan,Summer,2004,2004/2005,local
+Deportivo de La Coruña,Retired,Primera Division,Fernando,32,Attacking Midfield,NA,sold,Summer,2004,2004/2005,international
+Varzim SC,Moreirense FC,Liga Nos,Fernando,23,Attacking Midfield,NA,sold,Summer,2004,2004/2005,local
+AC Siena,FC Girondins Bordeaux,Ligue 1,Fernando,24,Attacking Midfield,NA,on loan,Summer,2005,2005/2006,international
+AC Siena,G. Bordeaux B,Serie A,Fernando,24,Attacking Midfield,NA,on loan,Summer,2005,2005/2006,international
+Moreirense FC,Académica Coimbra,Liga Nos,Fernando,24,Attacking Midfield,0.36M,sold,Summer,2005,2005/2006,local
+AC Siena,FC Girondins Bordeaux,Ligue 1,Fernando,25,Attacking Midfield,NA,sold,Summer,2006,2006/2007,international
+AC Siena,G. Bordeaux B,Serie A,Fernando,25,Attacking Midfield,NA,sold,Summer,2006,2006/2007,international
+Académica Coimbra,Belenenses SAD,Liga Nos,Fernando,25,Attacking Midfield,NA,sold,Summer,2006,2006/2007,local
+FC Girondins Bordeaux,AC Siena,Ligue 1,Fernando,25,Attacking Midfield,NA,on loan,Summer,2006,2006/2007,international
+FC Porto,CF Estrela Amadora SAD,Liga Nos,Fernando,20,Attacking Midfield,NA,on loan,Summer,2007,2007/2008,local
+FC Porto,Clube Futebol Estrela da Amadora,Liga Nos,Fernando,20,Attacking Midfield,NA,on loan,Summer,2007,2007/2008,local
+Naval 1º de Maio,SC Beira-Mar,Liga Nos,Fernando,33,Attacking Midfield,NA,on loan,Summer,2007,2007/2008,local
+Vila Nova FC,FC Porto,Liga Nos,Fernando,19,Attacking Midfield,0.648M,sold,Summer,2007,2007/2008,local
+Without Club,MSV Duisburg,1 Bundesliga,Fernando,27,Attacking Midfield,NA,sold,Summer,2007,2007/2008,international
+CF Estrela Amadora SAD,FC Porto,Liga Nos,Fernando,20,Attacking Midfield,NA,on loan,Summer,2008,2008/2009,local
+Clube Futebol Estrela da Amadora,FC Porto,Liga Nos,Fernando,20,Attacking Midfield,NA,on loan,Summer,2008,2008/2009,local
+Naval 1º de Maio,Without Club,Liga Nos,Fernando,34,Attacking Midfield,NA,sold,Summer,2008,2008/2009,international
 Real Betis Balompié,Málaga CF,Primera Division,Fernando,29,Attacking Midfield,NA,sold,Summer,2008,2008/2009,local
-SC Beira-Mar,Naval 1º de Maio,Liga Nos,Fernando,29,Attacking Midfield,NA,on loan,Summer,2008,2008/2009,local
-CS Marítimo,C.R.D. Libolo,Liga Nos,Fernando,31,Attacking Midfield,NA,sold,Winter,2010,2010/2011,local
-FC Girondins Bordeaux,Shabab,Ligue 1,Fernando,32,Attacking Midfield,5.4M,sold,Summer,2011,2011/2012,international
+SC Beira-Mar,Naval 1º de Maio,Liga Nos,Fernando,34,Attacking Midfield,NA,on loan,Summer,2008,2008/2009,local
+CS Marítimo,C.R.D. Libolo,Liga Nos,Fernando,30,Attacking Midfield,NA,sold,Winter,2010,2010/2011,local
+FC Girondins Bordeaux,Shabab,Ligue 1,Fernando,30,Attacking Midfield,5.4M,sold,Summer,2011,2011/2012,international
 Málaga CF,Without Club,Primera Division,Fernando,32,Attacking Midfield,NA,sold,Summer,2011,2011/2012,international
-FC Porto,Man City,Liga Nos,Fernando,35,Attacking Midfield,13.5M,sold,Summer,2014,2014/2015,international
-FC Porto,Manchester City,Premier League,Fernando,35,Attacking Midfield,13.5M,sold,Summer,2014,2014/2015,international
-Shakhtar D.,UC Sampdoria,Serie A,Fernando,36,Attacking Midfield,7.2M,sold,Summer,2015,2015/2016,international
-UC Sampdoria,Spartak Moscow,Premier Liga,Fernando,37,Attacking Midfield,11.25M,sold,Summer,2016,2016/2017,international
-Manchester City,Galatasaray,Premier League,Fernando,38,Attacking Midfield,5.4M,sold,Summer,2017,2017/2018,international
-BJ Guoan,Spartak Moscow,Premier Liga,Fernando,40,Attacking Midfield,NA,on loan,Winter,2019,2019/2020,international
-Galatasaray,Sevilla FC,Primera Division,Fernando,40,Attacking Midfield,4.05M,sold,Summer,2019,2019/2020,international
-Shakhtar D.,Sporting CP,Liga Nos,Fernando,40,Attacking Midfield,NA,on loan,Summer,2019,2019/2020,local
-Spartak Moscow,BJ Guoan,Premier Liga,Fernando,40,Attacking Midfield,4.86M,on loan,Summer,2019,2019/2020,international
-Spartak Moscow,BJ Guoan,Premier Liga,Fernando,40,Attacking Midfield,8.64M,sold,Winter,2019,2019/2020,international
-Sporting CP,Shakhtar D.,Liga Nos,Fernando,40,Attacking Midfield,NA,on loan,Winter,2019,2019/2020,local
-Juventus FC,Bor. Dortmund,Serie A,Júlio César,10,Defensive Midfield,1.13M,sold,Summer,1994,1994/1995,local
-Juventus FC,Borussia Dortmund,1 Bundesliga,Júlio César,10,Defensive Midfield,1.13M,sold,Summer,1994,1994/1995,international
-Marathón,Real Valladolid CF,Primera Division,Júlio César,12,Defensive Midfield,NA,sold,Summer,1996,1996/1997,international
-Borussia Dortmund,Botafogo,1 Bundesliga,Júlio César,14,Defensive Midfield,0.225M,on loan,Summer,1998,1998/1999,international
-Borussia Dortmund,Panathinaikos,1 Bundesliga,Júlio César,14,Defensive Midfield,NA,sold,Winter,1998,1998/1999,international
-Botafogo,Borussia Dortmund,1 Bundesliga,Júlio César,14,Defensive Midfield,NA,on loan,Winter,1998,1998/1999,international
-Panathinaikos,SV Werder Bremen,1 Bundesliga,Júlio César,15,Defensive Midfield,NA,sold,Summer,1999,1999/2000,international
-Real Valladolid CF,Real Madrid,Primera Division,Júlio César,15,Defensive Midfield,NA,sold,Summer,1999,1999/2000,local
-Milan AC,Real Madrid,Primera Division,Júlio César,16,Defensive Midfield,NA,on loan,Winter,2000,2000/2001,international
-Real Madrid,Milan AC,Serie A,Júlio César,16,Defensive Midfield,NA,on loan,Summer,2000,2000/2001,international
-Real Madrid,Milan AC,Serie A,Júlio César,16,Defensive Midfield,NA,on loan,Winter,2000,2000/2001,international
-Real Madrid,Real Sociedad,Primera Division,Júlio César,16,Defensive Midfield,NA,on loan,Winter,2000,2000/2001,local
-SV Werder Bremen,América-RN,1 Bundesliga,Júlio César,16,Defensive Midfield,NA,sold,Summer,2000,2000/2001,international
-Campinense-PB,FC Paços de Ferreira,Liga Nos,Júlio César,17,Defensive Midfield,NA,sold,Summer,2001,2001/2002,local
-Real Madrid,SL Benfica,Primera Division,Júlio César,17,Defensive Midfield,NA,sold,Summer,2001,2001/2002,international
-Real Sociedad,Real Madrid,Primera Division,Júlio César,17,Defensive Midfield,NA,on loan,Summer,2001,2001/2002,local
-Fluminense,Lokomotiv Moscow,Premier Liga,Júlio César,18,Defensive Midfield,NA,sold,all-year,2002,2002/2003,international
-SL Benfica,Austria Vienna,Liga Nos,Júlio César,18,Defensive Midfield,NA,sold,Summer,2002,2002/2003,international
-Austria Vienna,Real Valladolid CF,Primera Division,Júlio César,19,Defensive Midfield,NA,sold,Summer,2003,2003/2004,international
-FC Paços de Ferreira,Sanjoanense,Liga Nos,Júlio César,19,Defensive Midfield,NA,sold,Summer,2003,2003/2004,local
-Loko Moscow,CF Estrela Amadora SAD,Liga Nos,Júlio César,19,Defensive Midfield,NA,sold,Summer,2003,2003/2004,international
-Lokomotiv Moscow,CF Estrela Amadora SAD,Premier Liga,Júlio César,19,Defensive Midfield,NA,sold,all-year,2003,2003/2004,international
-CF Estrela Amadora SAD,Gil Vicente FC,Liga Nos,Júlio César,20,Defensive Midfield,NA,sold,Summer,2004,2004/2005,local
-Chievo Verona,FC Internazionale,Serie A,Júlio César,20,Defensive Midfield,NA,on loan,Summer,2004,2004/2005,local
-FC Internazionale,Chievo Verona,Serie A,Júlio César,20,Defensive Midfield,NA,on loan,Winter,2004,2004/2005,local
-Flamengo,FC Internazionale,Serie A,Júlio César,20,Defensive Midfield,2.21M,sold,Winter,2004,2004/2005,international
-Gil Vicente FC,AEK Athens,Liga Nos,Júlio César,20,Defensive Midfield,0.486M,sold,Winter,2004,2004/2005,international
-Real Valladolid CF,Bolton Wanderers,Premier League,Júlio César,20,Defensive Midfield,NA,sold,Summer,2004,2004/2005,international
-Bolton Wanderers,Tigres UANL,Premier League,Júlio César,21,Defensive Midfield,NA,sold,Summer,2005,2005/2006,international
+FC Porto,Man City,Liga Nos,Fernando,26,Attacking Midfield,13.5M,sold,Summer,2014,2014/2015,international
+FC Porto,Manchester City,Premier League,Fernando,26,Attacking Midfield,13.5M,sold,Summer,2014,2014/2015,international
+Shakhtar D.,UC Sampdoria,Serie A,Fernando,23,Attacking Midfield,7.2M,sold,Summer,2015,2015/2016,international
+UC Sampdoria,Spartak Moscow,Premier Liga,Fernando,24,Attacking Midfield,11.25M,sold,Summer,2016,2016/2017,international
+Manchester City,Galatasaray,Premier League,Fernando,30,Attacking Midfield,5.4M,sold,Summer,2017,2017/2018,international
+BJ Guoan,Spartak Moscow,Premier Liga,Fernando,27,Attacking Midfield,NA,on loan,Winter,2019,2019/2020,international
+Galatasaray,Sevilla FC,Primera Division,Fernando,31,Attacking Midfield,4.05M,sold,Summer,2019,2019/2020,international
+Shakhtar D.,Sporting CP,Liga Nos,Fernando,20,Attacking Midfield,NA,on loan,Summer,2019,2019/2020,local
+Spartak Moscow,BJ Guoan,Premier Liga,Fernando,27,Attacking Midfield,4.86M,on loan,Summer,2019,2019/2020,international
+Spartak Moscow,BJ Guoan,Premier Liga,Fernando,27,Attacking Midfield,8.64M,sold,Winter,2019,2019/2020,international
+Sporting CP,Shakhtar D.,Liga Nos,Fernando,20,Attacking Midfield,NA,on loan,Winter,2019,2019/2020,local
+Juventus FC,Bor. Dortmund,Serie A,Júlio César,31,Defensive Midfield,1.13M,sold,Summer,1994,1994/1995,local
+Juventus FC,Borussia Dortmund,1 Bundesliga,Júlio César,31,Defensive Midfield,1.13M,sold,Summer,1994,1994/1995,international
+Marathón,Real Valladolid CF,Primera Division,Júlio César,17,Defensive Midfield,NA,sold,Summer,1996,1996/1997,international
+Borussia Dortmund,Botafogo,1 Bundesliga,Júlio César,35,Defensive Midfield,0.225M,on loan,Summer,1998,1998/1999,international
+Borussia Dortmund,Panathinaikos,1 Bundesliga,Júlio César,35,Defensive Midfield,NA,sold,Winter,1998,1998/1999,international
+Botafogo,Borussia Dortmund,1 Bundesliga,Júlio César,35,Defensive Midfield,NA,on loan,Winter,1998,1998/1999,international
+Panathinaikos,SV Werder Bremen,1 Bundesliga,Júlio César,36,Defensive Midfield,NA,sold,Summer,1999,1999/2000,international
+Real Valladolid CF,Real Madrid,Primera Division,Júlio César,20,Defensive Midfield,NA,sold,Summer,1999,1999/2000,local
+Milan AC,Real Madrid,Primera Division,Júlio César,22,Defensive Midfield,NA,on loan,Winter,2000,2000/2001,international
+Real Madrid,Milan AC,Serie A,Júlio César,21,Defensive Midfield,NA,on loan,Summer,2000,2000/2001,international
+Real Madrid,Milan AC,Serie A,Júlio César,21,Defensive Midfield,NA,on loan,Winter,2000,2000/2001,international
+Real Madrid,Real Sociedad,Primera Division,Júlio César,22,Defensive Midfield,NA,on loan,Winter,2000,2000/2001,local
+SV Werder Bremen,América-RN,1 Bundesliga,Júlio César,37,Defensive Midfield,NA,sold,Summer,2000,2000/2001,international
+Campinense-PB,FC Paços de Ferreira,Liga Nos,Júlio César,21,Defensive Midfield,NA,sold,Summer,2001,2001/2002,local
+Real Madrid,SL Benfica,Primera Division,Júlio César,22,Defensive Midfield,NA,sold,Summer,2001,2001/2002,international
+Real Sociedad,Real Madrid,Primera Division,Júlio César,22,Defensive Midfield,NA,on loan,Summer,2001,2001/2002,local
+Fluminense,Lokomotiv Moscow,Premier Liga,Júlio César,22,Defensive Midfield,NA,sold,all-year,2002,2002/2003,international
+SL Benfica,Austria Vienna,Liga Nos,Júlio César,23,Defensive Midfield,NA,sold,Summer,2002,2002/2003,international
+Austria Vienna,Real Valladolid CF,Primera Division,Júlio César,24,Defensive Midfield,NA,sold,Summer,2003,2003/2004,international
+FC Paços de Ferreira,Sanjoanense,Liga Nos,Júlio César,23,Defensive Midfield,NA,sold,Summer,2003,2003/2004,local
+Loko Moscow,CF Estrela Amadora SAD,Liga Nos,Júlio César,23,Defensive Midfield,NA,sold,Summer,2003,2003/2004,international
+Lokomotiv Moscow,CF Estrela Amadora SAD,Premier Liga,Júlio César,23,Defensive Midfield,NA,sold,all-year,2003,2003/2004,international
+CF Estrela Amadora SAD,Gil Vicente FC,Liga Nos,Júlio César,24,Defensive Midfield,NA,sold,Summer,2004,2004/2005,local
+Chievo Verona,FC Internazionale,Serie A,Júlio César,25,Defensive Midfield,NA,on loan,Summer,2004,2004/2005,local
+FC Internazionale,Chievo Verona,Serie A,Júlio César,25,Defensive Midfield,NA,on loan,Winter,2004,2004/2005,local
+Flamengo,FC Internazionale,Serie A,Júlio César,25,Defensive Midfield,2.21M,sold,Winter,2004,2004/2005,international
+Gil Vicente FC,AEK Athens,Liga Nos,Júlio César,24,Defensive Midfield,0.486M,sold,Winter,2004,2004/2005,international
+Real Valladolid CF,Bolton Wanderers,Premier League,Júlio César,25,Defensive Midfield,NA,sold,Summer,2004,2004/2005,international
+Bolton Wanderers,Tigres UANL,Premier League,Júlio César,26,Defensive Midfield,NA,sold,Summer,2005,2005/2006,international
 CA Valdevez,Académica Coimbra,Liga Nos,Júlio César,24,Defensive Midfield,0.018M,sold,Winter,2008,2008/2009,local
-Académica Coimbra,Desportivo Aves,Liga Nos,Júlio César,25,Defensive Midfield,NA,on loan,Summer,2009,2009/2010,local
-Belenenses SAD,SL Benfica,Liga Nos,Júlio César,25,Defensive Midfield,0.45M,sold,Summer,2009,2009/2010,local
-CS Marítimo,Without Club,Liga Nos,Júlio César,26,Defensive Midfield,NA,sold,Winter,2010,2010/2011,international
-Without Club,CS Marítimo,Liga Nos,Júlio César,26,Defensive Midfield,NA,sold,Summer,2010,2010/2011,international
+Académica Coimbra,Desportivo Aves,Liga Nos,Júlio César,24,Defensive Midfield,NA,on loan,Summer,2009,2009/2010,local
+Belenenses SAD,SL Benfica,Liga Nos,Júlio César,22,Defensive Midfield,0.45M,sold,Summer,2009,2009/2010,local
+CS Marítimo,Without Club,Liga Nos,Júlio César,32,Defensive Midfield,NA,sold,Winter,2010,2010/2011,international
+Without Club,CS Marítimo,Liga Nos,Júlio César,31,Defensive Midfield,NA,sold,Summer,2010,2010/2011,international
 Académica Coimbra,Moreirense FC,Liga Nos,Júlio César,27,Defensive Midfield,NA,sold,Winter,2011,2011/2012,local
-Desportivo Aves,Académica Coimbra,Liga Nos,Júlio César,27,Defensive Midfield,NA,on loan,Summer,2011,2011/2012,local
-SL Benfica,Granada CF,Primera Division,Júlio César,27,Defensive Midfield,NA,on loan,Summer,2011,2011/2012,international
-FC Internazionale,QPR U18,Serie A,Júlio César,28,Defensive Midfield,NA,sold,Summer,2012,2012/2013,international
-FC Internazionale,Queens Park Rangers,Premier League,Júlio César,28,Defensive Midfield,NA,sold,Summer,2012,2012/2013,international
-Granada CF,Benfica B,Primera Division,Júlio César,28,Defensive Midfield,NA,on loan,Summer,2012,2012/2013,international
+Desportivo Aves,Académica Coimbra,Liga Nos,Júlio César,26,Defensive Midfield,NA,on loan,Summer,2011,2011/2012,local
+SL Benfica,Granada CF,Primera Division,Júlio César,24,Defensive Midfield,NA,on loan,Summer,2011,2011/2012,international
+FC Internazionale,QPR U18,Serie A,Júlio César,32,Defensive Midfield,NA,sold,Summer,2012,2012/2013,international
+FC Internazionale,Queens Park Rangers,Premier League,Júlio César,32,Defensive Midfield,NA,sold,Summer,2012,2012/2013,international
+Granada CF,Benfica B,Primera Division,Júlio César,25,Defensive Midfield,NA,on loan,Summer,2012,2012/2013,international
 Moreirense FC,CD Feirense,Liga Nos,Júlio César,28,Defensive Midfield,NA,sold,Winter,2012,2012/2013,local
-Queens Park Rangers,Toronto Bliz.,Championship,Júlio César,29,Defensive Midfield,NA,on loan,Winter,2013,2013/2014,local
-Without Club,Getafe CF,Primera Division,Júlio César,29,Defensive Midfield,NA,sold,Winter,2013,2013/2014,international
-Getafe CF,Without Club,Primera Division,Júlio César,30,Defensive Midfield,NA,sold,Summer,2014,2014/2015,international
-QPR U18,SL Benfica,Liga Nos,Júlio César,30,Defensive Midfield,NA,sold,Summer,2014,2014/2015,international
-Queens Park Rangers,SL Benfica,Premier League,Júlio César,30,Defensive Midfield,NA,sold,Summer,2014,2014/2015,international
-Toronto Bliz.,Queens Park Rangers,Premier League,Júlio César,30,Defensive Midfield,NA,on loan,Summer,2014,2014/2015,local
-SL Benfica,Without Club,Liga Nos,Júlio César,33,Defensive Midfield,NA,sold,Winter,2017,2017/2018,international
-Anápolis-GO,CD Nacional,Liga Nos,Júlio César,34,Defensive Midfield,NA,sold,Summer,2018,2018/2019,local
-CD Nacional,Anápolis-GO,Liga Nos,Júlio César,34,Defensive Midfield,NA,on loan,Summer,2018,2018/2019,local
-Atlético-GO,Portimonense SC,Liga Nos,Júlio César,36,Defensive Midfield,NA,sold,Summer,2020,2020/2021,local
-Portimonense SC,Guarani,Liga Nos,Júlio César,36,Defensive Midfield,NA,on loan,Winter,2020,2020/2021,local
-Guarani,Portimonense SC,Liga Nos,Júlio César,37,Defensive Midfield,NA,on loan,Winter,2021,2021/2022,local
-Belenenses SAD,FC Paços de Ferreira,Liga Nos,Paulo Sérgio,9,Attacking Midfield,NA,sold,Summer,1993,1993/1994,local
-Belenenses SAD,Paços Ferreira,Liga Nos,Paulo Sérgio,9,Attacking Midfield,NA,sold,Summer,1993,1993/1994,local
-Corinthians,Bayer 04 Leverkusen,1 Bundesliga,Paulo Sérgio,9,Attacking Midfield,1.04M,sold,Summer,1993,1993/1994,international
-E. Amadora U19,CF Estrela Amadora SAD,Liga Nos,Paulo Sérgio,10,Attacking Midfield,NA,sold,Summer,1994,1994/1995,local
-Paços Ferreira,SC Salgueiros,Liga Nos,Paulo Sérgio,10,Attacking Midfield,NA,sold,Summer,1994,1994/1995,local
-SC Salgueiros,Vitória Setúbal FC,Liga Nos,Paulo Sérgio,11,Attacking Midfield,NA,sold,Summer,1995,1995/1996,local
-Vitória Setúbal FC,SC Campomaiorense,Liga Nos,Paulo Sérgio,11,Attacking Midfield,NA,sold,Summer,1995,1995/1996,local
-CF Estrela Amadora SAD,Estoril Praia,Liga Nos,Paulo Sérgio,12,Attacking Midfield,NA,sold,Summer,1996,1996/1997,local
-Bay. Leverkusen,AS Roma,Serie A,Paulo Sérgio,13,Attacking Midfield,3.15M,sold,Summer,1997,1997/1998,international
-Bayer 04 Leverkusen,AS Roma,1 Bundesliga,Paulo Sérgio,13,Attacking Midfield,3.15M,sold,Summer,1997,1997/1998,international
-Vitória Setúbal FC,CD Feirense,Liga Nos,Paulo Sérgio,13,Attacking Midfield,NA,sold,Summer,1997,1997/1998,local
-Coritiba FC,CS Marítimo,Liga Nos,Paulo Sérgio,14,Attacking Midfield,NA,sold,Summer,1998,1998/1999,local
-AS Roma,Bayern Munich,Serie A,Paulo Sérgio,15,Attacking Midfield,5.94M,sold,Summer,1999,1999/2000,international
-SC Beira-Mar,Leixões SC,Liga Nos,Paulo Sérgio,16,Attacking Midfield,NA,sold,Summer,2000,2000/2001,local
-SC Farense,Varzim SC,Liga Nos,Paulo Sérgio,17,Attacking Midfield,NA,sold,Summer,2001,2001/2002,local
-Bayern Munich,Al-Wahda FC,1 Bundesliga,Paulo Sérgio,18,Attacking Midfield,NA,sold,Summer,2002,2002/2003,international
-SC Campomaiorense,SC Beira-Mar,Liga Nos,Paulo Sérgio,18,Attacking Midfield,NA,sold,Summer,2002,2002/2003,local
-Varzim SC,Desportivo Aves,Liga Nos,Paulo Sérgio,18,Attacking Midfield,NA,sold,Summer,2002,2002/2003,local
-CD Nacional,Belenenses SAD,Liga Nos,Paulo Sérgio,19,Attacking Midfield,NA,sold,Winter,2003,2003/2004,local
-CS Marítimo,CD Nacional,Liga Nos,Paulo Sérgio,19,Attacking Midfield,NA,sold,Summer,2003,2003/2004,local
-Montpellier HSC,SC Braga,Liga Nos,Paulo Sérgio,19,Attacking Midfield,NA,sold,Summer,2003,2003/2004,international
+Queens Park Rangers,Toronto Bliz.,Championship,Júlio César,34,Defensive Midfield,NA,on loan,Winter,2013,2013/2014,local
+Without Club,Getafe CF,Primera Division,Júlio César,27,Defensive Midfield,NA,sold,Winter,2013,2013/2014,international
+Getafe CF,Without Club,Primera Division,Júlio César,27,Defensive Midfield,NA,sold,Summer,2014,2014/2015,international
+QPR U18,SL Benfica,Liga Nos,Júlio César,34,Defensive Midfield,NA,sold,Summer,2014,2014/2015,international
+Queens Park Rangers,SL Benfica,Premier League,Júlio César,34,Defensive Midfield,NA,sold,Summer,2014,2014/2015,international
+Toronto Bliz.,Queens Park Rangers,Premier League,Júlio César,34,Defensive Midfield,NA,on loan,Summer,2014,2014/2015,local
+SL Benfica,Without Club,Liga Nos,Júlio César,38,Defensive Midfield,NA,sold,Winter,2017,2017/2018,international
+Anápolis-GO,CD Nacional,Liga Nos,Júlio César,23,Defensive Midfield,NA,sold,Summer,2018,2018/2019,local
+CD Nacional,Anápolis-GO,Liga Nos,Júlio César,23,Defensive Midfield,NA,on loan,Summer,2018,2018/2019,local
+Atlético-GO,Portimonense SC,Liga Nos,Júlio César,26,Defensive Midfield,NA,sold,Summer,2020,2020/2021,local
+Portimonense SC,Guarani,Liga Nos,Júlio César,26,Defensive Midfield,NA,on loan,Winter,2020,2020/2021,local
+Guarani,Portimonense SC,Liga Nos,Júlio César,27,Defensive Midfield,NA,on loan,Winter,2021,2021/2022,local
+Belenenses SAD,FC Paços de Ferreira,Liga Nos,Paulo Sérgio,25,Attacking Midfield,NA,sold,Summer,1993,1993/1994,local
+Belenenses SAD,Paços Ferreira,Liga Nos,Paulo Sérgio,25,Attacking Midfield,NA,sold,Summer,1993,1993/1994,local
+Corinthians,Bayer 04 Leverkusen,1 Bundesliga,Paulo Sérgio,24,Attacking Midfield,1.04M,sold,Summer,1993,1993/1994,international
+E. Amadora U19,CF Estrela Amadora SAD,Liga Nos,Paulo Sérgio,18,Attacking Midfield,NA,sold,Summer,1994,1994/1995,local
+Paços Ferreira,SC Salgueiros,Liga Nos,Paulo Sérgio,26,Attacking Midfield,NA,sold,Summer,1994,1994/1995,local
+SC Salgueiros,Vitória Setúbal FC,Liga Nos,Paulo Sérgio,27,Attacking Midfield,NA,sold,Summer,1995,1995/1996,local
+Vitória Setúbal FC,SC Campomaiorense,Liga Nos,Paulo Sérgio,24,Attacking Midfield,NA,sold,Summer,1995,1995/1996,local
+CF Estrela Amadora SAD,Estoril Praia,Liga Nos,Paulo Sérgio,20,Attacking Midfield,NA,sold,Summer,1996,1996/1997,local
+Bay. Leverkusen,AS Roma,Serie A,Paulo Sérgio,28,Attacking Midfield,3.15M,sold,Summer,1997,1997/1998,international
+Bayer 04 Leverkusen,AS Roma,1 Bundesliga,Paulo Sérgio,28,Attacking Midfield,3.15M,sold,Summer,1997,1997/1998,international
+Vitória Setúbal FC,CD Feirense,Liga Nos,Paulo Sérgio,29,Attacking Midfield,NA,sold,Summer,1997,1997/1998,local
+Coritiba FC,CS Marítimo,Liga Nos,Paulo Sérgio,25,Attacking Midfield,NA,sold,Summer,1998,1998/1999,local
+AS Roma,Bayern Munich,Serie A,Paulo Sérgio,30,Attacking Midfield,5.94M,sold,Summer,1999,1999/2000,international
+SC Beira-Mar,Leixões SC,Liga Nos,Paulo Sérgio,28,Attacking Midfield,NA,sold,Summer,2000,2000/2001,local
+SC Farense,Varzim SC,Liga Nos,Paulo Sérgio,32,Attacking Midfield,NA,sold,Summer,2001,2001/2002,local
+Bayern Munich,Al-Wahda FC,1 Bundesliga,Paulo Sérgio,33,Attacking Midfield,NA,sold,Summer,2002,2002/2003,international
+SC Campomaiorense,SC Beira-Mar,Liga Nos,Paulo Sérgio,31,Attacking Midfield,NA,sold,Summer,2002,2002/2003,local
+Varzim SC,Desportivo Aves,Liga Nos,Paulo Sérgio,33,Attacking Midfield,NA,sold,Summer,2002,2002/2003,local
+CD Nacional,Belenenses SAD,Liga Nos,Paulo Sérgio,31,Attacking Midfield,NA,sold,Winter,2003,2003/2004,local
+CS Marítimo,CD Nacional,Liga Nos,Paulo Sérgio,30,Attacking Midfield,NA,sold,Summer,2003,2003/2004,local
+Montpellier HSC,SC Braga,Liga Nos,Paulo Sérgio,27,Attacking Midfield,NA,sold,Summer,2003,2003/2004,international
 Sporting B,Académica Coimbra,Liga Nos,Paulo Sérgio,19,Attacking Midfield,NA,on loan,Winter,2003,2003/2004,international
 Académica Coimbra,Sporting B,Liga Nos,Paulo Sérgio,20,Attacking Midfield,NA,on loan,Summer,2004,2004/2005,international
 Sporting B,Sporting CP,Liga Nos,Paulo Sérgio,20,Attacking Midfield,NA,sold,Summer,2004,2004/2005,international
 Sporting CP,Belenenses SAD,Liga Nos,Paulo Sérgio,20,Attacking Midfield,NA,on loan,Winter,2004,2004/2005,local
-SC Braga,Vit. Guimarães,Liga Nos,Paulo Sérgio,21,Attacking Midfield,NA,sold,Summer,2005,2005/2006,local
-SC Braga,Vitória Guimarães SC,Liga Nos,Paulo Sérgio,21,Attacking Midfield,NA,sold,Summer,2005,2005/2006,local
+SC Braga,Vit. Guimarães,Liga Nos,Paulo Sérgio,29,Attacking Midfield,NA,sold,Summer,2005,2005/2006,local
+SC Braga,Vitória Guimarães SC,Liga Nos,Paulo Sérgio,29,Attacking Midfield,NA,sold,Summer,2005,2005/2006,local
 Belenenses SAD,Sporting CP,Liga Nos,Paulo Sérgio,22,Attacking Midfield,NA,on loan,Summer,2006,2006/2007,local
 CF Estrela Amadora SAD,Sporting CP,Liga Nos,Paulo Sérgio,22,Attacking Midfield,NA,on loan,Winter,2006,2006/2007,local
 Clube Futebol Estrela da Amadora,Sporting CP,Liga Nos,Paulo Sérgio,22,Attacking Midfield,NA,on loan,Winter,2006,2006/2007,local
-Moreirense FC,Académica Coimbra,Liga Nos,Paulo Sérgio,22,Attacking Midfield,NA,sold,Summer,2006,2006/2007,local
-SC Beira-Mar,Pinhalnovense,Liga Nos,Paulo Sérgio,22,Attacking Midfield,NA,sold,Summer,2006,2006/2007,local
+Moreirense FC,Académica Coimbra,Liga Nos,Paulo Sérgio,24,Attacking Midfield,NA,sold,Summer,2006,2006/2007,local
+SC Beira-Mar,Pinhalnovense,Liga Nos,Paulo Sérgio,35,Attacking Midfield,NA,sold,Summer,2006,2006/2007,local
 Sporting CP,CF Estrela Amadora SAD,Liga Nos,Paulo Sérgio,22,Attacking Midfield,NA,on loan,Summer,2006,2006/2007,local
 Sporting CP,Clube Futebol Estrela da Amadora,Liga Nos,Paulo Sérgio,22,Attacking Midfield,NA,on loan,Summer,2006,2006/2007,local
 Sporting CP,Desportivo Aves,Liga Nos,Paulo Sérgio,22,Attacking Midfield,NA,on loan,Winter,2006,2006/2007,local
 Desportivo Aves,Sporting CP,Liga Nos,Paulo Sérgio,23,Attacking Midfield,NA,on loan,Summer,2007,2007/2008,local
 Sporting CP,Portimonense SC,Liga Nos,Paulo Sérgio,23,Attacking Midfield,NA,on loan,Summer,2007,2007/2008,local
-Académica Coimbra,Al-Ettifaq,Liga Nos,Paulo Sérgio,24,Attacking Midfield,0.068M,on loan,Summer,2008,2008/2009,local
-CD Trofense,Ermis Aradippou,Liga Nos,Paulo Sérgio,24,Attacking Midfield,NA,sold,Summer,2008,2008/2009,local
+Académica Coimbra,Al-Ettifaq,Liga Nos,Paulo Sérgio,27,Attacking Midfield,0.068M,on loan,Summer,2008,2008/2009,local
+CD Trofense,Ermis Aradippou,Liga Nos,Paulo Sérgio,32,Attacking Midfield,NA,sold,Summer,2008,2008/2009,local
 Portimonense SC,Sporting CP,Liga Nos,Paulo Sérgio,24,Attacking Midfield,NA,on loan,Summer,2008,2008/2009,local
 Sporting CP,UD Salamanca (liq.),Liga Nos,Paulo Sérgio,24,Attacking Midfield,NA,sold,Summer,2008,2008/2009,international
-Al-Ettifaq,Académica Coimbra,Liga Nos,Paulo Sérgio,25,Attacking Midfield,NA,on loan,Summer,2009,2009/2010,local
+Al-Ettifaq,Académica Coimbra,Liga Nos,Paulo Sérgio,27,Attacking Midfield,NA,on loan,Summer,2009,2009/2010,local
 UD Salamanca (liq.),SC Olhanense,Liga Nos,Paulo Sérgio,25,Attacking Midfield,NA,sold,Summer,2009,2009/2010,international
-Académica Coimbra,União de Leiria,Liga Nos,Paulo Sérgio,26,Attacking Midfield,NA,sold,Summer,2010,2010/2011,local
+Académica Coimbra,União de Leiria,Liga Nos,Paulo Sérgio,28,Attacking Midfield,NA,sold,Summer,2010,2010/2011,local
 SC Olhanense,Vit. Guimarães,Liga Nos,Paulo Sérgio,27,Attacking Midfield,NA,sold,Summer,2011,2011/2012,local
 SC Olhanense,Vitória Guimarães SC,Liga Nos,Paulo Sérgio,27,Attacking Midfield,NA,sold,Summer,2011,2011/2012,local
-União de Leiria,Unknown,Liga Nos,Paulo Sérgio,27,Attacking Midfield,NA,sold,Summer,2011,2011/2012,international
+União de Leiria,Unknown,Liga Nos,Paulo Sérgio,29,Attacking Midfield,NA,sold,Summer,2011,2011/2012,international
 Vitória Guimarães SC,AEL Limassol,Liga Nos,Paulo Sérgio,28,Attacking Midfield,NA,sold,Summer,2012,2012/2013,local
 AEL Limassol,FC Arouca,Liga Nos,Paulo Sérgio,29,Attacking Midfield,NA,sold,Summer,2013,2013/2014,local
-FC Arouca,SC Olhanense,Liga Nos,Paulo Sérgio,29,Attacking Midfield,NA,sold,Winter,2013,2013/2014,local
-Sporting U19,Sporting CP,Liga Nos,João Paulo,4,Right Midfield,NA,sold,Summer,1993,1993/1994,local
-Sporting CP,Sporting U19,Liga Nos,João Paulo,5,Right Midfield,NA,sold,Summer,1994,1994/1995,local
-Boavista U19,Boavista FC,Liga Nos,João Paulo,9,Right Midfield,NA,sold,Summer,1998,1998/1999,local
-Boavista FC,Desportivo Aves,Liga Nos,João Paulo,10,Right Midfield,NA,on loan,Summer,1999,1999/2000,local
-Leiria U19,União de Leiria,Liga Nos,João Paulo,10,Right Midfield,NA,sold,Summer,1999,1999/2000,local
-Boavista FC,Vitória Setúbal FC,Liga Nos,João Paulo,11,Right Midfield,NA,on loan,Summer,2000,2000/2001,local
-Desportivo Aves,Boavista FC,Liga Nos,João Paulo,11,Right Midfield,NA,on loan,Summer,2000,2000/2001,local
-União de Leiria,Tomar,Liga Nos,João Paulo,11,Right Midfield,NA,on loan,Summer,2000,2000/2001,local
-SC Beira-Mar,FC Penafiel,Liga Nos,João Paulo,12,Right Midfield,NA,sold,Summer,2001,2001/2002,local
-Tomar,União de Leiria,Liga Nos,João Paulo,12,Right Midfield,NA,on loan,Summer,2001,2001/2002,local
-Vitória Setúbal FC,Boavista FC,Liga Nos,João Paulo,12,Right Midfield,NA,on loan,Summer,2001,2001/2002,local
-Boavista FC,Varzim SC,Liga Nos,João Paulo,13,Right Midfield,NA,on loan,Summer,2002,2002/2003,local
-União de Leiria,Sporting CP,Liga Nos,João Paulo,13,Right Midfield,NA,on loan,Winter,2002,2002/2003,local
-Boavista FC,SC Beira-Mar,Liga Nos,João Paulo,14,Right Midfield,NA,on loan,Summer,2003,2003/2004,local
-Sporting CP,União de Leiria,Liga Nos,João Paulo,14,Right Midfield,NA,on loan,Summer,2003,2003/2004,local
-Varzim SC,Boavista FC,Liga Nos,João Paulo,14,Right Midfield,NA,on loan,Summer,2003,2003/2004,local
-Boavista FC,Estoril Praia,Liga Nos,João Paulo,15,Right Midfield,NA,on loan,Summer,2004,2004/2005,local
-Boavista FC,GD Estoril Praia,Liga Nos,João Paulo,15,Right Midfield,NA,on loan,Summer,2004,2004/2005,local
-SC Beira-Mar,Boavista FC,Liga Nos,João Paulo,15,Right Midfield,NA,on loan,Summer,2004,2004/2005,local
-Boavista FC,CD Tenerife,Liga Nos,João Paulo,16,Right Midfield,NA,sold,Summer,2005,2005/2006,international
-CD Tenerife,FC Paços de Ferreira,Liga Nos,João Paulo,16,Right Midfield,NA,sold,Winter,2005,2005/2006,international
-Estoril Praia,Boavista FC,Liga Nos,João Paulo,16,Right Midfield,NA,on loan,Summer,2005,2005/2006,local
-Goiás EC,Naval 1º de Maio,Liga Nos,João Paulo,16,Right Midfield,NA,sold,Summer,2005,2005/2006,international
-Madalena,Vitória Setúbal FC,Liga Nos,João Paulo,17,Right Midfield,NA,sold,Summer,2006,2006/2007,local
-Naval 1º de Maio,Ponte Preta,Liga Nos,João Paulo,17,Right Midfield,NA,sold,Summer,2006,2006/2007,international
-União de Leiria,FC Porto,Liga Nos,João Paulo,17,Right Midfield,1.35M,sold,Summer,2006,2006/2007,local
-FC Paços de Ferreira,União de Leiria,Liga Nos,João Paulo,18,Right Midfield,NA,sold,Summer,2007,2007/2008,local
-Paços Ferreira,União de Leiria,Liga Nos,João Paulo,18,Right Midfield,NA,sold,Summer,2007,2007/2008,local
-RC Strasbourg Alsace,BSC Young Boys,Ligue 1,João Paulo,18,Right Midfield,NA,on loan,Summer,2007,2007/2008,international
-União de Leiria,Rapid Bucharest,Liga Nos,João Paulo,18,Right Midfield,1.08M,sold,Winter,2007,2007/2008,international
-Vitória Setúbal FC,Foolad,Liga Nos,João Paulo,18,Right Midfield,NA,sold,Summer,2007,2007/2008,international
+FC Arouca,SC Olhanense,Liga Nos,Paulo Sérgio,30,Attacking Midfield,NA,sold,Winter,2013,2013/2014,local
+Sporting U19,Sporting CP,Liga Nos,João Paulo,16,Right Midfield,NA,sold,Summer,1993,1993/1994,local
+Sporting CP,Sporting U19,Liga Nos,João Paulo,17,Right Midfield,NA,sold,Summer,1994,1994/1995,local
+Boavista U19,Boavista FC,Liga Nos,João Paulo,18,Right Midfield,NA,sold,Summer,1998,1998/1999,local
+Boavista FC,Desportivo Aves,Liga Nos,João Paulo,19,Right Midfield,NA,on loan,Summer,1999,1999/2000,local
+Leiria U19,União de Leiria,Liga Nos,João Paulo,18,Right Midfield,NA,sold,Summer,1999,1999/2000,local
+Boavista FC,Vitória Setúbal FC,Liga Nos,João Paulo,20,Right Midfield,NA,on loan,Summer,2000,2000/2001,local
+Desportivo Aves,Boavista FC,Liga Nos,João Paulo,20,Right Midfield,NA,on loan,Summer,2000,2000/2001,local
+União de Leiria,Tomar,Liga Nos,João Paulo,19,Right Midfield,NA,on loan,Summer,2000,2000/2001,local
+SC Beira-Mar,FC Penafiel,Liga Nos,João Paulo,29,Right Midfield,NA,sold,Summer,2001,2001/2002,local
+Tomar,União de Leiria,Liga Nos,João Paulo,20,Right Midfield,NA,on loan,Summer,2001,2001/2002,local
+Vitória Setúbal FC,Boavista FC,Liga Nos,João Paulo,21,Right Midfield,NA,on loan,Summer,2001,2001/2002,local
+Boavista FC,Varzim SC,Liga Nos,João Paulo,22,Right Midfield,NA,on loan,Summer,2002,2002/2003,local
+União de Leiria,Sporting CP,Liga Nos,João Paulo,21,Right Midfield,NA,on loan,Winter,2002,2002/2003,local
+Boavista FC,SC Beira-Mar,Liga Nos,João Paulo,23,Right Midfield,NA,on loan,Summer,2003,2003/2004,local
+Sporting CP,União de Leiria,Liga Nos,João Paulo,22,Right Midfield,NA,on loan,Summer,2003,2003/2004,local
+Varzim SC,Boavista FC,Liga Nos,João Paulo,23,Right Midfield,NA,on loan,Summer,2003,2003/2004,local
+Boavista FC,Estoril Praia,Liga Nos,João Paulo,24,Right Midfield,NA,on loan,Summer,2004,2004/2005,local
+Boavista FC,GD Estoril Praia,Liga Nos,João Paulo,24,Right Midfield,NA,on loan,Summer,2004,2004/2005,local
+SC Beira-Mar,Boavista FC,Liga Nos,João Paulo,24,Right Midfield,NA,on loan,Summer,2004,2004/2005,local
+Boavista FC,CD Tenerife,Liga Nos,João Paulo,25,Right Midfield,NA,sold,Summer,2005,2005/2006,international
+CD Tenerife,FC Paços de Ferreira,Liga Nos,João Paulo,25,Right Midfield,NA,sold,Winter,2005,2005/2006,international
+Estoril Praia,Boavista FC,Liga Nos,João Paulo,25,Right Midfield,NA,on loan,Summer,2005,2005/2006,local
+Goiás EC,Naval 1º de Maio,Liga Nos,João Paulo,22,Right Midfield,NA,sold,Summer,2005,2005/2006,international
+Madalena,Vitória Setúbal FC,Liga Nos,João Paulo,32,Right Midfield,NA,sold,Summer,2006,2006/2007,local
+Naval 1º de Maio,Ponte Preta,Liga Nos,João Paulo,23,Right Midfield,NA,sold,Summer,2006,2006/2007,international
+União de Leiria,FC Porto,Liga Nos,João Paulo,25,Right Midfield,1.35M,sold,Summer,2006,2006/2007,local
+FC Paços de Ferreira,União de Leiria,Liga Nos,João Paulo,27,Right Midfield,NA,sold,Summer,2007,2007/2008,local
+Paços Ferreira,União de Leiria,Liga Nos,João Paulo,27,Right Midfield,NA,sold,Summer,2007,2007/2008,local
+RC Strasbourg Alsace,BSC Young Boys,Ligue 1,João Paulo,26,Right Midfield,NA,on loan,Summer,2007,2007/2008,international
+União de Leiria,Rapid Bucharest,Liga Nos,João Paulo,27,Right Midfield,1.08M,sold,Winter,2007,2007/2008,international
+Vitória Setúbal FC,Foolad,Liga Nos,João Paulo,33,Right Midfield,NA,sold,Summer,2007,2007/2008,international
 AS Roma,Vibonese,Serie A,João Paulo,19,Right Midfield,NA,on loan,Winter,2008,2008/2009,local
 AS Roma,Virtus Lanciano,Serie A,João Paulo,19,Right Midfield,NA,on loan,Summer,2008,2008/2009,local
-FC Porto,Rapid Bucharest,Liga Nos,João Paulo,19,Right Midfield,0.45M,on loan,Summer,2008,2008/2009,international
+FC Porto,Rapid Bucharest,Liga Nos,João Paulo,27,Right Midfield,0.45M,on loan,Summer,2008,2008/2009,international
 Roma U19,AS Roma,Serie A,João Paulo,19,Right Midfield,NA,sold,Summer,2008,2008/2009,local
 AS Roma,Igea 1946,Serie A,João Paulo,20,Right Midfield,NA,on loan,Winter,2009,2009/2010,local
-FC Porto,Le Mans UC 72,Liga Nos,João Paulo,20,Right Midfield,1.35M,sold,Summer,2009,2009/2010,international
-FC Porto,Le Mans Union Club 72,Ligue 1,João Paulo,20,Right Midfield,1.35M,sold,Summer,2009,2009/2010,international
-Rapid Bucharest,FC Porto,Liga Nos,João Paulo,20,Right Midfield,NA,on loan,Summer,2009,2009/2010,international
-Rapid Bucharest,Leixões SC,Liga Nos,João Paulo,20,Right Midfield,NA,sold,Winter,2009,2009/2010,international
-SC Olhanense,Belenenses SAD,Liga Nos,João Paulo,20,Right Midfield,NA,on loan,Summer,2009,2009/2010,local
+FC Porto,Le Mans UC 72,Liga Nos,João Paulo,28,Right Midfield,1.35M,sold,Summer,2009,2009/2010,international
+FC Porto,Le Mans Union Club 72,Ligue 1,João Paulo,28,Right Midfield,1.35M,sold,Summer,2009,2009/2010,international
+Rapid Bucharest,FC Porto,Liga Nos,João Paulo,28,Right Midfield,NA,on loan,Summer,2009,2009/2010,international
+Rapid Bucharest,Leixões SC,Liga Nos,João Paulo,29,Right Midfield,NA,sold,Winter,2009,2009/2010,international
+SC Olhanense,Belenenses SAD,Liga Nos,João Paulo,24,Right Midfield,NA,on loan,Summer,2009,2009/2010,local
 AS Roma,Without Club,Serie A,João Paulo,21,Right Midfield,NA,sold,Summer,2010,2010/2011,international
-Le Mans FC,Vitória Guimarães SC,Liga Nos,João Paulo,21,Right Midfield,NA,sold,Summer,2010,2010/2011,international
-Portimonense SC,Desp. Brasil,Liga Nos,João Paulo,21,Right Midfield,NA,sold,Summer,2010,2010/2011,international
+Le Mans FC,Vitória Guimarães SC,Liga Nos,João Paulo,29,Right Midfield,NA,sold,Summer,2010,2010/2011,international
+Portimonense SC,Desp. Brasil,Liga Nos,João Paulo,29,Right Midfield,NA,sold,Summer,2010,2010/2011,international
 Portimonense SC,Without Club,Liga Nos,João Paulo,21,Right Midfield,NA,sold,Winter,2010,2010/2011,international
 Without Club,Portimonense SC,Liga Nos,João Paulo,21,Right Midfield,NA,sold,Summer,2010,2010/2011,international
-Vitória Guimarães SC,Omonia Nikosia,Liga Nos,João Paulo,23,Right Midfield,NA,sold,Summer,2012,2012/2013,international
-Xäzär Länkäran,GD Estoril Praia,Liga Nos,João Paulo,23,Right Midfield,NA,sold,Summer,2012,2012/2013,local
-GD Estoril Praia,Desportivo Aves,Liga Nos,João Paulo,24,Right Midfield,NA,sold,Summer,2013,2013/2014,local
+Vitória Guimarães SC,Omonia Nikosia,Liga Nos,João Paulo,31,Right Midfield,NA,sold,Summer,2012,2012/2013,international
+Xäzär Länkäran,GD Estoril Praia,Liga Nos,João Paulo,32,Right Midfield,NA,sold,Summer,2012,2012/2013,local
+GD Estoril Praia,Desportivo Aves,Liga Nos,João Paulo,33,Right Midfield,NA,sold,Summer,2013,2013/2014,local
 Bay. Leverkusen,Bayern Munich,1 Bundesliga,Jorginho,27,Right-Back,2.52M,sold,Summer,1992,1992/1993,local
 Bayer 04 Leverkusen,Bayern Munich,1 Bundesliga,Jorginho,27,Right-Back,2.52M,sold,Summer,1992,1992/1993,local
-Sporting CP,FC Famalicão,Liga Nos,Jorginho,27,Right-Back,NA,sold,Summer,1992,1992/1993,local
-Bayern Munich,Kashima Antlers,1 Bundesliga,Jorginho,29,Right-Back,1.58M,sold,Winter,1994,1994/1995,local
-Montalegre,GD Chaves,Liga Nos,Jorginho,29,Right-Back,NA,on loan,Summer,1994,1994/1995,local
-FC Felgueiras 1932,SC Beira-Mar,Liga Nos,Jorginho,30,Right-Back,NA,sold,Summer,1995,1995/1996,local
-GD Chaves,Bragança,Liga Nos,Jorginho,30,Right-Back,NA,on loan,Winter,1995,1995/1996,local
-Bragança,GD Chaves,Liga Nos,Jorginho,31,Right-Back,NA,on loan,Summer,1996,1996/1997,local
-GD Chaves,SC Vila Pouca,Liga Nos,Jorginho,31,Right-Back,NA,on loan,Summer,1996,1996/1997,local
-SC Vila Pouca,GD Chaves,Liga Nos,Jorginho,32,Right-Back,NA,on loan,Summer,1997,1997/1998,local
-Goiânia,Vitória Setúbal FC,Liga Nos,Jorginho,36,Right-Back,NA,sold,Summer,2001,2001/2002,local
-SC Campomaiorense,Académica Coimbra,Liga Nos,Jorginho,37,Right-Back,NA,sold,Summer,2002,2002/2003,local
-Académica Coimbra,Académico Viseu,Liga Nos,Jorginho,39,Right-Back,NA,sold,Summer,2004,2004/2005,local
-Brasiliense FC,FC Penafiel,Liga Nos,Jorginho,40,Right-Back,NA,sold,Summer,2005,2005/2006,local
-Vitória Setúbal FC,FC Porto,Liga Nos,Jorginho,40,Right-Back,0.225M,sold,Summer,2005,2005/2006,local
-Estoril Praia,Vitória Setúbal FC,Liga Nos,Jorginho,42,Right-Back,NA,sold,Summer,2007,2007/2008,local
-FC Porto,SC Braga,Liga Nos,Jorginho,42,Right-Back,NA,sold,Summer,2007,2007/2008,local
-Paços F. U19,FC Paços de Ferreira,Liga Nos,Jorginho,42,Right-Back,NA,sold,Summer,2007,2007/2008,local
-Asteras Tripoli,FC Paços de Ferreira,Liga Nos,Jorginho,43,Right-Back,NA,sold,Winter,2008,2008/2009,international
-FC Paços de Ferreira,Rebordosa AC,Liga Nos,Jorginho,43,Right-Back,NA,on loan,Winter,2008,2008/2009,local
-Vitória Setúbal FC,Asteras Tripoli,Liga Nos,Jorginho,43,Right-Back,NA,sold,Summer,2008,2008/2009,international
-FC Paços de Ferreira,Oliveirense,Liga Nos,Jorginho,44,Right-Back,NA,on loan,Summer,2009,2009/2010,local
-Rebordosa AC,FC Paços de Ferreira,Liga Nos,Jorginho,44,Right-Back,NA,on loan,Summer,2009,2009/2010,local
-SC Braga,Gaziantepspor,Liga Nos,Jorginho,44,Right-Back,NA,sold,Summer,2009,2009/2010,international
-FC Paços de Ferreira,FC Tirsense,Liga Nos,Jorginho,45,Right-Back,NA,on loan,Winter,2010,2010/2011,local
-Oliveirense,FC Paços de Ferreira,Liga Nos,Jorginho,45,Right-Back,NA,on loan,Summer,2010,2010/2011,local
-FC Paços de Ferreira,Aliados Lordelo,Liga Nos,Jorginho,46,Right-Back,NA,sold,Summer,2011,2011/2012,local
-FC Paços de Ferreira,FC Arouca,Liga Nos,Jorginho,46,Right-Back,NA,sold,Summer,2011,2011/2012,local
-FC Tirsense,FC Paços de Ferreira,Liga Nos,Jorginho,46,Right-Back,NA,on loan,Summer,2011,2011/2012,local
-Gaziantepspor,Rio Ave FC,Liga Nos,Jorginho,46,Right-Back,NA,sold,Summer,2011,2011/2012,international
-Aliados Lordelo,Vitória Setúbal FC,Liga Nos,Jorginho,47,Right-Back,NA,sold,Summer,2012,2012/2013,local
-Rio Ave FC,Without Club,Liga Nos,Jorginho,47,Right-Back,NA,sold,Summer,2012,2012/2013,international
-Hellas Verona,SSC Napoli,Serie A,Jorginho,48,Right-Back,8.55M,sold,Winter,2013,2013/2014,local
-Vitória Setúbal FC,Without Club,Liga Nos,Jorginho,49,Right-Back,NA,sold,Summer,2014,2014/2015,international
-Man City U21,FC Arouca,Liga Nos,Jorginho,50,Right-Back,NA,sold,Winter,2015,2015/2016,international
-FC Arouca,AS Saint-Étienne,Liga Nos,Jorginho,51,Right-Back,NA,on loan,Winter,2016,2016/2017,international
-AS Saint-Étienne,FC Arouca,Ligue 1,Jorginho,52,Right-Back,NA,on loan,Summer,2017,2017/2018,international
-AS Saint-Étienne,GD Chaves,Liga Nos,Jorginho,52,Right-Back,NA,on loan,Summer,2017,2017/2018,international
-FC Arouca,AS Saint-Étienne,Ligue 1,Jorginho,52,Right-Back,0.9M,sold,Summer,2017,2017/2018,international
-AS Saint-Étienne,CSKA-Sofia,Ligue 1,Jorginho,53,Right-Back,NA,on loan,Summer,2018,2018/2019,international
-GD Chaves,AS Saint-Étienne,Liga Nos,Jorginho,53,Right-Back,NA,on loan,Summer,2018,2018/2019,international
-SSC Napoli,Chelsea FC,Premier League,Jorginho,53,Right-Back,51.3M,sold,Summer,2018,2018/2019,international
-AS Saint-Étienne,Ludogorets,Ligue 1,Jorginho,54,Right-Back,0.765M,sold,Summer,2019,2019/2020,international
-CSKA-Sofia,AS Saint-Étienne,Ligue 1,Jorginho,54,Right-Back,NA,on loan,Summer,2019,2019/2020,international
+Sporting CP,FC Famalicão,Liga Nos,Jorginho,30,Right-Back,NA,sold,Summer,1992,1992/1993,local
+Bayern Munich,Kashima Antlers,1 Bundesliga,Jorginho,30,Right-Back,1.58M,sold,Winter,1994,1994/1995,local
+Montalegre,GD Chaves,Liga Nos,Jorginho,18,Right-Back,NA,on loan,Summer,1994,1994/1995,local
+FC Felgueiras 1932,SC Beira-Mar,Liga Nos,Jorginho,33,Right-Back,NA,sold,Summer,1995,1995/1996,local
+GD Chaves,Bragança,Liga Nos,Jorginho,20,Right-Back,NA,on loan,Winter,1995,1995/1996,local
+Bragança,GD Chaves,Liga Nos,Jorginho,20,Right-Back,NA,on loan,Summer,1996,1996/1997,local
+GD Chaves,SC Vila Pouca,Liga Nos,Jorginho,20,Right-Back,NA,on loan,Summer,1996,1996/1997,local
+SC Vila Pouca,GD Chaves,Liga Nos,Jorginho,21,Right-Back,NA,on loan,Summer,1997,1997/1998,local
+Goiânia,Vitória Setúbal FC,Liga Nos,Jorginho,24,Right-Back,NA,sold,Summer,2001,2001/2002,local
+SC Campomaiorense,Académica Coimbra,Liga Nos,Jorginho,26,Right-Back,NA,sold,Summer,2002,2002/2003,local
+Académica Coimbra,Académico Viseu,Liga Nos,Jorginho,28,Right-Back,NA,sold,Summer,2004,2004/2005,local
+Brasiliense FC,FC Penafiel,Liga Nos,Jorginho,30,Right-Back,NA,sold,Summer,2005,2005/2006,local
+Vitória Setúbal FC,FC Porto,Liga Nos,Jorginho,28,Right-Back,0.225M,sold,Summer,2005,2005/2006,local
+Estoril Praia,Vitória Setúbal FC,Liga Nos,Jorginho,29,Right-Back,NA,sold,Summer,2007,2007/2008,local
+FC Porto,SC Braga,Liga Nos,Jorginho,30,Right-Back,NA,sold,Summer,2007,2007/2008,local
+Paços F. U19,FC Paços de Ferreira,Liga Nos,Jorginho,19,Right-Back,NA,sold,Summer,2007,2007/2008,local
+Asteras Tripoli,FC Paços de Ferreira,Liga Nos,Jorginho,30,Right-Back,NA,sold,Winter,2008,2008/2009,international
+FC Paços de Ferreira,Rebordosa AC,Liga Nos,Jorginho,20,Right-Back,NA,on loan,Winter,2008,2008/2009,local
+Vitória Setúbal FC,Asteras Tripoli,Liga Nos,Jorginho,30,Right-Back,NA,sold,Summer,2008,2008/2009,international
+FC Paços de Ferreira,Oliveirense,Liga Nos,Jorginho,21,Right-Back,NA,on loan,Summer,2009,2009/2010,local
+Rebordosa AC,FC Paços de Ferreira,Liga Nos,Jorginho,21,Right-Back,NA,on loan,Summer,2009,2009/2010,local
+SC Braga,Gaziantepspor,Liga Nos,Jorginho,32,Right-Back,NA,sold,Summer,2009,2009/2010,international
+FC Paços de Ferreira,FC Tirsense,Liga Nos,Jorginho,22,Right-Back,NA,on loan,Winter,2010,2010/2011,local
+Oliveirense,FC Paços de Ferreira,Liga Nos,Jorginho,22,Right-Back,NA,on loan,Summer,2010,2010/2011,local
+FC Paços de Ferreira,Aliados Lordelo,Liga Nos,Jorginho,23,Right-Back,NA,sold,Summer,2011,2011/2012,local
+FC Paços de Ferreira,FC Arouca,Liga Nos,Jorginho,33,Right-Back,NA,sold,Summer,2011,2011/2012,local
+FC Tirsense,FC Paços de Ferreira,Liga Nos,Jorginho,23,Right-Back,NA,on loan,Summer,2011,2011/2012,local
+Gaziantepspor,Rio Ave FC,Liga Nos,Jorginho,34,Right-Back,NA,sold,Summer,2011,2011/2012,international
+Aliados Lordelo,Vitória Setúbal FC,Liga Nos,Jorginho,24,Right-Back,NA,sold,Summer,2012,2012/2013,local
+Rio Ave FC,Without Club,Liga Nos,Jorginho,35,Right-Back,NA,sold,Summer,2012,2012/2013,international
+Hellas Verona,SSC Napoli,Serie A,Jorginho,22,Right-Back,8.55M,sold,Winter,2013,2013/2014,local
+Vitória Setúbal FC,Without Club,Liga Nos,Jorginho,26,Right-Back,NA,sold,Summer,2014,2014/2015,international
+Man City U21,FC Arouca,Liga Nos,Jorginho,20,Right-Back,NA,sold,Winter,2015,2015/2016,international
+FC Arouca,AS Saint-Étienne,Liga Nos,Jorginho,21,Right-Back,NA,on loan,Winter,2016,2016/2017,international
+AS Saint-Étienne,FC Arouca,Ligue 1,Jorginho,21,Right-Back,NA,on loan,Summer,2017,2017/2018,international
+AS Saint-Étienne,GD Chaves,Liga Nos,Jorginho,21,Right-Back,NA,on loan,Summer,2017,2017/2018,international
+FC Arouca,AS Saint-Étienne,Ligue 1,Jorginho,21,Right-Back,0.9M,sold,Summer,2017,2017/2018,international
+AS Saint-Étienne,CSKA-Sofia,Ligue 1,Jorginho,22,Right-Back,NA,on loan,Summer,2018,2018/2019,international
+GD Chaves,AS Saint-Étienne,Liga Nos,Jorginho,22,Right-Back,NA,on loan,Summer,2018,2018/2019,international
+SSC Napoli,Chelsea FC,Premier League,Jorginho,26,Right-Back,51.3M,sold,Summer,2018,2018/2019,international
+AS Saint-Étienne,Ludogorets,Ligue 1,Jorginho,23,Right-Back,0.765M,sold,Summer,2019,2019/2020,international
+CSKA-Sofia,AS Saint-Étienne,Ligue 1,Jorginho,23,Right-Back,NA,on loan,Summer,2019,2019/2020,international
 CE L’Hospitalet,RCD Espanyol Barcelona,Primera Division,Roberto,20,Central Midfield,NA,sold,Winter,1992,1992/1993,local
-Atlético Madrid,RCD Espanyol Barcelona,Primera Division,Roberto,25,Central Midfield,NA,sold,Winter,1997,1997/1998,local
-Moreirense FC,Académica Coimbra,Liga Nos,Roberto,30,Central Midfield,NA,sold,Summer,2002,2002/2003,local
-Académica Coimbra,CF Estrela Amadora SAD,Liga Nos,Roberto,31,Central Midfield,NA,sold,Summer,2003,2003/2004,local
-Real Murcia CF,Rayo Vallecano,Primera Division,Roberto,31,Central Midfield,NA,sold,Winter,2003,2003/2004,local
-UD Salamanca (liq.),Real Murcia CF,Primera Division,Roberto,31,Central Midfield,NA,sold,Summer,2003,2003/2004,local
-Atl. Madrid B,Atlético de Madrid,Primera Division,Roberto,33,Central Midfield,NA,sold,Summer,2005,2005/2006,local
-Atlético de Madrid,Gimnàstic de Tarragona,Primera Division,Roberto,35,Central Midfield,NA,on loan,Summer,2007,2007/2008,local
-Varzim SC,Vitória Guimarães SC,Liga Nos,Roberto,35,Central Midfield,0.153M,sold,Winter,2007,2007/2008,local
-Atlético Madrid,Recreativo Huelva,Primera Division,Roberto,36,Central Midfield,NA,sold,Summer,2008,2008/2009,local
-Atlético de Madrid,Recr. Huelva,Primera Division,Roberto,36,Central Midfield,NA,sold,Summer,2008,2008/2009,international
-Gimnàstic de Tarragona,Atlético de Madrid,Primera Division,Roberto,36,Central Midfield,NA,on loan,Summer,2008,2008/2009,local
-Atlético Madrid,Real Zaragoza,Primera Division,Roberto,37,Central Midfield,NA,on loan,Winter,2009,2009/2010,local
-Atlético de Madrid,Real Zaragoza,Primera Division,Roberto,37,Central Midfield,NA,on loan,Winter,2009,2009/2010,local
-Leixões SC,CD Feirense,Liga Nos,Roberto,37,Central Midfield,NA,sold,Summer,2009,2009/2010,local
-Recr. Huelva,Atlético de Madrid,Primera Division,Roberto,37,Central Midfield,1.13M,sold,Summer,2009,2009/2010,international
-Atlético Madrid,SL Benfica,Liga Nos,Roberto,38,Central Midfield,7.65M,sold,Summer,2010,2010/2011,international
-Atlético de Madrid,SL Benfica,Primera Division,Roberto,38,Central Midfield,7.65M,sold,Summer,2010,2010/2011,international
-Real Zaragoza,Atlético Madrid,Primera Division,Roberto,38,Central Midfield,NA,on loan,Summer,2010,2010/2011,local
-Real Zaragoza,Atlético de Madrid,Primera Division,Roberto,38,Central Midfield,NA,on loan,Summer,2010,2010/2011,local
-Vitória Guimarães SC,Asteras Tripoli,Liga Nos,Roberto,38,Central Midfield,NA,sold,Summer,2010,2010/2011,international
-BJ Guoan,Gil Vicente FC,Liga Nos,Roberto,39,Central Midfield,NA,sold,Summer,2011,2011/2012,international
-CD Feirense,FC Arouca,Liga Nos,Roberto,39,Central Midfield,NA,sold,Summer,2011,2011/2012,local
-SL Benfica,Real Zaragoza,Primera Division,Roberto,39,Central Midfield,7.74M,sold,Summer,2011,2011/2012,international
-Gil Vicente FC,Retired,Liga Nos,Roberto,40,Central Midfield,NA,sold,Summer,2012,2012/2013,international
-Atlético de Madrid,Olympiacos,Primera Division,Roberto,41,Central Midfield,NA,on loan,Summer,2013,2013/2014,international
-Real Zaragoza,SL Benfica,Liga Nos,Roberto,41,Central Midfield,7.74M,sold,Summer,2013,2013/2014,international
-SL Benfica,Atlético Madrid,Liga Nos,Roberto,41,Central Midfield,5.4M,sold,Summer,2013,2013/2014,international
-SL Benfica,Atlético de Madrid,Primera Division,Roberto,41,Central Midfield,5.4M,sold,Summer,2013,2013/2014,international
-Atlético de Madrid,Olympiacos,Primera Division,Roberto,42,Central Midfield,5.4M,sold,Summer,2014,2014/2015,international
-FC Arouca,FC Tosno (-2018),Liga Nos,Roberto,42,Central Midfield,NA,on loan,Summer,2014,2014/2015,international
-FC Tosno (-2018),FC Arouca,Liga Nos,Roberto,42,Central Midfield,NA,on loan,Summer,2014,2014/2015,international
-Olympiacos,Atlético de Madrid,Primera Division,Roberto,42,Central Midfield,NA,on loan,Summer,2014,2014/2015,international
-FC Arouca,Moreirense FC,Liga Nos,Roberto,44,Central Midfield,NA,on loan,Summer,2016,2016/2017,local
-Olympiacos,RCD Espanyol Barcelona,Primera Division,Roberto,44,Central Midfield,2.7M,sold,Summer,2016,2016/2017,international
-Moreirense FC,FC Arouca,Liga Nos,Roberto,45,Central Midfield,NA,on loan,Summer,2017,2017/2018,local
-RCD Espanyol Barcelona,Málaga CF,Primera Division,Roberto,45,Central Midfield,NA,on loan,Summer,2017,2017/2018,local
-Málaga CF,RCD Espanyol Barcelona,Primera Division,Roberto,46,Central Midfield,NA,on loan,Summer,2018,2018/2019,local
-RCD Espanyol Barcelona,West Ham United,Premier League,Roberto,47,Central Midfield,NA,sold,Summer,2019,2019/2020,international
-West Ham United,Deportivo Alavés,Premier League,Roberto,47,Central Midfield,NA,on loan,Winter,2019,2019/2020,international
-Deportivo Alavés,West Ham United,Premier League,Roberto,48,Central Midfield,NA,on loan,Summer,2020,2020/2021,international
-West Ham United,Real Valladolid CF,Premier League,Roberto,48,Central Midfield,NA,sold,Summer,2020,2020/2021,international
-Leixões SC,Gil Vicente FC,Liga Nos,Adriano,19,Centre-Forward,NA,sold,Summer,2000,2000/2001,local
-FC Internazionale,AC Fiorentina,Serie A,Adriano,20,Centre-Forward,NA,on loan,Winter,2001,2001/2002,local
-Flamengo,FC Internazionale,Serie A,Adriano,20,Centre-Forward,11.87M,sold,Summer,2001,2001/2002,international
-FC Internazionale,AC Parma,Serie A,Adriano,21,Centre-Forward,13.05M,sold,Summer,2002,2002/2003,local
-Palmeiras,CD Nacional,Liga Nos,Adriano,21,Centre-Forward,NA,sold,Summer,2002,2002/2003,international
-AC Parma,FC Internazionale,Serie A,Adriano,22,Centre-Forward,21.06M,sold,Winter,2003,2003/2004,local
-Coritiba FC,Sevilla FC,Primera Division,Adriano,23,Centre-Forward,1.89M,sold,Winter,2004,2004/2005,international
-FC Penafiel,Comercial-SP,Liga Nos,Adriano,23,Centre-Forward,NA,on loan,Summer,2004,2004/2005,international
-Grêmio,US Palermo,Serie A,Adriano,23,Centre-Forward,NA,sold,Summer,2004,2004/2005,international
-US Palermo,Atalanta BC,Serie A,Adriano,23,Centre-Forward,NA,on loan,Winter,2004,2004/2005,local
-Valenciano,Rio Ave FC,Liga Nos,Adriano,23,Centre-Forward,NA,sold,Summer,2004,2004/2005,local
-CD Nacional,Cruzeiro,Liga Nos,Adriano,24,Centre-Forward,0.27M,sold,Summer,2005,2005/2006,local
-Cruzeiro,FC Porto,Liga Nos,Adriano,24,Centre-Forward,NA,on loan,Winter,2005,2005/2006,local
-Figueirense FC,Saturn Ramenskoe,Premier Liga,Adriano,24,Centre-Forward,0.45M,sold,Winter,2005,2005/2006,international
-Gil Vicente FC,Without Club,Liga Nos,Adriano,24,Centre-Forward,NA,sold,Summer,2005,2005/2006,international
-US Palermo,Atalanta BC,Serie A,Adriano,24,Centre-Forward,NA,sold,Summer,2005,2005/2006,local
-Cruzeiro,FC Porto,Liga Nos,Adriano,25,Centre-Forward,1.08M,sold,Summer,2006,2006/2007,local
-FC Porto,Cruzeiro,Liga Nos,Adriano,25,Centre-Forward,NA,on loan,Summer,2006,2006/2007,local
-Saturn Ramenskoe,Denizlispor,Premier Liga,Adriano,25,Centre-Forward,0.36M,sold,Summer,2006,2006/2007,international
-Atalanta BC,AS Monaco,Serie A,Adriano,26,Centre-Forward,2.25M,sold,Summer,2007,2007/2008,international
-FC Internazionale,São Paulo,Serie A,Adriano,26,Centre-Forward,NA,on loan,Winter,2007,2007/2008,local
-Paraná,CS Marítimo,Liga Nos,Adriano,26,Centre-Forward,NA,sold,Winter,2007,2007/2008,local
-CS Marítimo,Bragantino,Liga Nos,Adriano,27,Centre-Forward,NA,on loan,Summer,2008,2008/2009,international
+Atlético Madrid,RCD Espanyol Barcelona,Primera Division,Roberto,24,Central Midfield,NA,sold,Winter,1997,1997/1998,local
+Moreirense FC,Académica Coimbra,Liga Nos,Roberto,23,Central Midfield,NA,sold,Summer,2002,2002/2003,local
+Académica Coimbra,CF Estrela Amadora SAD,Liga Nos,Roberto,24,Central Midfield,NA,sold,Summer,2003,2003/2004,local
+Real Murcia CF,Rayo Vallecano,Primera Division,Roberto,30,Central Midfield,NA,sold,Winter,2003,2003/2004,local
+UD Salamanca (liq.),Real Murcia CF,Primera Division,Roberto,30,Central Midfield,NA,sold,Summer,2003,2003/2004,local
+Atl. Madrid B,Atlético de Madrid,Primera Division,Roberto,19,Central Midfield,NA,sold,Summer,2005,2005/2006,local
+Atlético de Madrid,Gimnàstic de Tarragona,Primera Division,Roberto,21,Central Midfield,NA,on loan,Summer,2007,2007/2008,local
+Varzim SC,Vitória Guimarães SC,Liga Nos,Roberto,29,Central Midfield,0.153M,sold,Winter,2007,2007/2008,local
+Atlético Madrid,Recreativo Huelva,Primera Division,Roberto,22,Central Midfield,NA,sold,Summer,2008,2008/2009,local
+Atlético de Madrid,Recr. Huelva,Primera Division,Roberto,22,Central Midfield,NA,sold,Summer,2008,2008/2009,international
+Gimnàstic de Tarragona,Atlético de Madrid,Primera Division,Roberto,22,Central Midfield,NA,on loan,Summer,2008,2008/2009,local
+Atlético Madrid,Real Zaragoza,Primera Division,Roberto,23,Central Midfield,NA,on loan,Winter,2009,2009/2010,local
+Atlético de Madrid,Real Zaragoza,Primera Division,Roberto,23,Central Midfield,NA,on loan,Winter,2009,2009/2010,local
+Leixões SC,CD Feirense,Liga Nos,Roberto,32,Central Midfield,NA,sold,Summer,2009,2009/2010,local
+Recr. Huelva,Atlético de Madrid,Primera Division,Roberto,23,Central Midfield,1.13M,sold,Summer,2009,2009/2010,international
+Atlético Madrid,SL Benfica,Liga Nos,Roberto,24,Central Midfield,7.65M,sold,Summer,2010,2010/2011,international
+Atlético de Madrid,SL Benfica,Primera Division,Roberto,24,Central Midfield,7.65M,sold,Summer,2010,2010/2011,international
+Real Zaragoza,Atlético Madrid,Primera Division,Roberto,24,Central Midfield,NA,on loan,Summer,2010,2010/2011,local
+Real Zaragoza,Atlético de Madrid,Primera Division,Roberto,24,Central Midfield,NA,on loan,Summer,2010,2010/2011,local
+Vitória Guimarães SC,Asteras Tripoli,Liga Nos,Roberto,31,Central Midfield,NA,sold,Summer,2010,2010/2011,international
+BJ Guoan,Gil Vicente FC,Liga Nos,Roberto,33,Central Midfield,NA,sold,Summer,2011,2011/2012,international
+CD Feirense,FC Arouca,Liga Nos,Roberto,34,Central Midfield,NA,sold,Summer,2011,2011/2012,local
+SL Benfica,Real Zaragoza,Primera Division,Roberto,25,Central Midfield,7.74M,sold,Summer,2011,2011/2012,international
+Gil Vicente FC,Retired,Liga Nos,Roberto,33,Central Midfield,NA,sold,Summer,2012,2012/2013,international
+Atlético de Madrid,Olympiacos,Primera Division,Roberto,27,Central Midfield,NA,on loan,Summer,2013,2013/2014,international
+Real Zaragoza,SL Benfica,Liga Nos,Roberto,27,Central Midfield,7.74M,sold,Summer,2013,2013/2014,international
+SL Benfica,Atlético Madrid,Liga Nos,Roberto,27,Central Midfield,5.4M,sold,Summer,2013,2013/2014,international
+SL Benfica,Atlético de Madrid,Primera Division,Roberto,27,Central Midfield,5.4M,sold,Summer,2013,2013/2014,international
+Atlético de Madrid,Olympiacos,Primera Division,Roberto,28,Central Midfield,5.4M,sold,Summer,2014,2014/2015,international
+FC Arouca,FC Tosno (-2018),Liga Nos,Roberto,25,Central Midfield,NA,on loan,Summer,2014,2014/2015,international
+FC Tosno (-2018),FC Arouca,Liga Nos,Roberto,25,Central Midfield,NA,on loan,Summer,2014,2014/2015,international
+Olympiacos,Atlético de Madrid,Primera Division,Roberto,28,Central Midfield,NA,on loan,Summer,2014,2014/2015,international
+FC Arouca,Moreirense FC,Liga Nos,Roberto,27,Central Midfield,NA,on loan,Summer,2016,2016/2017,local
+Olympiacos,RCD Espanyol Barcelona,Primera Division,Roberto,30,Central Midfield,2.7M,sold,Summer,2016,2016/2017,international
+Moreirense FC,FC Arouca,Liga Nos,Roberto,28,Central Midfield,NA,on loan,Summer,2017,2017/2018,local
+RCD Espanyol Barcelona,Málaga CF,Primera Division,Roberto,31,Central Midfield,NA,on loan,Summer,2017,2017/2018,local
+Málaga CF,RCD Espanyol Barcelona,Primera Division,Roberto,32,Central Midfield,NA,on loan,Summer,2018,2018/2019,local
+RCD Espanyol Barcelona,West Ham United,Premier League,Roberto,33,Central Midfield,NA,sold,Summer,2019,2019/2020,international
+West Ham United,Deportivo Alavés,Premier League,Roberto,33,Central Midfield,NA,on loan,Winter,2019,2019/2020,international
+Deportivo Alavés,West Ham United,Premier League,Roberto,34,Central Midfield,NA,on loan,Summer,2020,2020/2021,international
+West Ham United,Real Valladolid CF,Premier League,Roberto,34,Central Midfield,NA,sold,Summer,2020,2020/2021,international
+Leixões SC,Gil Vicente FC,Liga Nos,Adriano,22,Centre-Forward,NA,sold,Summer,2000,2000/2001,local
+FC Internazionale,AC Fiorentina,Serie A,Adriano,19,Centre-Forward,NA,on loan,Winter,2001,2001/2002,local
+Flamengo,FC Internazionale,Serie A,Adriano,19,Centre-Forward,11.87M,sold,Summer,2001,2001/2002,international
+FC Internazionale,AC Parma,Serie A,Adriano,20,Centre-Forward,13.05M,sold,Summer,2002,2002/2003,local
+Palmeiras,CD Nacional,Liga Nos,Adriano,23,Centre-Forward,NA,sold,Summer,2002,2002/2003,international
+AC Parma,FC Internazionale,Serie A,Adriano,21,Centre-Forward,21.06M,sold,Winter,2003,2003/2004,local
+Coritiba FC,Sevilla FC,Primera Division,Adriano,20,Centre-Forward,1.89M,sold,Winter,2004,2004/2005,international
+FC Penafiel,Comercial-SP,Liga Nos,Adriano,22,Centre-Forward,NA,on loan,Summer,2004,2004/2005,international
+Grêmio,US Palermo,Serie A,Adriano,22,Centre-Forward,NA,sold,Summer,2004,2004/2005,international
+US Palermo,Atalanta BC,Serie A,Adriano,22,Centre-Forward,NA,on loan,Winter,2004,2004/2005,local
+Valenciano,Rio Ave FC,Liga Nos,Adriano,21,Centre-Forward,NA,sold,Summer,2004,2004/2005,local
+CD Nacional,Cruzeiro,Liga Nos,Adriano,26,Centre-Forward,0.27M,sold,Summer,2005,2005/2006,local
+Cruzeiro,FC Porto,Liga Nos,Adriano,26,Centre-Forward,NA,on loan,Winter,2005,2005/2006,local
+Figueirense FC,Saturn Ramenskoe,Premier Liga,Adriano,25,Centre-Forward,0.45M,sold,Winter,2005,2005/2006,international
+Gil Vicente FC,Without Club,Liga Nos,Adriano,27,Centre-Forward,NA,sold,Summer,2005,2005/2006,international
+US Palermo,Atalanta BC,Serie A,Adriano,23,Centre-Forward,NA,sold,Summer,2005,2005/2006,local
+Cruzeiro,FC Porto,Liga Nos,Adriano,27,Centre-Forward,1.08M,sold,Summer,2006,2006/2007,local
+FC Porto,Cruzeiro,Liga Nos,Adriano,27,Centre-Forward,NA,on loan,Summer,2006,2006/2007,local
+Saturn Ramenskoe,Denizlispor,Premier Liga,Adriano,26,Centre-Forward,0.36M,sold,Summer,2006,2006/2007,international
+Atalanta BC,AS Monaco,Serie A,Adriano,25,Centre-Forward,2.25M,sold,Summer,2007,2007/2008,international
+FC Internazionale,São Paulo,Serie A,Adriano,25,Centre-Forward,NA,on loan,Winter,2007,2007/2008,local
+Paraná,CS Marítimo,Liga Nos,Adriano,28,Centre-Forward,NA,sold,Winter,2007,2007/2008,local
+CS Marítimo,Bragantino,Liga Nos,Adriano,29,Centre-Forward,NA,on loan,Summer,2008,2008/2009,international
 FC Internazionale,Flamengo,Serie A,Adriano,27,Centre-Forward,NA,sold,Summer,2008,2008/2009,international
-Internacional,Málaga CF,Primera Division,Adriano,27,Centre-Forward,NA,on loan,Winter,2008,2008/2009,international
-Pandurii,Rio Ave FC,Liga Nos,Adriano,27,Centre-Forward,NA,on loan,Summer,2008,2008/2009,international
-Rio Ave FC,CF União Madeira,Liga Nos,Adriano,27,Centre-Forward,NA,sold,Summer,2008,2008/2009,local
-Benfica U19,SL Benfica,Liga Nos,Adriano,28,Centre-Forward,NA,sold,Summer,2009,2009/2010,local
-Bragantino,CS Marítimo,Liga Nos,Adriano,28,Centre-Forward,NA,on loan,Summer,2009,2009/2010,international
-CS Marítimo,Marítimo B,Liga Nos,Adriano,28,Centre-Forward,NA,sold,Summer,2009,2009/2010,local
-Carregado,SL Benfica,Liga Nos,Adriano,28,Centre-Forward,NA,on loan,Winter,2009,2009/2010,local
-Coritiba FC,Rio Ave FC,Liga Nos,Adriano,28,Centre-Forward,NA,sold,Summer,2009,2009/2010,local
-FC Porto,SC Braga,Liga Nos,Adriano,28,Centre-Forward,NA,sold,Summer,2009,2009/2010,local
-Málaga CF,Internacional,Primera Division,Adriano,28,Centre-Forward,NA,on loan,Summer,2009,2009/2010,international
-SL Benfica,Atlético CP,Liga Nos,Adriano,28,Centre-Forward,NA,on loan,Winter,2009,2009/2010,local
-SL Benfica,Carregado,Liga Nos,Adriano,28,Centre-Forward,NA,on loan,Summer,2009,2009/2010,local
+Internacional,Málaga CF,Primera Division,Adriano,26,Centre-Forward,NA,on loan,Winter,2008,2008/2009,international
+Pandurii,Rio Ave FC,Liga Nos,Adriano,25,Centre-Forward,NA,on loan,Summer,2008,2008/2009,international
+Rio Ave FC,CF União Madeira,Liga Nos,Adriano,25,Centre-Forward,NA,sold,Summer,2008,2008/2009,local
+Benfica U19,SL Benfica,Liga Nos,Adriano,18,Centre-Forward,NA,sold,Summer,2009,2009/2010,local
+Bragantino,CS Marítimo,Liga Nos,Adriano,30,Centre-Forward,NA,on loan,Summer,2009,2009/2010,international
+CS Marítimo,Marítimo B,Liga Nos,Adriano,30,Centre-Forward,NA,sold,Summer,2009,2009/2010,local
+Carregado,SL Benfica,Liga Nos,Adriano,19,Centre-Forward,NA,on loan,Winter,2009,2009/2010,local
+Coritiba FC,Rio Ave FC,Liga Nos,Adriano,21,Centre-Forward,NA,sold,Summer,2009,2009/2010,local
+FC Porto,SC Braga,Liga Nos,Adriano,30,Centre-Forward,NA,sold,Summer,2009,2009/2010,local
+Málaga CF,Internacional,Primera Division,Adriano,27,Centre-Forward,NA,on loan,Summer,2009,2009/2010,international
+SL Benfica,Atlético CP,Liga Nos,Adriano,19,Centre-Forward,NA,on loan,Winter,2009,2009/2010,local
+SL Benfica,Carregado,Liga Nos,Adriano,18,Centre-Forward,NA,on loan,Summer,2009,2009/2010,local
 AS Roma,Corinthians,Serie A,Adriano,29,Centre-Forward,NA,sold,Winter,2010,2010/2011,international
-Atlético CP,SL Benfica,Liga Nos,Adriano,29,Centre-Forward,NA,on loan,Summer,2010,2010/2011,local
-Flamengo,AS Roma,Serie A,Adriano,29,Centre-Forward,NA,sold,Summer,2010,2010/2011,international
-Rio Ave FC,Without Club,Liga Nos,Adriano,29,Centre-Forward,NA,sold,Summer,2010,2010/2011,international
-SC Braga,Without Club,Liga Nos,Adriano,29,Centre-Forward,NA,sold,Summer,2010,2010/2011,international
-SL Benfica,Barueri,Liga Nos,Adriano,29,Centre-Forward,NA,sold,Winter,2010,2010/2011,local
-Sevilla FC,FC Barcelona,Primera Division,Adriano,29,Centre-Forward,8.55M,sold,Summer,2010,2010/2011,local
-AS Monaco,Retired,Ligue 1,Adriano,32,Centre-Forward,NA,sold,Summer,2013,2013/2014,international
-FC Barcelona,Besiktas,Primera Division,Adriano,35,Centre-Forward,2.07M,sold,Summer,2016,2016/2017,international
+Atlético CP,SL Benfica,Liga Nos,Adriano,19,Centre-Forward,NA,on loan,Summer,2010,2010/2011,local
+Flamengo,AS Roma,Serie A,Adriano,28,Centre-Forward,NA,sold,Summer,2010,2010/2011,international
+Rio Ave FC,Without Club,Liga Nos,Adriano,22,Centre-Forward,NA,sold,Summer,2010,2010/2011,international
+SC Braga,Without Club,Liga Nos,Adriano,31,Centre-Forward,NA,sold,Summer,2010,2010/2011,international
+SL Benfica,Barueri,Liga Nos,Adriano,20,Centre-Forward,NA,sold,Winter,2010,2010/2011,local
+Sevilla FC,FC Barcelona,Primera Division,Adriano,25,Centre-Forward,8.55M,sold,Summer,2010,2010/2011,local
+AS Monaco,Retired,Ligue 1,Adriano,31,Centre-Forward,NA,sold,Summer,2013,2013/2014,international
+FC Barcelona,Besiktas,Primera Division,Adriano,31,Centre-Forward,2.07M,sold,Summer,2016,2016/2017,international
 Boro U18,Middlesbrough FC,Premier League,Ben Roberts,17,Goalkeeper,NA,sold,Summer,1992,1992/1993,local
 Boro U18,Middlesbrough FC,Championship,Ben Roberts,17,Goalkeeper,NA,sold,all-year,1992,1992/1993,local
 Hartlepool Utd.,Middlesbrough FC,Premier League,Ben Roberts,20,Goalkeeper,NA,on loan,Winter,1995,1995/1996,local
@@ -448,157 +448,157 @@ Luton Town,Charlton Athletic,Championship,Ben Roberts,27,Goalkeeper,NA,on loan,a
 Charlton Athletic,Brighton & Hove Albion,Premier League,Ben Roberts,28,Goalkeeper,NA,sold,Summer,2003,2003/2004,local
 Charlton Athletic,Brighton & Hove Albion,Championship,Ben Roberts,28,Goalkeeper,NA,sold,all-year,2003,2003/2004,local
 Brighton & Hove Albion,Derry City,Championship,Ben Roberts,30,Goalkeeper,NA,sold,Summer,2005,2005/2006,local
-Vitória Setúbal FC,Operário Lagoa,Liga Nos,Nuno Santos,13,Left-Back,NA,on loan,Summer,1993,1993/1994,local
-Operário Lagoa,Vitória Setúbal FC,Liga Nos,Nuno Santos,14,Left-Back,NA,on loan,Summer,1994,1994/1995,local
-Lourinhanense,Sporting CP,Liga Nos,Nuno Santos,17,Left-Back,NA,on loan,Summer,1997,1997/1998,local
-Vitória Setúbal FC,Leeds United,Premier League,Nuno Santos,18,Left-Back,NA,sold,Summer,1998,1998/1999,international
-Vitória Setúbal FC,Leeds United,Championship,Nuno Santos,18,Left-Back,NA,sold,all-year,1998,1998/1999,international
-Leeds United,SL Benfica,Premier League,Nuno Santos,19,Left-Back,NA,sold,Summer,1999,1999/2000,international
-Leeds United,SL Benfica,Championship,Nuno Santos,19,Left-Back,NA,sold,all-year,1999,1999/2000,international
-Sporting CP,Lourinhanense,Liga Nos,Nuno Santos,19,Left-Back,NA,on loan,Summer,1999,1999/2000,local
-Lourinhanense,Sporting CP,Liga Nos,Nuno Santos,20,Left-Back,NA,on loan,Summer,2000,2000/2001,local
-SL Benfica,CD Badajoz,Liga Nos,Nuno Santos,20,Left-Back,NA,sold,Summer,2000,2000/2001,international
-CD Santa Clara,SC Beira-Mar,Liga Nos,Nuno Santos,21,Left-Back,NA,sold,Summer,2001,2001/2002,local
-Sporting CP,CF Estrela Amadora SAD,Liga Nos,Nuno Santos,21,Left-Back,NA,on loan,Summer,2001,2001/2002,local
-SC Beira-Mar,SL Benfica,Liga Nos,Nuno Santos,22,Left-Back,NA,sold,Summer,2002,2002/2003,local
-CF Estrela Amadora SAD,Sporting CP,Liga Nos,Nuno Santos,23,Left-Back,NA,on loan,Summer,2003,2003/2004,local
-SL Benfica,Vitória Setúbal FC,Liga Nos,Nuno Santos,23,Left-Back,NA,sold,Summer,2003,2003/2004,local
-Sporting CP,FC Penafiel,Liga Nos,Nuno Santos,23,Left-Back,NA,on loan,Winter,2003,2003/2004,local
-SL Benfica,CD Santa Clara,Liga Nos,Nuno Santos,24,Left-Back,NA,sold,Summer,2004,2004/2005,local
-Vitória Setúbal FC,SL Benfica,Liga Nos,Nuno Santos,24,Left-Back,NA,on loan,Summer,2004,2004/2005,local
-FC Penafiel,Sporting CP,Liga Nos,Nuno Santos,26,Left-Back,NA,on loan,Summer,2006,2006/2007,local
-Sporting CP,Vit. Guimarães,Liga Nos,Nuno Santos,26,Left-Back,NA,sold,Summer,2006,2006/2007,local
-Vit. Guimarães,Vitória Setúbal FC,Liga Nos,Nuno Santos,29,Left-Back,NA,sold,Summer,2009,2009/2010,local
-Vitória Guimarães SC,Vitória Setúbal FC,Liga Nos,Nuno Santos,29,Left-Back,NA,sold,Summer,2009,2009/2010,local
+Vitória Setúbal FC,Operário Lagoa,Liga Nos,Nuno Santos,20,Left-Back,NA,on loan,Summer,1993,1993/1994,local
+Operário Lagoa,Vitória Setúbal FC,Liga Nos,Nuno Santos,21,Left-Back,NA,on loan,Summer,1994,1994/1995,local
+Lourinhanense,Sporting CP,Liga Nos,Nuno Santos,18,Left-Back,NA,on loan,Summer,1997,1997/1998,local
+Vitória Setúbal FC,Leeds United,Premier League,Nuno Santos,25,Left-Back,NA,sold,Summer,1998,1998/1999,international
+Vitória Setúbal FC,Leeds United,Championship,Nuno Santos,25,Left-Back,NA,sold,all-year,1998,1998/1999,international
+Leeds United,SL Benfica,Premier League,Nuno Santos,26,Left-Back,NA,sold,Summer,1999,1999/2000,international
+Leeds United,SL Benfica,Championship,Nuno Santos,26,Left-Back,NA,sold,all-year,1999,1999/2000,international
+Sporting CP,Lourinhanense,Liga Nos,Nuno Santos,20,Left-Back,NA,on loan,Summer,1999,1999/2000,local
+Lourinhanense,Sporting CP,Liga Nos,Nuno Santos,21,Left-Back,NA,on loan,Summer,2000,2000/2001,local
+SL Benfica,CD Badajoz,Liga Nos,Nuno Santos,27,Left-Back,NA,sold,Summer,2000,2000/2001,international
+CD Santa Clara,SC Beira-Mar,Liga Nos,Nuno Santos,28,Left-Back,NA,sold,Summer,2001,2001/2002,local
+Sporting CP,CF Estrela Amadora SAD,Liga Nos,Nuno Santos,23,Left-Back,NA,on loan,Summer,2001,2001/2002,local
+SC Beira-Mar,SL Benfica,Liga Nos,Nuno Santos,29,Left-Back,NA,sold,Summer,2002,2002/2003,local
+CF Estrela Amadora SAD,Sporting CP,Liga Nos,Nuno Santos,24,Left-Back,NA,on loan,Summer,2003,2003/2004,local
+SL Benfica,Vitória Setúbal FC,Liga Nos,Nuno Santos,30,Left-Back,NA,sold,Summer,2003,2003/2004,local
+Sporting CP,FC Penafiel,Liga Nos,Nuno Santos,25,Left-Back,NA,on loan,Winter,2003,2003/2004,local
+SL Benfica,CD Santa Clara,Liga Nos,Nuno Santos,31,Left-Back,NA,sold,Summer,2004,2004/2005,local
+Vitória Setúbal FC,SL Benfica,Liga Nos,Nuno Santos,31,Left-Back,NA,on loan,Summer,2004,2004/2005,local
+FC Penafiel,Sporting CP,Liga Nos,Nuno Santos,27,Left-Back,NA,on loan,Summer,2006,2006/2007,local
+Sporting CP,Vit. Guimarães,Liga Nos,Nuno Santos,28,Left-Back,NA,sold,Summer,2006,2006/2007,local
+Vit. Guimarães,Vitória Setúbal FC,Liga Nos,Nuno Santos,31,Left-Back,NA,sold,Summer,2009,2009/2010,local
+Vitória Guimarães SC,Vitória Setúbal FC,Liga Nos,Nuno Santos,31,Left-Back,NA,sold,Summer,2009,2009/2010,local
 CD Santa Clara,FC Paços de Ferreira,Liga Nos,Nuno Santos,30,Left-Back,NA,sold,Summer,2010,2010/2011,local
-Portimonense SC,Gil Vicente FC,Liga Nos,Nuno Santos,30,Left-Back,NA,sold,Summer,2010,2010/2011,local
-Vitória Setúbal FC,Portimonense SC,Liga Nos,Nuno Santos,30,Left-Back,NA,sold,Summer,2010,2010/2011,local
-Gil Vicente FC,SC Covilhã,Liga Nos,Nuno Santos,31,Left-Back,NA,sold,Summer,2011,2011/2012,local
+Portimonense SC,Gil Vicente FC,Liga Nos,Nuno Santos,32,Left-Back,NA,sold,Summer,2010,2010/2011,local
+Vitória Setúbal FC,Portimonense SC,Liga Nos,Nuno Santos,31,Left-Back,NA,sold,Summer,2010,2010/2011,local
+Gil Vicente FC,SC Covilhã,Liga Nos,Nuno Santos,32,Left-Back,NA,sold,Summer,2011,2011/2012,local
 FC Paços de Ferreira,CD Tondela,Liga Nos,Nuno Santos,34,Left-Back,NA,sold,Summer,2014,2014/2015,local
-FC Penafiel,GD Ribeirão,Liga Nos,Nuno Santos,34,Left-Back,NA,sold,Summer,2014,2014/2015,local
-Benfica B,Vitória Setúbal FC,Liga Nos,Nuno Santos,36,Left-Back,NA,on loan,Summer,2016,2016/2017,international
+FC Penafiel,GD Ribeirão,Liga Nos,Nuno Santos,35,Left-Back,NA,sold,Summer,2014,2014/2015,local
+Benfica B,Vitória Setúbal FC,Liga Nos,Nuno Santos,21,Left-Back,NA,on loan,Summer,2016,2016/2017,international
 CD Tondela,Académica Coimbra,Liga Nos,Nuno Santos,36,Left-Back,NA,sold,Summer,2016,2016/2017,local
-Benfica B,Rio Ave FC,Liga Nos,Nuno Santos,37,Left-Back,NA,sold,Summer,2017,2017/2018,international
-Vitória Setúbal FC,Benfica B,Liga Nos,Nuno Santos,37,Left-Back,NA,on loan,Summer,2017,2017/2018,international
-Benfica B,Moreirense FC,Liga Nos,Nuno Santos,39,Left-Back,NA,on loan,Winter,2019,2019/2020,international
-Benfica B,SL Benfica,Liga Nos,Nuno Santos,40,Left-Back,NA,sold,Summer,2020,2020/2021,international
-Moreirense FC,Benfica B,Liga Nos,Nuno Santos,40,Left-Back,NA,on loan,Summer,2020,2020/2021,international
-Rio Ave FC,Sporting CP,Liga Nos,Nuno Santos,40,Left-Back,3.38M,sold,Summer,2020,2020/2021,local
-SL Benfica,Boavista FC,Liga Nos,Nuno Santos,40,Left-Back,NA,on loan,Summer,2020,2020/2021,local
-Boavista FC,SL Benfica,Liga Nos,Nuno Santos,41,Left-Back,NA,on loan,Summer,2021,2021/2022,local
-SL Benfica,FC Paços de Ferreira,Liga Nos,Nuno Santos,41,Left-Back,NA,on loan,Summer,2021,2021/2022,local
-SL Benfica,Paços Ferreira,Liga Nos,Nuno Santos,41,Left-Back,NA,on loan,Summer,2021,2021/2022,local
-União Coimbra,Académica Coimbra,Liga Nos,Eduardo,19,Goalkeeper,NA,sold,Summer,2002,2002/2003,local
-RSC Charleroi,FC Toulouse,Ligue 1,Eduardo,20,Goalkeeper,NA,sold,Summer,2003,2003/2004,local
-Académica Coimbra,Pombal,Liga Nos,Eduardo,21,Goalkeeper,NA,on loan,Summer,2004,2004/2005,local
+Benfica B,Rio Ave FC,Liga Nos,Nuno Santos,22,Left-Back,NA,sold,Summer,2017,2017/2018,international
+Vitória Setúbal FC,Benfica B,Liga Nos,Nuno Santos,22,Left-Back,NA,on loan,Summer,2017,2017/2018,international
+Benfica B,Moreirense FC,Liga Nos,Nuno Santos,20,Left-Back,NA,on loan,Winter,2019,2019/2020,international
+Benfica B,SL Benfica,Liga Nos,Nuno Santos,21,Left-Back,NA,sold,Summer,2020,2020/2021,international
+Moreirense FC,Benfica B,Liga Nos,Nuno Santos,21,Left-Back,NA,on loan,Summer,2020,2020/2021,international
+Rio Ave FC,Sporting CP,Liga Nos,Nuno Santos,25,Left-Back,3.38M,sold,Summer,2020,2020/2021,local
+SL Benfica,Boavista FC,Liga Nos,Nuno Santos,21,Left-Back,NA,on loan,Summer,2020,2020/2021,local
+Boavista FC,SL Benfica,Liga Nos,Nuno Santos,22,Left-Back,NA,on loan,Summer,2021,2021/2022,local
+SL Benfica,FC Paços de Ferreira,Liga Nos,Nuno Santos,22,Left-Back,NA,on loan,Summer,2021,2021/2022,local
+SL Benfica,Paços Ferreira,Liga Nos,Nuno Santos,22,Left-Back,NA,on loan,Summer,2021,2021/2022,local
+União Coimbra,Académica Coimbra,Liga Nos,Eduardo,23,Goalkeeper,NA,sold,Summer,2002,2002/2003,local
+RSC Charleroi,FC Toulouse,Ligue 1,Eduardo,23,Goalkeeper,NA,sold,Summer,2003,2003/2004,local
+Académica Coimbra,Pombal,Liga Nos,Eduardo,25,Goalkeeper,NA,on loan,Summer,2004,2004/2005,local
 Braga B,SC Braga,Liga Nos,Eduardo,22,Goalkeeper,NA,sold,Summer,2005,2005/2006,local
-FC Toulouse,FC Basel,Ligue 1,Eduardo,22,Goalkeeper,NA,sold,Summer,2005,2005/2006,international
-Pombal,Académica Coimbra,Liga Nos,Eduardo,22,Goalkeeper,NA,on loan,Summer,2005,2005/2006,local
+FC Toulouse,FC Basel,Ligue 1,Eduardo,25,Goalkeeper,NA,sold,Summer,2005,2005/2006,international
+Pombal,Académica Coimbra,Liga Nos,Eduardo,26,Goalkeeper,NA,on loan,Summer,2005,2005/2006,local
 SC Braga,SC Beira-Mar,Liga Nos,Eduardo,23,Goalkeeper,NA,on loan,Summer,2006,2006/2007,local
-Académica Coimbra,GD Tourizense,Liga Nos,Eduardo,24,Goalkeeper,NA,sold,Summer,2007,2007/2008,local
+Académica Coimbra,GD Tourizense,Liga Nos,Eduardo,28,Goalkeeper,NA,sold,Summer,2007,2007/2008,local
 Dinamo Zagreb,Arsenal FC,Premier League,Eduardo,24,Goalkeeper,12.15M,sold,Summer,2007,2007/2008,local
 SC Beira-Mar,SC Braga,Liga Nos,Eduardo,24,Goalkeeper,NA,on loan,Summer,2007,2007/2008,local
 SC Braga,Vitória Setúbal FC,Liga Nos,Eduardo,24,Goalkeeper,NA,on loan,Summer,2007,2007/2008,local
 Vitória Setúbal FC,SC Braga,Liga Nos,Eduardo,25,Goalkeeper,NA,on loan,Summer,2008,2008/2009,local
-EA Guingamp,RC Lens,Ligue 1,Eduardo,26,Goalkeeper,2.7M,sold,Summer,2009,2009/2010,local
+EA Guingamp,RC Lens,Ligue 1,Eduardo,28,Goalkeeper,2.7M,sold,Summer,2009,2009/2010,local
 Arsenal FC,Shakhtar D.,Premier League,Eduardo,27,Goalkeeper,6.48M,sold,Summer,2010,2010/2011,international
 SC Braga,Genoa 1893,Liga Nos,Eduardo,27,Goalkeeper,4.05M,sold,Summer,2010,2010/2011,international
 SC Braga,Genoa CFC,Serie A,Eduardo,27,Goalkeeper,4.05M,sold,Summer,2010,2010/2011,international
 Genoa 1893,SL Benfica,Liga Nos,Eduardo,28,Goalkeeper,NA,on loan,Summer,2011,2011/2012,international
 Genoa CFC,SL Benfica,Serie A,Eduardo,28,Goalkeeper,NA,on loan,Summer,2011,2011/2012,international
-RC Lens,AC Ajaccio,Ligue 1,Eduardo,28,Goalkeeper,NA,sold,Winter,2011,2011/2012,local
-AC Ajaccio,Without Club,Ligue 1,Eduardo,29,Goalkeeper,NA,sold,Winter,2012,2012/2013,local
+RC Lens,AC Ajaccio,Ligue 1,Eduardo,31,Goalkeeper,NA,sold,Winter,2011,2011/2012,local
+AC Ajaccio,Without Club,Ligue 1,Eduardo,32,Goalkeeper,NA,sold,Winter,2012,2012/2013,local
 Genoa CFC,Istanbul BBSK,Serie A,Eduardo,29,Goalkeeper,NA,on loan,Summer,2012,2012/2013,local
 SL Benfica,Genoa 1893,Liga Nos,Eduardo,29,Goalkeeper,NA,on loan,Summer,2012,2012/2013,international
-AC Ajaccio,FC Metz,Ligue 1,Eduardo,30,Goalkeeper,NA,sold,Winter,2013,2013/2014,local
+AC Ajaccio,FC Metz,Ligue 1,Eduardo,33,Goalkeeper,NA,sold,Winter,2013,2013/2014,local
 Genoa 1893,SC Braga,Liga Nos,Eduardo,30,Goalkeeper,NA,on loan,Summer,2013,2013/2014,international
 Genoa CFC,SC Braga,Serie A,Eduardo,30,Goalkeeper,NA,on loan,Summer,2013,2013/2014,international
-Without Club,AC Ajaccio,Ligue 1,Eduardo,30,Goalkeeper,NA,sold,Summer,2013,2013/2014,local
-FC Metz,River-PI,Ligue 1,Eduardo,31,Goalkeeper,NA,sold,Summer,2014,2014/2015,local
+Without Club,AC Ajaccio,Ligue 1,Eduardo,32,Goalkeeper,NA,sold,Summer,2013,2013/2014,local
+FC Metz,River-PI,Ligue 1,Eduardo,33,Goalkeeper,NA,sold,Summer,2014,2014/2015,local
 Genoa CFC,Dinamo Zagreb,Serie A,Eduardo,31,Goalkeeper,NA,sold,Summer,2014,2014/2015,international
 SC Braga,Genoa 1893,Liga Nos,Eduardo,31,Goalkeeper,NA,on loan,Summer,2014,2014/2015,international
 Dinamo Zagreb,Chelsea FC,Premier League,Eduardo,33,Goalkeeper,NA,sold,Summer,2016,2016/2017,local
-Fluminense,GD Estoril Praia,Liga Nos,Eduardo,33,Goalkeeper,NA,on loan,Summer,2016,2016/2017,international
-Fluminense,GD Estoril Praia,Liga Nos,Eduardo,34,Goalkeeper,0.023M,sold,Summer,2017,2017/2018,international
-GD Estoril Praia,Fluminense,Liga Nos,Eduardo,34,Goalkeeper,NA,on loan,Summer,2017,2017/2018,international
+Fluminense,GD Estoril Praia,Liga Nos,Eduardo,23,Goalkeeper,NA,on loan,Summer,2016,2016/2017,international
+Fluminense,GD Estoril Praia,Liga Nos,Eduardo,24,Goalkeeper,0.023M,sold,Summer,2017,2017/2018,international
+GD Estoril Praia,Fluminense,Liga Nos,Eduardo,24,Goalkeeper,NA,on loan,Summer,2017,2017/2018,international
 Chelsea FC,Vitesse Arnhem,Premier League,Eduardo,35,Goalkeeper,NA,on loan,Summer,2018,2018/2019,international
-Estoril Praia,SC Braga,Liga Nos,Eduardo,35,Goalkeeper,1.13M,sold,Summer,2018,2018/2019,local
+Estoril Praia,SC Braga,Liga Nos,Eduardo,25,Goalkeeper,1.13M,sold,Summer,2018,2018/2019,local
 Chelsea FC,SC Braga,Premier League,Eduardo,36,Goalkeeper,NA,sold,Summer,2019,2019/2020,international
-SC Braga,AO Xanthi,Liga Nos,Eduardo,36,Goalkeeper,NA,on loan,Summer,2019,2019/2020,local
-SC Braga,Retired,Liga Nos,Eduardo,36,Goalkeeper,NA,sold,Summer,2019,2019/2020,international
+SC Braga,AO Xanthi,Liga Nos,Eduardo,26,Goalkeeper,NA,on loan,Summer,2019,2019/2020,local
+SC Braga,Retired,Liga Nos,Eduardo,37,Goalkeeper,NA,sold,Summer,2019,2019/2020,international
 Vitesse Arnhem,Chelsea FC,Premier League,Eduardo,36,Goalkeeper,NA,on loan,Summer,2019,2019/2020,international
-AO Xanthi,SC Braga,Liga Nos,Eduardo,37,Goalkeeper,NA,on loan,Summer,2020,2020/2021,local
-SC Braga,Náutico,Liga Nos,Eduardo,38,Goalkeeper,NA,on loan,Winter,2021,2021/2022,local
-Estoril Praia,CF Estrela Amadora SAD,Liga Nos,Paulinho,5,Central Midfield,NA,sold,Summer,1993,1993/1994,local
-Salgueiros U19,SC Salgueiros,Liga Nos,Paulinho,6,Central Midfield,NA,sold,Summer,1994,1994/1995,local
-Leça FC,América-MG,Liga Nos,Paulinho,8,Central Midfield,NA,sold,Winter,1996,1996/1997,local
-SC Salgueiros,Unknown,Liga Nos,Paulinho,8,Central Midfield,NA,sold,Summer,1996,1996/1997,international
-CF Estrela Amadora SAD,SC Salgueiros,Liga Nos,Paulinho,9,Central Midfield,NA,sold,Summer,1997,1997/1998,local
-SC Salgueiros,Estoril Praia,Liga Nos,Paulinho,12,Central Midfield,NA,sold,Summer,2000,2000/2001,local
-Juventude,AS Livorno,Serie A,Paulinho,16,Central Midfield,0.09M,sold,Winter,2004,2004/2005,international
-AS Livorno,Grosseto,Serie A,Paulinho,19,Central Midfield,NA,on loan,Summer,2007,2007/2008,local
-AS Livorno,Sorrento,Serie A,Paulinho,21,Central Midfield,NA,on loan,Summer,2009,2009/2010,local
-Leixões SC,Moreirense FC,Liga Nos,Paulinho,24,Central Midfield,NA,sold,Summer,2012,2012/2013,local
-CD Trofense,Gil Vicente FC,Liga Nos,Paulinho,25,Central Midfield,NA,sold,Summer,2013,2013/2014,local
-Corinthians,Tottenham Hotspur,Premier League,Paulinho,25,Central Midfield,17.75M,sold,Summer,2013,2013/2014,international
-América-MG,CD Nacional,Liga Nos,Paulinho,27,Central Midfield,NA,sold,Winter,2015,2015/2016,local
-Moreirense FC,CF União Madeira,Liga Nos,Paulinho,27,Central Midfield,NA,sold,Summer,2015,2015/2016,local
-Tottenham Hotspur,GZ Evergrande,Premier League,Paulinho,27,Central Midfield,12.6M,sold,Summer,2015,2015/2016,local
-CD Nacional,Without Club,Liga Nos,Paulinho,28,Central Midfield,NA,sold,Summer,2016,2016/2017,international
-CF União Madeira,GD Chaves,Liga Nos,Paulinho,28,Central Midfield,NA,sold,Summer,2016,2016/2017,local
-GD Chaves,SC Braga,Liga Nos,Paulinho,28,Central Midfield,0.315M,sold,Winter,2016,2016/2017,local
+AO Xanthi,SC Braga,Liga Nos,Eduardo,27,Goalkeeper,NA,on loan,Summer,2020,2020/2021,local
+SC Braga,Náutico,Liga Nos,Eduardo,28,Goalkeeper,NA,on loan,Winter,2021,2021/2022,local
+Estoril Praia,CF Estrela Amadora SAD,Liga Nos,Paulinho,27,Central Midfield,NA,sold,Summer,1993,1993/1994,local
+Salgueiros U19,SC Salgueiros,Liga Nos,Paulinho,19,Central Midfield,NA,sold,Summer,1994,1994/1995,local
+Leça FC,América-MG,Liga Nos,Paulinho,23,Central Midfield,NA,sold,Winter,1996,1996/1997,local
+SC Salgueiros,Unknown,Liga Nos,Paulinho,21,Central Midfield,NA,sold,Summer,1996,1996/1997,international
+CF Estrela Amadora SAD,SC Salgueiros,Liga Nos,Paulinho,31,Central Midfield,NA,sold,Summer,1997,1997/1998,local
+SC Salgueiros,Estoril Praia,Liga Nos,Paulinho,34,Central Midfield,NA,sold,Summer,2000,2000/2001,local
+Juventude,AS Livorno,Serie A,Paulinho,18,Central Midfield,0.09M,sold,Winter,2004,2004/2005,international
+AS Livorno,Grosseto,Serie A,Paulinho,21,Central Midfield,NA,on loan,Summer,2007,2007/2008,local
+AS Livorno,Sorrento,Serie A,Paulinho,23,Central Midfield,NA,on loan,Summer,2009,2009/2010,local
+Leixões SC,Moreirense FC,Liga Nos,Paulinho,20,Central Midfield,NA,sold,Summer,2012,2012/2013,local
+CD Trofense,Gil Vicente FC,Liga Nos,Paulinho,20,Central Midfield,NA,sold,Summer,2013,2013/2014,local
+Corinthians,Tottenham Hotspur,Premier League,Paulinho,24,Central Midfield,17.75M,sold,Summer,2013,2013/2014,international
+América-MG,CD Nacional,Liga Nos,Paulinho,23,Central Midfield,NA,sold,Winter,2015,2015/2016,local
+Moreirense FC,CF União Madeira,Liga Nos,Paulinho,23,Central Midfield,NA,sold,Summer,2015,2015/2016,local
+Tottenham Hotspur,GZ Evergrande,Premier League,Paulinho,26,Central Midfield,12.6M,sold,Summer,2015,2015/2016,local
+CD Nacional,Without Club,Liga Nos,Paulinho,23,Central Midfield,NA,sold,Summer,2016,2016/2017,international
+CF União Madeira,GD Chaves,Liga Nos,Paulinho,25,Central Midfield,NA,sold,Summer,2016,2016/2017,local
+GD Chaves,SC Braga,Liga Nos,Paulinho,25,Central Midfield,0.315M,sold,Winter,2016,2016/2017,local
 GZ Evergrande,FC Barcelona,Primera Division,Paulinho,29,Central Midfield,36.0M,sold,Summer,2017,2017/2018,international
-Gil Vicente FC,SC Braga,Liga Nos,Paulinho,29,Central Midfield,NA,sold,Summer,2017,2017/2018,local
-Portimonense SC,FC Porto,Liga Nos,Paulinho,29,Central Midfield,NA,on loan,Winter,2017,2017/2018,local
-SC Braga,GD Chaves,Liga Nos,Paulinho,29,Central Midfield,NA,sold,Summer,2017,2017/2018,local
-FC Barcelona,GZ Evergrande,Primera Division,Paulinho,30,Central Midfield,4.95M,on loan,Summer,2018,2018/2019,international
+Gil Vicente FC,SC Braga,Liga Nos,Paulinho,24,Central Midfield,NA,sold,Summer,2017,2017/2018,local
+Portimonense SC,FC Porto,Liga Nos,Paulinho,23,Central Midfield,NA,on loan,Winter,2017,2017/2018,local
+SC Braga,GD Chaves,Liga Nos,Paulinho,25,Central Midfield,NA,sold,Summer,2017,2017/2018,local
+FC Barcelona,GZ Evergrande,Primera Division,Paulinho,29,Central Midfield,4.95M,on loan,Summer,2018,2018/2019,international
 FC Barcelona,GZ Evergrande,Primera Division,Paulinho,30,Central Midfield,37.8M,sold,Winter,2018,2018/2019,international
-FC Porto,Portimonense SC,Liga Nos,Paulinho,30,Central Midfield,2.27M,sold,Summer,2018,2018/2019,local
-FC Porto,Portimonense SC,Liga Nos,Paulinho,30,Central Midfield,NA,on loan,Summer,2018,2018/2019,local
+FC Porto,Portimonense SC,Liga Nos,Paulinho,23,Central Midfield,NA,on loan,Summer,2018,2018/2019,local
+FC Porto,Portimonense SC,Liga Nos,Paulinho,24,Central Midfield,2.27M,sold,Summer,2018,2018/2019,local
 GZ Evergrande,FC Barcelona,Primera Division,Paulinho,30,Central Midfield,NA,on loan,Winter,2018,2018/2019,international
-Portimonense SC,FC Porto,Liga Nos,Paulinho,30,Central Midfield,2.7M,sold,Summer,2018,2018/2019,local
-Vasco da Gama,Bayer 04 Leverkusen,1 Bundesliga,Paulinho,30,Central Midfield,16.65M,sold,Summer,2018,2018/2019,international
-Fluminense U20,Boavista FC,Liga Nos,Paulinho,31,Central Midfield,NA,sold,Summer,2019,2019/2020,local
-Portimonense SC,HB CFFC,Liga Nos,Paulinho,31,Central Midfield,NA,sold,Winter,2019,2019/2020,international
-AEK Athens,Gil Vicente FC,Liga Nos,Paulinho,32,Central Midfield,NA,sold,Winter,2020,2020/2021,international
-SC Braga,Sporting CP,Liga Nos,Paulinho,32,Central Midfield,14.4M,sold,Winter,2020,2020/2021,local
-Boavista FC,Shabab,Liga Nos,Paulinho,33,Central Midfield,0.9M,sold,Summer,2021,2021/2022,international
-Gil Vicente FC,Moreirense FC,Liga Nos,Paulinho,33,Central Midfield,NA,sold,Summer,2021,2021/2022,local
-SC Farense,Belenenses SAD,Liga Nos,Pelé,16,Central Midfield,NA,sold,Summer,2003,2003/2004,local
-Belenenses SAD,Southampton FC,Championship,Pelé,19,Central Midfield,1.17M,sold,Summer,2006,2006/2007,international
-Southampton FC,West Bromwich Albion,Championship,Pelé,20,Central Midfield,1.35M,sold,Summer,2007,2007/2008,local
-Vit. Guimarães,FC Internazionale,Serie A,Pelé,20,Central Midfield,1.8M,sold,Summer,2007,2007/2008,international
-Vitória Guimarães SC,FC Internazionale,Liga Nos,Pelé,20,Central Midfield,1.8M,sold,Summer,2007,2007/2008,international
-FC Internazionale,FC Porto,Serie A,Pelé,21,Central Midfield,5.4M,sold,Summer,2008,2008/2009,international
+Portimonense SC,FC Porto,Liga Nos,Paulinho,23,Central Midfield,2.7M,sold,Summer,2018,2018/2019,local
+Vasco da Gama,Bayer 04 Leverkusen,1 Bundesliga,Paulinho,18,Central Midfield,16.65M,sold,Summer,2018,2018/2019,international
+Fluminense U20,Boavista FC,Liga Nos,Paulinho,22,Central Midfield,NA,sold,Summer,2019,2019/2020,local
+Portimonense SC,HB CFFC,Liga Nos,Paulinho,25,Central Midfield,NA,sold,Winter,2019,2019/2020,international
+AEK Athens,Gil Vicente FC,Liga Nos,Paulinho,29,Central Midfield,NA,sold,Winter,2020,2020/2021,international
+SC Braga,Sporting CP,Liga Nos,Paulinho,28,Central Midfield,14.4M,sold,Winter,2020,2020/2021,local
+Boavista FC,Shabab,Liga Nos,Paulinho,24,Central Midfield,0.9M,sold,Summer,2021,2021/2022,international
+Gil Vicente FC,Moreirense FC,Liga Nos,Paulinho,30,Central Midfield,NA,sold,Summer,2021,2021/2022,local
+SC Farense,Belenenses SAD,Liga Nos,Pelé,25,Central Midfield,NA,sold,Summer,2003,2003/2004,local
+Belenenses SAD,Southampton FC,Championship,Pelé,28,Central Midfield,1.17M,sold,Summer,2006,2006/2007,international
+Southampton FC,West Bromwich Albion,Championship,Pelé,29,Central Midfield,1.35M,sold,Summer,2007,2007/2008,local
+Vit. Guimarães,FC Internazionale,Serie A,Pelé,19,Central Midfield,1.8M,sold,Summer,2007,2007/2008,international
+Vitória Guimarães SC,FC Internazionale,Liga Nos,Pelé,19,Central Midfield,1.8M,sold,Summer,2007,2007/2008,international
+FC Internazionale,FC Porto,Serie A,Pelé,20,Central Midfield,5.4M,sold,Summer,2008,2008/2009,international
 FC Porto,Portsmouth FC,Premier League,Pelé,21,Central Midfield,0.585M,on loan,Winter,2008,2008/2009,international
-FC Porto,Real Valladolid CF,Primera Division,Pelé,22,Central Midfield,NA,on loan,Summer,2009,2009/2010,international
-Portsmouth FC,FC Porto,Premier League,Pelé,22,Central Midfield,NA,on loan,Summer,2009,2009/2010,international
-West Bromwich Albion,Without Club,Championship,Pelé,22,Central Midfield,NA,sold,Summer,2009,2009/2010,international
-FC Porto,Eskisehirspor,Liga Nos,Pelé,23,Central Midfield,0.612M,sold,Summer,2010,2010/2011,international
-Real Valladolid CF,FC Porto,Liga Nos,Pelé,23,Central Midfield,NA,on loan,Summer,2010,2010/2011,international
-Belenenses SAD,AC Milan,Serie A,Pelé,24,Central Midfield,0.27M,sold,Summer,2011,2011/2012,international
-AC Milan,Arsenal Kyiv,Serie A,Pelé,25,Central Midfield,NA,on loan,Summer,2012,2012/2013,international
-AC Milan,SC Olhanense,Serie A,Pelé,26,Central Midfield,NA,on loan,Summer,2013,2013/2014,international
-AC Milan,Belenenses SAD,Serie A,Pelé,27,Central Midfield,NA,on loan,Summer,2014,2014/2015,international
-AC Milan,SL Benfica,Serie A,Pelé,28,Central Midfield,NA,sold,Summer,2015,2015/2016,international
-SL Benfica,FC Paços de Ferreira,Liga Nos,Pelé,28,Central Midfield,NA,on loan,Summer,2015,2015/2016,local
-SL Benfica,Paços Ferreira,Liga Nos,Pelé,28,Central Midfield,NA,on loan,Summer,2015,2015/2016,local
-Benfica B,CD Feirense,Liga Nos,Pelé,29,Central Midfield,NA,on loan,Winter,2016,2016/2017,international
-FC Paços de Ferreira,SL Benfica,Liga Nos,Pelé,29,Central Midfield,NA,on loan,Summer,2016,2016/2017,local
-Paços Ferreira,SL Benfica,Liga Nos,Pelé,29,Central Midfield,NA,on loan,Summer,2016,2016/2017,local
-SL Benfica,Benfica B,Liga Nos,Pelé,29,Central Midfield,NA,sold,Summer,2016,2016/2017,international
-Benfica B,Rio Ave FC,Liga Nos,Pelé,30,Central Midfield,NA,sold,Summer,2017,2017/2018,international
-CD Feirense,Benfica B,Liga Nos,Pelé,30,Central Midfield,NA,on loan,Summer,2017,2017/2018,international
-AS Monaco,Nottingham Forest,Championship,Pelé,31,Central Midfield,NA,on loan,Winter,2018,2018/2019,international
-AS Monaco,Nottm Forest,Ligue 1,Pelé,31,Central Midfield,NA,on loan,Winter,2018,2018/2019,international
-Rio Ave FC,AS Monaco,Liga Nos,Pelé,31,Central Midfield,6.48M,sold,Summer,2018,2018/2019,international
-AS Monaco,Reading FC,Championship,Pelé,32,Central Midfield,NA,on loan,Summer,2019,2019/2020,international
-Nottingham Forest,AS Monaco,Championship,Pelé,32,Central Midfield,NA,on loan,Summer,2019,2019/2020,international
-Nottm Forest,AS Monaco,Ligue 1,Pelé,32,Central Midfield,NA,on loan,Summer,2019,2019/2020,international
-AS Monaco,Rio Ave FC,Liga Nos,Pelé,33,Central Midfield,NA,on loan,Summer,2020,2020/2021,international
-Reading FC,AS Monaco,Championship,Pelé,33,Central Midfield,NA,on loan,Summer,2020,2020/2021,international
-Rio Ave FC,AS Monaco,Ligue 1,Pelé,34,Central Midfield,NA,on loan,Summer,2021,2021/2022,international
-Derby U18,Derby County,Championship,Lee Camp,18,Goalkeeper,NA,sold,all-year,2002,2002/2003,local
+FC Porto,Real Valladolid CF,Primera Division,Pelé,21,Central Midfield,NA,on loan,Summer,2009,2009/2010,international
+Portsmouth FC,FC Porto,Premier League,Pelé,21,Central Midfield,NA,on loan,Summer,2009,2009/2010,international
+West Bromwich Albion,Without Club,Championship,Pelé,31,Central Midfield,NA,sold,Summer,2009,2009/2010,international
+FC Porto,Eskisehirspor,Liga Nos,Pelé,22,Central Midfield,0.612M,sold,Summer,2010,2010/2011,international
+Real Valladolid CF,FC Porto,Liga Nos,Pelé,22,Central Midfield,NA,on loan,Summer,2010,2010/2011,international
+Belenenses SAD,AC Milan,Serie A,Pelé,19,Central Midfield,0.27M,sold,Summer,2011,2011/2012,international
+AC Milan,Arsenal Kyiv,Serie A,Pelé,20,Central Midfield,NA,on loan,Summer,2012,2012/2013,international
+AC Milan,SC Olhanense,Serie A,Pelé,21,Central Midfield,NA,on loan,Summer,2013,2013/2014,international
+AC Milan,Belenenses SAD,Serie A,Pelé,22,Central Midfield,NA,on loan,Summer,2014,2014/2015,international
+AC Milan,SL Benfica,Serie A,Pelé,23,Central Midfield,NA,sold,Summer,2015,2015/2016,international
+SL Benfica,FC Paços de Ferreira,Liga Nos,Pelé,23,Central Midfield,NA,on loan,Summer,2015,2015/2016,local
+SL Benfica,Paços Ferreira,Liga Nos,Pelé,23,Central Midfield,NA,on loan,Summer,2015,2015/2016,local
+Benfica B,CD Feirense,Liga Nos,Pelé,25,Central Midfield,NA,on loan,Winter,2016,2016/2017,international
+FC Paços de Ferreira,SL Benfica,Liga Nos,Pelé,24,Central Midfield,NA,on loan,Summer,2016,2016/2017,local
+Paços Ferreira,SL Benfica,Liga Nos,Pelé,24,Central Midfield,NA,on loan,Summer,2016,2016/2017,local
+SL Benfica,Benfica B,Liga Nos,Pelé,24,Central Midfield,NA,sold,Summer,2016,2016/2017,international
+Benfica B,Rio Ave FC,Liga Nos,Pelé,25,Central Midfield,NA,sold,Summer,2017,2017/2018,international
+CD Feirense,Benfica B,Liga Nos,Pelé,25,Central Midfield,NA,on loan,Summer,2017,2017/2018,international
+AS Monaco,Nottingham Forest,Championship,Pelé,27,Central Midfield,NA,on loan,Winter,2018,2018/2019,international
+AS Monaco,Nottm Forest,Ligue 1,Pelé,27,Central Midfield,NA,on loan,Winter,2018,2018/2019,international
+Rio Ave FC,AS Monaco,Liga Nos,Pelé,26,Central Midfield,6.48M,sold,Summer,2018,2018/2019,international
+AS Monaco,Reading FC,Championship,Pelé,27,Central Midfield,NA,on loan,Summer,2019,2019/2020,international
+Nottingham Forest,AS Monaco,Championship,Pelé,27,Central Midfield,NA,on loan,Summer,2019,2019/2020,international
+Nottm Forest,AS Monaco,Ligue 1,Pelé,27,Central Midfield,NA,on loan,Summer,2019,2019/2020,international
+AS Monaco,Rio Ave FC,Liga Nos,Pelé,29,Central Midfield,NA,on loan,Summer,2020,2020/2021,international
+Reading FC,AS Monaco,Championship,Pelé,28,Central Midfield,NA,on loan,Summer,2020,2020/2021,international
+Rio Ave FC,AS Monaco,Ligue 1,Pelé,29,Central Midfield,NA,on loan,Summer,2021,2021/2022,international
+Derby U18,Derby County,Championship,Lee Camp,17,Goalkeeper,NA,sold,all-year,2002,2002/2003,local
 Burton Albion,Derby County,Championship,Lee Camp,19,Goalkeeper,NA,on loan,all-year,2003,2003/2004,local
 Derby County,Burton Albion,Championship,Lee Camp,19,Goalkeeper,NA,on loan,all-year,2003,2003/2004,local
 Derby County,QPR U18,Championship,Lee Camp,19,Goalkeeper,NA,on loan,all-year,2003,2003/2004,local
@@ -611,101 +611,101 @@ Derby County,Queens Park Rangers,Championship,Lee Camp,22,Goalkeeper,NA,on loan,
 Norwich City,Derby County,Championship,Lee Camp,22,Goalkeeper,NA,on loan,Winter,2006,2006/2007,local
 QPR U18,Derby County,Championship,Lee Camp,22,Goalkeeper,NA,on loan,Winter,2006,2006/2007,local
 Queens Park Rangers,Derby County,Championship,Lee Camp,22,Goalkeeper,NA,on loan,Winter,2006,2006/2007,local
-Derby County,QPR U18,Premier League,Lee Camp,23,Goalkeeper,0.405M,sold,Summer,2007,2007/2008,local
-Derby County,Queens Park Rangers,Championship,Lee Camp,23,Goalkeeper,0.405M,sold,Summer,2007,2007/2008,local
+Derby County,QPR U18,Premier League,Lee Camp,22,Goalkeeper,0.405M,sold,Summer,2007,2007/2008,local
+Derby County,Queens Park Rangers,Championship,Lee Camp,22,Goalkeeper,0.405M,sold,Summer,2007,2007/2008,local
 Nottingham Forest,QPR U18,Championship,Lee Camp,24,Goalkeeper,NA,on loan,Winter,2008,2008/2009,local
 Nottm Forest,Queens Park Rangers,Championship,Lee Camp,24,Goalkeeper,NA,on loan,Winter,2008,2008/2009,local
 QPR U18,Nottingham Forest,Championship,Lee Camp,24,Goalkeeper,NA,on loan,Summer,2008,2008/2009,local
 Queens Park Rangers,Nottm Forest,Championship,Lee Camp,24,Goalkeeper,NA,on loan,Summer,2008,2008/2009,local
-QPR U18,Nottingham Forest,Championship,Lee Camp,25,Goalkeeper,0.117M,sold,Summer,2009,2009/2010,local
-Queens Park Rangers,Nottm Forest,Championship,Lee Camp,25,Goalkeeper,0.117M,sold,Summer,2009,2009/2010,local
+QPR U18,Nottingham Forest,Championship,Lee Camp,24,Goalkeeper,0.117M,sold,Summer,2009,2009/2010,local
+Queens Park Rangers,Nottm Forest,Championship,Lee Camp,24,Goalkeeper,0.117M,sold,Summer,2009,2009/2010,local
 Nottingham Forest,Norwich City,Championship,Lee Camp,28,Goalkeeper,NA,sold,Winter,2012,2012/2013,local
 Nottm Forest,Norwich City,Premier League,Lee Camp,28,Goalkeeper,NA,sold,Winter,2012,2012/2013,local
 AFC Bournemouth,West Bromwich Albion,Premier League,Lee Camp,29,Goalkeeper,NA,on loan,Winter,2013,2013/2014,local
-Norwich City,Without Club,Premier League,Lee Camp,29,Goalkeeper,NA,sold,Summer,2013,2013/2014,international
+Norwich City,Without Club,Premier League,Lee Camp,28,Goalkeeper,NA,sold,Summer,2013,2013/2014,international
 West Bromwich Albion,AFC Bournemouth,Premier League,Lee Camp,29,Goalkeeper,NA,on loan,Summer,2013,2013/2014,local
 West Bromwich Albion,AFC Bournemouth,Premier League,Lee Camp,29,Goalkeeper,NA,sold,Winter,2013,2013/2014,local
 Without Club,West Bromwich Albion,Premier League,Lee Camp,29,Goalkeeper,NA,sold,Summer,2013,2013/2014,international
 AFC Bournemouth,Rotherham United,Premier League,Lee Camp,31,Goalkeeper,NA,sold,Summer,2015,2015/2016,local
 Cardiff City,Sunderland AFC,Championship,Lee Camp,33,Goalkeeper,NA,on loan,Winter,2017,2017/2018,local
-Rotherham United,Cardiff City,Championship,Lee Camp,33,Goalkeeper,NA,sold,Summer,2017,2017/2018,local
+Rotherham United,Cardiff City,Championship,Lee Camp,32,Goalkeeper,NA,sold,Summer,2017,2017/2018,local
 Sunderland AFC,Cardiff City,Championship,Lee Camp,33,Goalkeeper,NA,on loan,Summer,2017,2017/2018,local
-Cardiff City,Birmingham City,Premier League,Lee Camp,34,Goalkeeper,NA,sold,Summer,2018,2018/2019,local
-Birmingham City,Without Club,Championship,Lee Camp,36,Goalkeeper,NA,sold,Summer,2020,2020/2021,international
+Cardiff City,Birmingham City,Premier League,Lee Camp,33,Goalkeeper,NA,sold,Summer,2018,2018/2019,local
+Birmingham City,Without Club,Championship,Lee Camp,35,Goalkeeper,NA,sold,Summer,2020,2020/2021,international
 Coventry City,Without Club,Championship,Lee Camp,36,Goalkeeper,NA,sold,Winter,2020,2020/2021,international
 Without Club,Coventry City,Championship,Lee Camp,36,Goalkeeper,NA,sold,Winter,2020,2020/2021,international
-SL Benfica,SC Bastia,Liga Nos,William,13,Left-Back,NA,sold,Summer,1995,1995/1996,international
-SC Bastia,SD Compostela,Primera Division,William,14,Left-Back,NA,sold,Summer,1996,1996/1997,international
-EC Vitória,Boavista FC,Liga Nos,William,16,Left-Back,NA,sold,Summer,1998,1998/1999,local
-SD Compostela,Vitória Guimarães SC,Liga Nos,William,18,Left-Back,NA,sold,Summer,2000,2000/2001,international
-Vit. Guimarães,Celta de Vigo,Primera Division,William,19,Left-Back,NA,sold,Winter,2001,2001/2002,international
-Vitória Guimarães SC,Celta de Vigo,Liga Nos,William,19,Left-Back,NA,sold,Winter,2001,2001/2002,international
-Celta de Vigo,Retired,Primera Division,William,20,Left-Back,NA,sold,Summer,2002,2002/2003,international
-Académica Coimbra,CD Fátima,Liga Nos,William,22,Left-Back,NA,on loan,Winter,2004,2004/2005,local
-EC São José,Académica Coimbra,Liga Nos,William,22,Left-Back,NA,sold,Summer,2004,2004/2005,local
-Académica Coimbra,SC Braga,Liga Nos,William,23,Left-Back,NA,sold,Summer,2005,2005/2006,local
-Boavista FC,Coritiba FC,Liga Nos,William,23,Left-Back,NA,sold,Winter,2005,2005/2006,local
-CD Fátima,Académica Coimbra,Liga Nos,William,23,Left-Back,NA,on loan,Summer,2005,2005/2006,local
-Santos FC,Boavista FC,Liga Nos,William,23,Left-Back,NA,sold,Summer,2005,2005/2006,local
-SC Braga,Gil Vicente FC,Liga Nos,William,24,Left-Back,NA,on loan,Summer,2006,2006/2007,local
-Boavista FC,CD Feirense,Liga Nos,William,25,Left-Back,NA,sold,Summer,2007,2007/2008,local
+SL Benfica,SC Bastia,Liga Nos,William,27,Left-Back,NA,sold,Summer,1995,1995/1996,international
+SC Bastia,SD Compostela,Primera Division,William,28,Left-Back,NA,sold,Summer,1996,1996/1997,international
+EC Vitória,Boavista FC,Liga Nos,William,30,Left-Back,NA,sold,Summer,1998,1998/1999,local
+SD Compostela,Vitória Guimarães SC,Liga Nos,William,32,Left-Back,NA,sold,Summer,2000,2000/2001,international
+Vit. Guimarães,Celta de Vigo,Primera Division,William,34,Left-Back,NA,sold,Winter,2001,2001/2002,international
+Vitória Guimarães SC,Celta de Vigo,Liga Nos,William,34,Left-Back,NA,sold,Winter,2001,2001/2002,international
+Celta de Vigo,Retired,Primera Division,William,34,Left-Back,NA,sold,Summer,2002,2002/2003,international
+Académica Coimbra,CD Fátima,Liga Nos,William,19,Left-Back,NA,on loan,Winter,2004,2004/2005,local
+EC São José,Académica Coimbra,Liga Nos,William,19,Left-Back,NA,sold,Summer,2004,2004/2005,local
+Académica Coimbra,SC Braga,Liga Nos,William,20,Left-Back,NA,sold,Summer,2005,2005/2006,local
+Boavista FC,Coritiba FC,Liga Nos,William,22,Left-Back,NA,sold,Winter,2005,2005/2006,local
+CD Fátima,Académica Coimbra,Liga Nos,William,20,Left-Back,NA,on loan,Summer,2005,2005/2006,local
+Santos FC,Boavista FC,Liga Nos,William,22,Left-Back,NA,sold,Summer,2005,2005/2006,local
+SC Braga,Gil Vicente FC,Liga Nos,William,21,Left-Back,NA,on loan,Summer,2006,2006/2007,local
+Boavista FC,CD Feirense,Liga Nos,William,39,Left-Back,NA,sold,Summer,2007,2007/2008,local
 Cabofriense,FC Paços de Ferreira,Liga Nos,William,25,Left-Back,NA,sold,Winter,2007,2007/2008,local
-Gil Vicente FC,SC Braga,Liga Nos,William,25,Left-Back,NA,on loan,Summer,2007,2007/2008,local
-SC Braga,H. Ramat Gan,Liga Nos,William,25,Left-Back,NA,sold,Summer,2007,2007/2008,local
+Gil Vicente FC,SC Braga,Liga Nos,William,22,Left-Back,NA,on loan,Summer,2007,2007/2008,local
+SC Braga,H. Ramat Gan,Liga Nos,William,22,Left-Back,NA,sold,Summer,2007,2007/2008,local
 OFK Beograd,Amkar Perm,Premier Liga,William,26,Left-Back,0.18M,sold,Winter,2008,2008/2009,local
 Amkar Perm,Shinnik Yaroslavl,Premier Liga,William,27,Left-Back,NA,on loan,Winter,2009,2009/2010,local
 FC Paços de Ferreira,Anzhi Makhachkala,Liga Nos,William,27,Left-Back,NA,sold,Winter,2009,2009/2010,international
 Paços Ferreira,Anzhi Makhachkala,Premier Liga,William,27,Left-Back,NA,sold,Winter,2009,2009/2010,international
-Amkar Perm,Dinamo Bryansk,Premier Liga,William,28,Left-Back,NA,sold,Summer,2010,2010/2011,local
-Anzhi Makhachkala,Vit. Guimarães,Premier Liga,William,28,Left-Back,NA,sold,Summer,2010,2010/2011,international
-Anzhi Makhachkala,Vitória Guimarães SC,Liga Nos,William,28,Left-Back,NA,sold,Summer,2010,2010/2011,international
-Shinnik Yaroslavl,Amkar Perm,Premier Liga,William,28,Left-Back,NA,on loan,Summer,2010,2010/2011,local
+Amkar Perm,Dinamo Bryansk,Premier Liga,William,27,Left-Back,NA,sold,Summer,2010,2010/2011,local
+Anzhi Makhachkala,Vit. Guimarães,Premier Liga,William,27,Left-Back,NA,sold,Summer,2010,2010/2011,international
+Anzhi Makhachkala,Vitória Guimarães SC,Liga Nos,William,27,Left-Back,NA,sold,Summer,2010,2010/2011,international
+Shinnik Yaroslavl,Amkar Perm,Premier Liga,William,27,Left-Back,NA,on loan,Summer,2010,2010/2011,local
 Vit. Guimarães,Vitória Setúbal FC,Liga Nos,William,28,Left-Back,NA,on loan,Winter,2010,2010/2011,local
 Vitória Guimarães SC,Vitória Setúbal FC,Liga Nos,William,28,Left-Back,NA,on loan,Winter,2010,2010/2011,local
 FC Paços de Ferreira,Vit. Guimarães,Liga Nos,William,29,Left-Back,NA,on loan,Winter,2011,2011/2012,local
 Paços Ferreira,Vitória Guimarães SC,Liga Nos,William,29,Left-Back,NA,on loan,Winter,2011,2011/2012,local
-Vit. Guimarães,FC Paços de Ferreira,Liga Nos,William,29,Left-Back,NA,on loan,Summer,2011,2011/2012,local
+Vit. Guimarães,FC Paços de Ferreira,Liga Nos,William,28,Left-Back,NA,on loan,Summer,2011,2011/2012,local
 Vitória Guimarães SC,Olaria AC,Liga Nos,William,29,Left-Back,NA,sold,Winter,2011,2011/2012,local
-Vitória Guimarães SC,Paços Ferreira,Liga Nos,William,29,Left-Back,NA,on loan,Summer,2011,2011/2012,local
-Vitória Setúbal FC,Vit. Guimarães,Liga Nos,William,29,Left-Back,NA,on loan,Summer,2011,2011/2012,local
-Vitória Setúbal FC,Vitória Guimarães SC,Liga Nos,William,29,Left-Back,NA,on loan,Summer,2011,2011/2012,local
+Vitória Guimarães SC,Paços Ferreira,Liga Nos,William,28,Left-Back,NA,on loan,Summer,2011,2011/2012,local
+Vitória Setúbal FC,Vit. Guimarães,Liga Nos,William,28,Left-Back,NA,on loan,Summer,2011,2011/2012,local
+Vitória Setúbal FC,Vitória Guimarães SC,Liga Nos,William,28,Left-Back,NA,on loan,Summer,2011,2011/2012,local
 FK Ufa,Retired,Premier Liga,William,32,Left-Back,NA,sold,Winter,2014,2014/2015,local
-Kayserispor,GD Chaves,Liga Nos,William,34,Left-Back,NA,sold,Summer,2016,2016/2017,international
-Internacional,VfL Wolfsburg,1 Bundesliga,William,35,Left-Back,4.5M,sold,Summer,2017,2017/2018,international
-VfL Wolfsburg,FC Schalke 04,1 Bundesliga,William,38,Left-Back,NA,on loan,Winter,2020,2020/2021,local
-FC Schalke 04,VfL Wolfsburg,1 Bundesliga,William,39,Left-Back,NA,on loan,Summer,2021,2021/2022,local
+Kayserispor,GD Chaves,Liga Nos,William,24,Left-Back,NA,sold,Summer,2016,2016/2017,international
+Internacional,VfL Wolfsburg,1 Bundesliga,William,22,Left-Back,4.5M,sold,Summer,2017,2017/2018,international
+VfL Wolfsburg,FC Schalke 04,1 Bundesliga,William,25,Left-Back,NA,on loan,Winter,2020,2020/2021,local
+FC Schalke 04,VfL Wolfsburg,1 Bundesliga,William,26,Left-Back,NA,on loan,Summer,2021,2021/2022,local
 UNAM Pumas,Atlético Madrid,Primera Division,Luis García,23,Forward,NA,sold,Summer,1992,1992/1993,local
 Atlético Madrid,Real Sociedad,Primera Division,Luis García,25,Forward,NA,sold,Summer,1994,1994/1995,local
 Real Sociedad,América,Primera Division,Luis García,26,Forward,NA,sold,Summer,1995,1995/1996,local
-FC Barcelona,Real Valladolid CF,Primera Division,Luis García,29,Forward,NA,on loan,Winter,1998,1998/1999,local
-FC Barcelona B,FC Barcelona,Primera Division,Luis García,29,Forward,NA,sold,Summer,1998,1998/1999,local
-FC Barcelona,CD Toledo,Primera Division,Luis García,30,Forward,NA,on loan,Summer,1999,1999/2000,local
-Real Valladolid CF,FC Barcelona,Primera Division,Luis García,30,Forward,NA,on loan,Summer,1999,1999/2000,local
-CD Toledo,FC Barcelona,Primera Division,Luis García,31,Forward,NA,on loan,Summer,2000,2000/2001,local
-FC Barcelona,CD Tenerife,Primera Division,Luis García,31,Forward,NA,on loan,Summer,2000,2000/2001,local
-CD Tenerife,FC Barcelona,Primera Division,Luis García,32,Forward,NA,on loan,Summer,2001,2001/2002,local
-FC Barcelona,Real Valladolid CF,Primera Division,Luis García,32,Forward,NA,on loan,Summer,2001,2001/2002,local
-FC Barcelona,Atlético Madrid,Primera Division,Luis García,33,Forward,NA,on loan,Summer,2002,2002/2003,local
-Real Valladolid CF,FC Barcelona,Primera Division,Luis García,33,Forward,NA,on loan,Summer,2002,2002/2003,local
-Atlético Madrid,FC Barcelona,Primera Division,Luis García,34,Forward,NA,on loan,Summer,2003,2003/2004,local
-Real Madrid B,Real Murcia CF,Primera Division,Luis García,34,Forward,NA,sold,Summer,2003,2003/2004,local
-CD Numancia,Real Zaragoza,Primera Division,Luis García,35,Forward,0.405M,sold,Summer,2004,2004/2005,local
-FC Barcelona,Liverpool FC,Premier League,Luis García,35,Forward,7.88M,sold,Summer,2004,2004/2005,international
-Real Murcia CF,RCD Mallorca,Primera Division,Luis García,35,Forward,NA,sold,Summer,2004,2004/2005,local
-RCD Mallorca,RCD Espanyol Barcelona,Primera Division,Luis García,36,Forward,2.7M,sold,Summer,2005,2005/2006,local
-Real Zaragoza,Getafe CF,Primera Division,Luis García,36,Forward,NA,sold,Summer,2005,2005/2006,local
-Getafe CF,Celta de Vigo,Primera Division,Luis García,38,Forward,NA,on loan,Winter,2007,2007/2008,local
-Liverpool FC,Atlético Madrid,Premier League,Luis García,38,Forward,3.6M,sold,Summer,2007,2007/2008,international
-Liverpool FC,Atlético de Madrid,Primera Division,Luis García,38,Forward,3.6M,sold,Summer,2007,2007/2008,international
-Celta de Vigo,Getafe CF,Primera Division,Luis García,39,Forward,NA,on loan,Summer,2008,2008/2009,local
-Getafe CF,CD Tenerife,Primera Division,Luis García,39,Forward,NA,sold,Summer,2008,2008/2009,local
-Atlético Madrid,Racing Santander,Primera Division,Luis García,40,Forward,NA,sold,Summer,2009,2009/2010,local
-Atlético de Madrid,Racing Santander,Primera Division,Luis García,40,Forward,NA,sold,Summer,2009,2009/2010,local
-Racing Santander,Panathinaikos,Primera Division,Luis García,41,Forward,NA,sold,Summer,2010,2010/2011,international
-RCD Espanyol Barcelona,Real Zaragoza,Primera Division,Luis García,42,Forward,0.9M,sold,Summer,2011,2011/2012,local
-Real Zaragoza,Tigres UANL,Primera Division,Luis García,43,Forward,NA,on loan,Summer,2012,2012/2013,local
-Boro U18,Middlesbrough FC,Premier League,Danny Graham,18,Centre-Forward,NA,sold,Summer,2003,2003/2004,local
-Boro U18,Middlesbrough FC,Championship,Danny Graham,18,Centre-Forward,NA,sold,all-year,2003,2003/2004,local
+FC Barcelona,Real Valladolid CF,Primera Division,Luis García,20,Forward,NA,on loan,Winter,1998,1998/1999,local
+FC Barcelona B,FC Barcelona,Primera Division,Luis García,20,Forward,NA,sold,Summer,1998,1998/1999,local
+FC Barcelona,CD Toledo,Primera Division,Luis García,21,Forward,NA,on loan,Summer,1999,1999/2000,local
+Real Valladolid CF,FC Barcelona,Primera Division,Luis García,21,Forward,NA,on loan,Summer,1999,1999/2000,local
+CD Toledo,FC Barcelona,Primera Division,Luis García,22,Forward,NA,on loan,Summer,2000,2000/2001,local
+FC Barcelona,CD Tenerife,Primera Division,Luis García,22,Forward,NA,on loan,Summer,2000,2000/2001,local
+CD Tenerife,FC Barcelona,Primera Division,Luis García,23,Forward,NA,on loan,Summer,2001,2001/2002,local
+FC Barcelona,Real Valladolid CF,Primera Division,Luis García,23,Forward,NA,on loan,Summer,2001,2001/2002,local
+FC Barcelona,Atlético Madrid,Primera Division,Luis García,24,Forward,NA,on loan,Summer,2002,2002/2003,local
+Real Valladolid CF,FC Barcelona,Primera Division,Luis García,24,Forward,NA,on loan,Summer,2002,2002/2003,local
+Atlético Madrid,FC Barcelona,Primera Division,Luis García,25,Forward,NA,on loan,Summer,2003,2003/2004,local
+Real Madrid B,Real Murcia CF,Primera Division,Luis García,22,Forward,NA,sold,Summer,2003,2003/2004,local
+CD Numancia,Real Zaragoza,Primera Division,Luis García,25,Forward,0.405M,sold,Summer,2004,2004/2005,local
+FC Barcelona,Liverpool FC,Premier League,Luis García,26,Forward,7.88M,sold,Summer,2004,2004/2005,international
+Real Murcia CF,RCD Mallorca,Primera Division,Luis García,23,Forward,NA,sold,Summer,2004,2004/2005,local
+RCD Mallorca,RCD Espanyol Barcelona,Primera Division,Luis García,24,Forward,2.7M,sold,Summer,2005,2005/2006,local
+Real Zaragoza,Getafe CF,Primera Division,Luis García,26,Forward,NA,sold,Summer,2005,2005/2006,local
+Getafe CF,Celta de Vigo,Primera Division,Luis García,28,Forward,NA,on loan,Winter,2007,2007/2008,local
+Liverpool FC,Atlético Madrid,Premier League,Luis García,29,Forward,3.6M,sold,Summer,2007,2007/2008,international
+Liverpool FC,Atlético de Madrid,Primera Division,Luis García,29,Forward,3.6M,sold,Summer,2007,2007/2008,international
+Celta de Vigo,Getafe CF,Primera Division,Luis García,29,Forward,NA,on loan,Summer,2008,2008/2009,local
+Getafe CF,CD Tenerife,Primera Division,Luis García,29,Forward,NA,sold,Summer,2008,2008/2009,local
+Atlético Madrid,Racing Santander,Primera Division,Luis García,31,Forward,NA,sold,Summer,2009,2009/2010,local
+Atlético de Madrid,Racing Santander,Primera Division,Luis García,31,Forward,NA,sold,Summer,2009,2009/2010,local
+Racing Santander,Panathinaikos,Primera Division,Luis García,32,Forward,NA,sold,Summer,2010,2010/2011,international
+RCD Espanyol Barcelona,Real Zaragoza,Primera Division,Luis García,30,Forward,0.9M,sold,Summer,2011,2011/2012,local
+Real Zaragoza,Tigres UANL,Primera Division,Luis García,31,Forward,NA,on loan,Summer,2012,2012/2013,local
+Boro U18,Middlesbrough FC,Premier League,Danny Graham,17,Centre-Forward,NA,sold,Summer,2003,2003/2004,local
+Boro U18,Middlesbrough FC,Championship,Danny Graham,17,Centre-Forward,NA,sold,all-year,2003,2003/2004,local
 Darlington,Middlesbrough FC,Premier League,Danny Graham,18,Centre-Forward,NA,on loan,Summer,2003,2003/2004,local
 Darlington,Middlesbrough FC,Championship,Danny Graham,18,Centre-Forward,NA,on loan,all-year,2003,2003/2004,local
 Middlesbrough FC,Darlington,Premier League,Danny Graham,18,Centre-Forward,NA,on loan,Winter,2003,2003/2004,local
@@ -716,23 +716,23 @@ Middlesbrough FC,Derby County,Premier League,Danny Graham,20,Centre-Forward,NA,o
 Middlesbrough FC,Leeds United,Premier League,Danny Graham,20,Centre-Forward,NA,on loan,Winter,2005,2005/2006,local
 Blackpool FC,Middlesbrough FC,Premier League,Danny Graham,21,Centre-Forward,NA,on loan,Summer,2006,2006/2007,local
 Carlisle United,Middlesbrough FC,Premier League,Danny Graham,21,Centre-Forward,NA,on loan,Winter,2006,2006/2007,local
-Middlesbrough FC,Blackpool FC,Premier League,Danny Graham,21,Centre-Forward,NA,on loan,Summer,2006,2006/2007,local
+Middlesbrough FC,Blackpool FC,Premier League,Danny Graham,20,Centre-Forward,NA,on loan,Summer,2006,2006/2007,local
 Middlesbrough FC,Carlisle United,Premier League,Danny Graham,21,Centre-Forward,NA,on loan,Winter,2006,2006/2007,local
-Middlesbrough FC,Carlisle United,Premier League,Danny Graham,22,Centre-Forward,NA,sold,Summer,2007,2007/2008,local
-Carlisle United,Watford FC,Championship,Danny Graham,24,Centre-Forward,NA,sold,Summer,2009,2009/2010,local
-Watford FC,Swansea City,Premier League,Danny Graham,26,Centre-Forward,3.51M,sold,Summer,2011,2011/2012,local
+Middlesbrough FC,Carlisle United,Premier League,Danny Graham,21,Centre-Forward,NA,sold,Summer,2007,2007/2008,local
+Carlisle United,Watford FC,Championship,Danny Graham,23,Centre-Forward,NA,sold,Summer,2009,2009/2010,local
+Watford FC,Swansea City,Premier League,Danny Graham,25,Centre-Forward,3.51M,sold,Summer,2011,2011/2012,local
 Swansea City,Sunderland AFC,Premier League,Danny Graham,27,Centre-Forward,5.22M,sold,Winter,2012,2012/2013,local
 Hull City,Sunderland AFC,Premier League,Danny Graham,28,Centre-Forward,NA,on loan,Winter,2013,2013/2014,local
 Middlesbrough FC,Sunderland AFC,Premier League,Danny Graham,28,Centre-Forward,NA,on loan,Summer,2013,2013/2014,local
-Sunderland AFC,Hull City,Premier League,Danny Graham,28,Centre-Forward,NA,on loan,Summer,2013,2013/2014,local
+Sunderland AFC,Hull City,Premier League,Danny Graham,27,Centre-Forward,NA,on loan,Summer,2013,2013/2014,local
 Sunderland AFC,Middlesbrough FC,Premier League,Danny Graham,28,Centre-Forward,NA,on loan,Winter,2013,2013/2014,local
 Sunderland AFC,Wolverhampton Wanderers,Championship,Danny Graham,29,Centre-Forward,NA,on loan,Winter,2014,2014/2015,local
 Sunderland AFC,Wolves,Premier League,Danny Graham,29,Centre-Forward,NA,on loan,Winter,2014,2014/2015,local
 Wolverhampton Wanderers,Sunderland AFC,Championship,Danny Graham,29,Centre-Forward,NA,on loan,Winter,2014,2014/2015,local
 Wolves,Sunderland AFC,Premier League,Danny Graham,29,Centre-Forward,NA,on loan,Winter,2014,2014/2015,local
 Sunderland AFC,Blackburn Rovers,Premier League,Danny Graham,30,Centre-Forward,NA,on loan,Winter,2015,2015/2016,local
-Blackburn Rovers,Sunderland AFC,Premier League,Danny Graham,31,Centre-Forward,NA,on loan,Summer,2016,2016/2017,local
-Sunderland AFC,Blackburn Rovers,Premier League,Danny Graham,31,Centre-Forward,NA,sold,Summer,2016,2016/2017,local
+Blackburn Rovers,Sunderland AFC,Premier League,Danny Graham,30,Centre-Forward,NA,on loan,Summer,2016,2016/2017,local
+Sunderland AFC,Blackburn Rovers,Premier League,Danny Graham,30,Centre-Forward,NA,sold,Summer,2016,2016/2017,local
 Blackburn Rovers,Sunderland AFC,Championship,Danny Graham,35,Centre-Forward,NA,sold,Summer,2020,2020/2021,local
 Aston Villa U18,Bristol City,Championship,Stephen Henderson,19,Goalkeeper,NA,sold,Summer,2007,2007/2008,local
 Bristol City,Weymouth FC,Championship,Stephen Henderson,19,Goalkeeper,NA,on loan,Winter,2007,2007/2008,local
@@ -748,7 +748,7 @@ Bristol City,Yeovil Town,Championship,Stephen Henderson,22,Goalkeeper,NA,on loan
 Yeovil Town,Bristol City,Championship,Stephen Henderson,22,Goalkeeper,NA,on loan,Summer,2010,2010/2011,local
 Bristol City,Portsmouth FC,Championship,Stephen Henderson,23,Goalkeeper,0.167M,sold,Summer,2011,2011/2012,local
 Portsmouth FC,West Ham United,Championship,Stephen Henderson,23,Goalkeeper,NA,on loan,Winter,2011,2011/2012,local
-West Ham United,Portsmouth FC,Championship,Stephen Henderson,23,Goalkeeper,NA,on loan,Summer,2011,2011/2012,local
+West Ham United,Portsmouth FC,Championship,Stephen Henderson,24,Goalkeeper,NA,on loan,Summer,2011,2011/2012,local
 Ipswich Town,West Ham United,Premier League,Stephen Henderson,24,Goalkeeper,NA,on loan,Winter,2012,2012/2013,local
 Portsmouth FC,West Ham United,Premier League,Stephen Henderson,24,Goalkeeper,0.671M,sold,Summer,2012,2012/2013,local
 West Ham United,Ipswich Town,Premier League,Stephen Henderson,24,Goalkeeper,NA,on loan,Summer,2012,2012/2013,local
@@ -758,80 +758,80 @@ West Ham United,AFC Bournemouth,Premier League,Stephen Henderson,25,Goalkeeper,N
 West Ham United,Charlton Athletic,Premier League,Stephen Henderson,26,Goalkeeper,NA,sold,Summer,2014,2014/2015,local
 Charlton Athletic,Nottingham Forest,Championship,Stephen Henderson,28,Goalkeeper,NA,sold,Summer,2016,2016/2017,local
 Nottingham Forest,Portsmouth FC,Championship,Stephen Henderson,29,Goalkeeper,NA,on loan,Winter,2017,2017/2018,local
-Portsmouth FC,Nottingham Forest,Championship,Stephen Henderson,29,Goalkeeper,NA,on loan,Summer,2017,2017/2018,local
+Portsmouth FC,Nottingham Forest,Championship,Stephen Henderson,30,Goalkeeper,NA,on loan,Summer,2017,2017/2018,local
 Nottingham Forest,Wycombe Wanderers,Championship,Stephen Henderson,30,Goalkeeper,NA,on loan,Winter,2018,2018/2019,local
 Wycombe Wanderers,Nottingham Forest,Championship,Stephen Henderson,30,Goalkeeper,NA,on loan,Winter,2018,2018/2019,local
 Nottingham Forest,Crystal Palace,Championship,Stephen Henderson,31,Goalkeeper,NA,sold,Summer,2019,2019/2020,local
 Nottm Forest,Crystal Palace,Premier League,Stephen Henderson,31,Goalkeeper,NA,sold,Summer,2019,2019/2020,local
 Crystal Palace,Without Club,Premier League,Stephen Henderson,33,Goalkeeper,NA,sold,Summer,2021,2021/2022,international
-Valencia CF,São Paulo,Primera Division,Leonardo,9,defence,NA,sold,Summer,1993,1993/1994,international
-Kashima Antlers,Paris Saint-Germain,Ligue 1,Leonardo,12,defence,NA,sold,Summer,1996,1996/1997,international
-Flamengo,FC Groningen,Eredivisie,Leonardo,13,defence,NA,sold,Summer,1997,1997/1998,international
-Paris SG,Milan AC,Serie A,Leonardo,13,defence,7.65M,sold,Summer,1997,1997/1998,international
-Paris Saint-Germain,Milan AC,Ligue 1,Leonardo,13,defence,7.65M,sold,Summer,1997,1997/1998,international
-ABC FC,FC Paços de Ferreira,Liga Nos,Leonardo,16,defence,NA,sold,Summer,2000,2000/2001,local
-Feyenoord U19,Feyenoord Rotterdam,Eredivisie,Leonardo,16,defence,NA,sold,Summer,2000,2000/2001,local
-FC Groningen,Feyenoord Rotterdam,Eredivisie,Leonardo,17,defence,NA,sold,Summer,2001,2001/2002,local
-Milan AC,São Paulo,Serie A,Leonardo,17,defence,NA,sold,Summer,2001,2001/2002,local
-De Graafschap Doetinchem,Feyenoord Rotterdam,Eredivisie,Leonardo,18,defence,NA,on loan,Winter,2002,2002/2003,local
-Feyenoord Rotterdam,De Graafschap Doetinchem,Eredivisie,Leonardo,18,defence,NA,on loan,Summer,2002,2002/2003,local
-Flamengo,Milan AC,Serie A,Leonardo,18,defence,NA,sold,Summer,2002,2002/2003,international
-Flamengo,Milan AC,Serie A,Leonardo,18,defence,NA,sold,Winter,2002,2002/2003,international
-Milan AC,Retired,Serie A,Leonardo,18,defence,NA,sold,Winter,2002,2002/2003,international
-América-MG,Belenenses SAD,Liga Nos,Leonardo,19,defence,NA,sold,Summer,2003,2003/2004,local
-Belenenses SAD,Paysandu SC,Liga Nos,Leonardo,19,defence,NA,sold,Winter,2003,2003/2004,local
-FC Paços de Ferreira,Desportivo Aves,Liga Nos,Leonardo,19,defence,NA,sold,Summer,2003,2003/2004,local
-Feyenoord Rotterdam,ADO Den Haag,Eredivisie,Leonardo,19,defence,NA,on loan,Winter,2003,2003/2004,local
-ADO Den Haag,Feyenoord Rotterdam,Eredivisie,Leonardo,20,defence,NA,on loan,Summer,2004,2004/2005,local
-Feyenoord Rotterdam,Without Club,Eredivisie,Leonardo,20,defence,NA,sold,Summer,2004,2004/2005,international
-Feyenoord Rotterdam,NAC Breda,Eredivisie,Leonardo,21,defence,NA,sold,Winter,2005,2005/2006,local
-NAC Breda,Ajax Amsterdam,Eredivisie,Leonardo,22,defence,0.675M,sold,Winter,2006,2006/2007,local
+Valencia CF,São Paulo,Primera Division,Leonardo,23,defence,NA,sold,Summer,1993,1993/1994,international
+Kashima Antlers,Paris Saint-Germain,Ligue 1,Leonardo,26,defence,NA,sold,Summer,1996,1996/1997,international
+Flamengo,FC Groningen,Eredivisie,Leonardo,20,defence,NA,sold,Summer,1997,1997/1998,international
+Paris SG,Milan AC,Serie A,Leonardo,27,defence,7.65M,sold,Summer,1997,1997/1998,international
+Paris Saint-Germain,Milan AC,Ligue 1,Leonardo,27,defence,7.65M,sold,Summer,1997,1997/1998,international
+ABC FC,FC Paços de Ferreira,Liga Nos,Leonardo,31,defence,NA,sold,Summer,2000,2000/2001,local
+Feyenoord U19,Feyenoord Rotterdam,Eredivisie,Leonardo,17,defence,NA,sold,Summer,2000,2000/2001,local
+FC Groningen,Feyenoord Rotterdam,Eredivisie,Leonardo,24,defence,NA,sold,Summer,2001,2001/2002,local
+Milan AC,São Paulo,Serie A,Leonardo,31,defence,NA,sold,Summer,2001,2001/2002,local
+De Graafschap Doetinchem,Feyenoord Rotterdam,Eredivisie,Leonardo,26,defence,NA,on loan,Winter,2002,2002/2003,local
+Feyenoord Rotterdam,De Graafschap Doetinchem,Eredivisie,Leonardo,25,defence,NA,on loan,Summer,2002,2002/2003,local
+Flamengo,Milan AC,Serie A,Leonardo,33,defence,NA,sold,Summer,2002,2002/2003,international
+Flamengo,Milan AC,Serie A,Leonardo,33,defence,NA,sold,Winter,2002,2002/2003,international
+Milan AC,Retired,Serie A,Leonardo,33,defence,NA,sold,Winter,2002,2002/2003,international
+América-MG,Belenenses SAD,Liga Nos,Leonardo,29,defence,NA,sold,Summer,2003,2003/2004,local
+Belenenses SAD,Paysandu SC,Liga Nos,Leonardo,29,defence,NA,sold,Winter,2003,2003/2004,local
+FC Paços de Ferreira,Desportivo Aves,Liga Nos,Leonardo,34,defence,NA,sold,Summer,2003,2003/2004,local
+Feyenoord Rotterdam,ADO Den Haag,Eredivisie,Leonardo,27,defence,NA,on loan,Winter,2003,2003/2004,local
+ADO Den Haag,Feyenoord Rotterdam,Eredivisie,Leonardo,27,defence,NA,on loan,Summer,2004,2004/2005,local
+Feyenoord Rotterdam,Without Club,Eredivisie,Leonardo,27,defence,NA,sold,Summer,2004,2004/2005,international
+Feyenoord Rotterdam,NAC Breda,Eredivisie,Leonardo,22,defence,NA,sold,Winter,2005,2005/2006,local
+NAC Breda,Ajax Amsterdam,Eredivisie,Leonardo,23,defence,0.675M,sold,Winter,2006,2006/2007,local
 CD Trofense,Unknown,Liga Nos,Leonardo,24,defence,NA,sold,Summer,2008,2008/2009,international
-Ajax Amsterdam,NAC Breda,Eredivisie,Leonardo,25,defence,NA,sold,Summer,2009,2009/2010,local
-NAC Breda,RB Salzburg,Eredivisie,Leonardo,27,defence,NA,on loan,Summer,2011,2011/2012,international
-Gil Vicente FC,Luverdense,Liga Nos,Leonardo,28,defence,NA,sold,Winter,2012,2012/2013,local
-NAC Breda,RB Salzburg,Eredivisie,Leonardo,28,defence,0.09M,sold,Summer,2012,2012/2013,international
-RB Salzburg,NAC Breda,Eredivisie,Leonardo,28,defence,NA,on loan,Summer,2012,2012/2013,international
-Santa Cruz-RS,Gil Vicente FC,Liga Nos,Leonardo,28,defence,NA,sold,Summer,2012,2012/2013,local
-Anzhi Makhachkala,Without Club,Premier Liga,Leonardo,31,defence,NA,sold,Winter,2015,2015/2016,international
-Portimonense SC,FC Penafiel,Liga Nos,Leonardo,35,defence,NA,on loan,Summer,2019,2019/2020,local
-FC Penafiel,Portimonense SC,Liga Nos,Leonardo,36,defence,NA,on loan,Summer,2020,2020/2021,local
-Portimonense SC,SC Covilhã,Liga Nos,Leonardo,36,defence,NA,on loan,Summer,2020,2020/2021,local
+Ajax Amsterdam,NAC Breda,Eredivisie,Leonardo,26,defence,NA,sold,Summer,2009,2009/2010,local
+NAC Breda,RB Salzburg,Eredivisie,Leonardo,28,defence,NA,on loan,Summer,2011,2011/2012,international
+Gil Vicente FC,Luverdense,Liga Nos,Leonardo,24,defence,NA,sold,Winter,2012,2012/2013,local
+NAC Breda,RB Salzburg,Eredivisie,Leonardo,29,defence,0.09M,sold,Summer,2012,2012/2013,international
+RB Salzburg,NAC Breda,Eredivisie,Leonardo,29,defence,NA,on loan,Summer,2012,2012/2013,international
+Santa Cruz-RS,Gil Vicente FC,Liga Nos,Leonardo,24,defence,NA,sold,Summer,2012,2012/2013,local
+Anzhi Makhachkala,Without Club,Premier Liga,Leonardo,23,defence,NA,sold,Winter,2015,2015/2016,international
+Portimonense SC,FC Penafiel,Liga Nos,Leonardo,26,defence,NA,on loan,Summer,2019,2019/2020,local
+FC Penafiel,Portimonense SC,Liga Nos,Leonardo,27,defence,NA,on loan,Summer,2020,2020/2021,local
+Portimonense SC,SC Covilhã,Liga Nos,Leonardo,27,defence,NA,on loan,Summer,2020,2020/2021,local
 Leicester City,Middlesbrough FC,Premier League,Tommy Wright,26,Left Winger,0.819M,sold,Summer,1992,1992/1993,local
 Leicester City,Middlesbrough FC,Championship,Tommy Wright,26,Left Winger,0.819M,sold,all-year,1992,1992/1993,local
-Newcastle United,Nottingham Forest,Championship,Tommy Wright,27,Left Winger,0.608M,sold,all-year,1993,1993/1994,local
-Newcastle United,Nottm Forest,Premier League,Tommy Wright,27,Left Winger,0.608M,sold,Summer,1993,1993/1994,local
+Newcastle United,Nottingham Forest,Championship,Tommy Wright,29,Left Winger,0.608M,sold,all-year,1993,1993/1994,local
+Newcastle United,Nottm Forest,Premier League,Tommy Wright,29,Left Winger,0.608M,sold,Summer,1993,1993/1994,local
 Middlesbrough FC,Bradford City,Premier League,Tommy Wright,29,Left Winger,NA,sold,Summer,1995,1995/1996,local
 Middlesbrough FC,Bradford City,Championship,Tommy Wright,29,Left Winger,NA,sold,all-year,1995,1995/1996,local
-Man City,Nottingham Forest,Premier League,Tommy Wright,30,Left Winger,NA,on loan,Winter,1996,1996/1997,local
-Man City,Nottingham Forest,Championship,Tommy Wright,30,Left Winger,NA,on loan,all-year,1996,1996/1997,local
-Nottingham Forest,Man City,Premier League,Tommy Wright,30,Left Winger,0.608M,sold,Winter,1996,1996/1997,local
-Nottingham Forest,Man City,Premier League,Tommy Wright,30,Left Winger,NA,on loan,Winter,1996,1996/1997,local
-Nottingham Forest,Man City,Championship,Tommy Wright,30,Left Winger,0.608M,sold,all-year,1996,1996/1997,local
-Nottingham Forest,Man City,Championship,Tommy Wright,30,Left Winger,NA,on loan,all-year,1996,1996/1997,local
-Nottingham Forest,Reading FC,Premier League,Tommy Wright,30,Left Winger,NA,on loan,Summer,1996,1996/1997,local
-Nottingham Forest,Reading FC,Premier League,Tommy Wright,30,Left Winger,NA,on loan,Winter,1996,1996/1997,local
-Nottingham Forest,Reading FC,Championship,Tommy Wright,30,Left Winger,NA,on loan,all-year,1996,1996/1997,local
-Nottm Forest,Reading FC,Championship,Tommy Wright,30,Left Winger,NA,on loan,all-year,1996,1996/1997,local
-Reading FC,Nottingham Forest,Premier League,Tommy Wright,30,Left Winger,NA,on loan,Winter,1996,1996/1997,local
-Reading FC,Nottingham Forest,Championship,Tommy Wright,30,Left Winger,NA,on loan,all-year,1996,1996/1997,local
-Reading FC,Nottm Forest,Championship,Tommy Wright,30,Left Winger,NA,on loan,all-year,1996,1996/1997,local
-Man City,Newcastle United,Premier League,Tommy Wright,33,Left Winger,NA,on loan,Summer,1999,1999/2000,local
-Newcastle United,Man City,Premier League,Tommy Wright,33,Left Winger,NA,on loan,Summer,1999,1999/2000,local
-Bolton Wanderers,Manchester City,Premier League,Tommy Wright,34,Left Winger,NA,on loan,Winter,2000,2000/2001,local
-Manchester City,Bolton Wanderers,Premier League,Tommy Wright,34,Left Winger,NA,on loan,Winter,2000,2000/2001,local
-Manchester City,Bolton Wanderers,Premier League,Tommy Wright,34,Left Winger,NA,sold,Winter,2000,2000/2001,local
-Bolton Wanderers,Ballymena,Premier League,Tommy Wright,35,Left Winger,NA,sold,Summer,2001,2001/2002,local
-Leicester U18,Leicester City,Premier League,Tommy Wright,35,Left Winger,NA,sold,Summer,2001,2001/2002,local
-Brentford FC,Leicester City,Premier League,Tommy Wright,37,Left Winger,NA,on loan,Summer,2003,2003/2004,local
-Brentford FC,Leicester City,Premier League,Tommy Wright,37,Left Winger,NA,on loan,Winter,2003,2003/2004,local
-Brentford FC,Leicester City,Championship,Tommy Wright,37,Left Winger,NA,on loan,all-year,2003,2003/2004,local
-Leicester City,Brentford FC,Premier League,Tommy Wright,37,Left Winger,NA,on loan,Summer,2003,2003/2004,local
-Leicester City,Brentford FC,Premier League,Tommy Wright,37,Left Winger,NA,on loan,Winter,2003,2003/2004,local
-Leicester City,Brentford FC,Championship,Tommy Wright,37,Left Winger,NA,on loan,all-year,2003,2003/2004,local
-Blackpool FC,Leicester City,Championship,Tommy Wright,39,Left Winger,NA,on loan,Winter,2005,2005/2006,local
-Leicester City,Barnsley FC,Championship,Tommy Wright,39,Left Winger,0.18M,sold,Winter,2005,2005/2006,local
-Leicester City,Blackpool FC,Championship,Tommy Wright,39,Left Winger,NA,on loan,Summer,2005,2005/2006,local
-Barnsley FC,Darlington,Championship,Tommy Wright,40,Left Winger,0.068M,sold,Winter,2006,2006/2007,local
-Barnsley FC,Walsall,Championship,Tommy Wright,40,Left Winger,NA,on loan,Winter,2006,2006/2007,local
-Walsall,Barnsley FC,Championship,Tommy Wright,40,Left Winger,NA,on loan,Winter,2006,2006/2007,local
+Man City,Nottingham Forest,Premier League,Tommy Wright,33,Left Winger,NA,on loan,Winter,1996,1996/1997,local
+Man City,Nottingham Forest,Championship,Tommy Wright,33,Left Winger,NA,on loan,all-year,1996,1996/1997,local
+Nottingham Forest,Man City,Premier League,Tommy Wright,33,Left Winger,NA,on loan,Winter,1996,1996/1997,local
+Nottingham Forest,Man City,Premier League,Tommy Wright,33,Left Winger,0.608M,sold,Winter,1996,1996/1997,local
+Nottingham Forest,Man City,Championship,Tommy Wright,33,Left Winger,0.608M,sold,all-year,1996,1996/1997,local
+Nottingham Forest,Man City,Championship,Tommy Wright,33,Left Winger,NA,on loan,all-year,1996,1996/1997,local
+Nottingham Forest,Reading FC,Premier League,Tommy Wright,33,Left Winger,NA,on loan,Summer,1996,1996/1997,local
+Nottingham Forest,Reading FC,Premier League,Tommy Wright,33,Left Winger,NA,on loan,Winter,1996,1996/1997,local
+Nottingham Forest,Reading FC,Championship,Tommy Wright,33,Left Winger,NA,on loan,all-year,1996,1996/1997,local
+Nottm Forest,Reading FC,Championship,Tommy Wright,33,Left Winger,NA,on loan,all-year,1996,1996/1997,local
+Reading FC,Nottingham Forest,Premier League,Tommy Wright,33,Left Winger,NA,on loan,Winter,1996,1996/1997,local
+Reading FC,Nottingham Forest,Championship,Tommy Wright,33,Left Winger,NA,on loan,all-year,1996,1996/1997,local
+Reading FC,Nottm Forest,Championship,Tommy Wright,33,Left Winger,NA,on loan,all-year,1996,1996/1997,local
+Man City,Newcastle United,Premier League,Tommy Wright,35,Left Winger,NA,on loan,Summer,1999,1999/2000,local
+Newcastle United,Man City,Premier League,Tommy Wright,35,Left Winger,NA,on loan,Summer,1999,1999/2000,local
+Bolton Wanderers,Manchester City,Premier League,Tommy Wright,37,Left Winger,NA,on loan,Winter,2000,2000/2001,local
+Manchester City,Bolton Wanderers,Premier League,Tommy Wright,37,Left Winger,NA,sold,Winter,2000,2000/2001,local
+Manchester City,Bolton Wanderers,Premier League,Tommy Wright,37,Left Winger,NA,on loan,Winter,2000,2000/2001,local
+Bolton Wanderers,Ballymena,Premier League,Tommy Wright,37,Left Winger,NA,sold,Summer,2001,2001/2002,local
+Leicester U18,Leicester City,Premier League,Tommy Wright,16,Left Winger,NA,sold,Summer,2001,2001/2002,local
+Brentford FC,Leicester City,Premier League,Tommy Wright,19,Left Winger,NA,on loan,Summer,2003,2003/2004,local
+Brentford FC,Leicester City,Premier League,Tommy Wright,19,Left Winger,NA,on loan,Winter,2003,2003/2004,local
+Brentford FC,Leicester City,Championship,Tommy Wright,19,Left Winger,NA,on loan,all-year,2003,2003/2004,local
+Leicester City,Brentford FC,Premier League,Tommy Wright,18,Left Winger,NA,on loan,Summer,2003,2003/2004,local
+Leicester City,Brentford FC,Premier League,Tommy Wright,19,Left Winger,NA,on loan,Winter,2003,2003/2004,local
+Leicester City,Brentford FC,Championship,Tommy Wright,18,Left Winger,NA,on loan,all-year,2003,2003/2004,local
+Blackpool FC,Leicester City,Championship,Tommy Wright,21,Left Winger,NA,on loan,Winter,2005,2005/2006,local
+Leicester City,Barnsley FC,Championship,Tommy Wright,21,Left Winger,0.18M,sold,Winter,2005,2005/2006,local
+Leicester City,Blackpool FC,Championship,Tommy Wright,20,Left Winger,NA,on loan,Summer,2005,2005/2006,local
+Barnsley FC,Darlington,Championship,Tommy Wright,22,Left Winger,0.068M,sold,Winter,2006,2006/2007,local
+Barnsley FC,Walsall,Championship,Tommy Wright,22,Left Winger,NA,on loan,Winter,2006,2006/2007,local
+Walsall,Barnsley FC,Championship,Tommy Wright,22,Left Winger,NA,on loan,Winter,2006,2006/2007,local

@@ -1,5 +1,5 @@
 class Transfer:
-    def __init__(self, fromClub, toClub, player, fee, season, period, isLoan, league):
+    def __init__(self, fromClub, toClub, player, player_age, fee, season, period, isLoan, league):
         self.fromClub = fromClub
         self.toClub = toClub
         self.player = player
@@ -8,6 +8,7 @@ class Transfer:
         self.period = period
         self.isLoan = isLoan
         self.league = league
+        self.player_age = player_age
         self.international = fromClub.country != toClub.country
 
     def __eq__(self, other):
@@ -38,7 +39,9 @@ class Transfer:
                str(self.fee) + "M, during " + self.season.__str__()
 
     def __hash__(self):
-        return self.fromClub.name.__hash__() + 1000000007*self.toClub.name.__hash__()
+        return self.fromClub.name.__hash__() + \
+            1000000007*self.toClub.name.__hash__() + \
+            5915587277*self.player.name.__hash__()
 
     def toArray(self):
         arr = []
@@ -46,7 +49,7 @@ class Transfer:
         arr.append(self.toClub.name)
         arr.append(self.league)
         arr.append(self.player.name)
-        arr.append(str(self.season.year - self.player.birth_year))
+        arr.append(self.player_age)
         arr.append(self.player.position)
         arr.append(str(self.fee)+"M" if self.fee != 0 else "NA")
         arr.append(("on loan" if self.isLoan else "sold"))
