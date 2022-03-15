@@ -131,25 +131,41 @@ class BuildData:
         # add some mixed filtering
         return []
 
-    def csv(self, club_name: str = None, player_name: str = None, season: str = None):
+    def csvFiltered(self, club_name: str = None, player_name: str = None, season: str = None):
         filteredTransfersArray: list[Transfer] = self.filter(club_name, player_name, season)
         fileName: str = "allTransfers" + ("_"+club_name if club_name else "") + \
                                          ("_"+player_name if player_name else "") + \
                                          ("_"+season if season else "") + ".csv"
+        self.csv(filteredTransfersArray, fileName)
+
+    def csvMostTransferred(self, num):
+        playersArray = self.mostTransferredPlayers(num)
+        array = []
+        for player in playersArray:
+            array += player.transfers
+        fileName = "most transfererred players.csv"
+        self.csv(array, fileName)
+
+    def csv(self, array: list[Transfer], fileName: str):
         arrayToPrint = [["from club", "to club", "player name", "age", "position", "fee", 
                          "transfer type", "period", "year", "season"]]
-        arrayToPrint.extend([tf.toArray() for tf in filteredTransfersArray]) 
+        arrayToPrint.extend([tf.toArray() for tf in array]) 
         with open(fileName, 'w', newline='') as file:
             mywriter = csv.writer(file, delimiter=',')
             mywriter.writerows(arrayToPrint)
 
-
-
+    def mostTransferredPlayers(self, num: int):
+        playersList = [val for key, val in self.players.items()]
+        playersList = sorted(playersList, 
+                             key = lambda tf: tf.num_of_transfers, 
+                             reverse = True)[:num]
+        return playersList
 
 if __name__ == "__main__":
     bd = BuildData()
-    bd.csv(club_name = "Admira Wacker")
-    bd.csv()
+    # bd.csvFiltered(club_name = "Admira Wacker")
+    bd.csvMostTransferred(20)
+    # bd.csv()
     # with open("clubNames.json", 'w', encoding="utf-8") as f:
     #     json.dump(bd.clubNames, f, ensure_ascii=False)
 
