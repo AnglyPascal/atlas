@@ -1,5 +1,6 @@
 import os
 import csv
+import json
 from typing import Dict
 from Transfer import Transfer
 from Club import Club
@@ -33,13 +34,25 @@ class BuildData:
         # if the data is stored in somewhere other than ./data, 
         # it can be passed to the constructor
         self.dirName = dirName
+
+        # But there might be some corner cases where
+        # 1. two different club names might contain a common part which is an abbreviation
+        #    one of those clubs
+        # 2. the same club might have different forms of the same name
+        # we need to fix these cases manually
+        with open("outcasts.json", "r") as outcastFile:
+            self.outcastClubNames = json.load(outcastFile)
+
         # here we initiate our data structure
         self.createObjects()
+
+
 
     def getClub(self, name) -> Club:
         """ Given club name, return the Club object associated to that name, 
             ignores abbreviations 
         """
+        name = self.truncate(name)
         return self.clubs[self.clubNames[name]]
 
     def getPlayer(self, name) -> Player:
@@ -60,6 +73,9 @@ class BuildData:
         fromClub: Club = self.getClub(array[4]) if array[6] == "in" else self.getClub(array[0])
         # the club to which the player was transferred
         toClub: Club   = self.getClub(array[0]) if array[6] == "in" else self.getClub(array[4])
+        # if the tranfers was within the club, discard it
+        if fromClub == toClub:
+            return
         # the player that was transferred
         player: Player = self.getPlayer(array[1])
         # the season in which the transfer happened
@@ -89,6 +105,13 @@ class BuildData:
         season.addTransfer(transfer)
         self.transfersArray.add(transfer)
 
+    def truncate(self, name):
+        nameArr = name.split(" ")
+        secondary = ["II", "2", "B", "C", "U17", "U18", "Y19", "U19", "U20", "U21", "U22", "U23"]
+        for s in secondary:
+            if s == nameArr[-1]:
+                nameArr = nameArr[:-1]
+        return " ".join(nameArr) 
 
     def createObjects(self):
         """ Process the data from the files and create all the necessary 
@@ -124,7 +147,7 @@ class BuildData:
         # of those names is actually an abbreviation of already present club names. If
         # not, we create a new Club object for those clubs
         for array in transfersArray:
-            club_name: str = array[4]
+            club_name: str = self.truncate(array[4])
             if club_name not in self.clubNames:
                 # search for matches in the keys present in clubs list
                 name_matches: list[str] = [key for key, val in self.clubs.items() 
@@ -135,15 +158,8 @@ class BuildData:
                     self.clubNames[club_name] = club_name
                     self.clubs[club_name] = Club(club_name, array[-1])
 
-        # But there might be some corner cases where 
-        # 1. two different club names might contain a common part which is an abbreviation
-        #    one of those clubs
-        # 2. the same club might have different forms of the same name
-        # we need to fix these cases manually
-        outcastClubNames = {"Barcelona" : "FC Barcelona",
-                            "Admira/Wacker" : "Admira Wacker",}
-        for key, _ in outcastClubNames.items():
-            self.clubNames[key] = outcastClubNames[key]
+        for key, _ in self.outcastClubNames.items():
+            self.clubNames[key] = self.outcastClubNames[key]
 
         # Now we go over the array once more to add all the transfers
         for array in transfersArray:
@@ -247,22 +263,32 @@ class BuildData:
     def mostTransferredPlayers(self, num: int):
         playersList = [val for key, val in self.players.items()]
         playersList = sorted(playersList, 
-                             key = lambda tf: tf.num_of_transfers, 
+                             key = lambda tf: tf.num_of_transfers(), 
                              reverse = True)[:num]
         return playersList
 
+
+
 if __name__ == "__main__":
     bd = BuildData()
-    # bd.csvFiltered(club_name = "Admira Wacker")
+    # bd.csvFiltered(club_name = "Barcelona")
+    # print(len(bd.clubs))
     bd.csvMostTransferred(20)
+
     # bd.csv()
     # with open("clubNames.json", 'w', encoding="utf-8") as f:
     #     json.dump(bd.clubNames, f, ensure_ascii=False)
 
 
+### U19 B etc
+## remove self loops
+## retired 
 
 # improvevments:
 # further pruning is needed
 #    multiple instances of the same transaction in different files
 #       and different ages of the players
 #    check the player's age wtf is wrong with this one
+
+
+# there are international transactions that can't possibly be detected

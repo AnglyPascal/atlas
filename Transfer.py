@@ -16,7 +16,6 @@ class Transfer:
                self.fromClub == other.fromClub and  \
                self.toClub == other.toClub and      \
                self.fee == other.fee and            \
-               self.period == other.period and      \
                self.isLoan == other.isLoan 
 
     def __lt__(self, other):

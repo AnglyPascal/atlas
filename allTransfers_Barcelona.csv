@@ -1,0 +1,870 @@
+from club,to club,league,player name,age,position,fee,transfer type,period,year,season,tranfer between
+Atlético Madrid,FC Barcelona,Primera Division,Miquel Soler,27,Left-Back,NA,sold,Summer,1992,1992/1993,local
+CD Tenerife,FC Barcelona,Primera Division,Quique Estebaranz,26,Centre-Forward,NA,sold,Summer,1992,1992/1993,local
+FC Barcelona,Burgos CF,Primera Division,Sebastián Herrera,23,Centre-Back,NA,on loan,Summer,1992,1992/1993,local
+FC Barcelona,Dep. La Coruña,Primera Division,Ricardo Serna,28,Centre-Back,NA,sold,Winter,1992,1992/1993,local
+FC Barcelona,Deportivo de La Coruña,Primera Division,Ricardo Serna,28,Centre-Back,NA,sold,Winter,1992,1992/1993,local
+FC Barcelona,Rayo Vallecano,Primera Division,Javi García,22,Forward,NA,sold,Summer,1992,1992/1993,local
+FC Barcelona,Real Madrid,Primera Division,Nando,24,Centre-Forward,NA,sold,Summer,1992,1992/1993,local
+FC Barcelona,Real Oviedo,Primera Division,Cristóbal Parralo,24,Right-Back,NA,sold,Summer,1992,1992/1993,local
+FC Barcelona,Sporting Gijón,Primera Division,Thomas Christiansen,19,Centre-Forward,NA,on loan,Winter,1992,1992/1993,local
+Hajduk Split,FC Barcelona,Primera Division,Goran Vucevic,21,Central Midfield,0.45M,sold,Summer,1992,1992/1993,local
+RCD Mallorca,FC Barcelona,Primera Division,Sebastián Herrera,23,Centre-Back,NA,on loan,Summer,1992,1992/1993,local
+Real Zaragoza,FC Barcelona,Primera Division,Pablo Alfaro,23,Centre-Back,1.35M,sold,Summer,1992,1992/1993,local
+FC Barcelona,CA Osasuna,Primera Division,Thomas Christiansen,20,Centre-Forward,NA,on loan,Summer,1993,1993/1994,local
+FC Barcelona,FC Barcelona,Primera Division,Óscar García,20,Attacking Midfield,NA,sold,Summer,1993,1993/1994,local
+FC Barcelona,FC Barcelona,Primera Division,Sergi Barjuán,21,Left-Back,NA,sold,Summer,1993,1993/1994,local
+FC Barcelona,FC Girondins Bordeaux,Ligue 1,Richard Witschge,23,Central Midfield,NA,sold,Summer,1993,1993/1994,international
+FC Barcelona,G. Bordeaux,Primera Division,Richard Witschge,23,Central Midfield,NA,sold,Summer,1993,1993/1994,international
+FC Barcelona,Racing Santander,Primera Division,Pablo Alfaro,24,Centre-Back,NA,sold,Summer,1993,1993/1994,local
+FC Barcelona,Real Oviedo,Primera Division,Lluís Carreras,20,Left-Back,NA,on loan,Summer,1993,1993/1994,local
+FC Barcelona,Retired,Primera Division,José Ramón Alexanko,37,Sweeper,NA,sold,Summer,1993,1993/1994,international
+FC Barcelona,Sevilla FC,Primera Division,Quique Estebaranz,28,Centre-Forward,0.9M,sold,Winter,1993,1993/1994,local
+FC Barcelona,Sevilla FC,Primera Division,Miquel Soler,28,Left-Back,NA,sold,Summer,1993,1993/1994,local
+FC Barcelona,UE Lleida (liq.),Primera Division,Albert Tomàs,22,Centre-Back,NA,sold,Summer,1993,1993/1994,local
+FC Barcelona,UE Lleida (liq.),Primera Division,Sebastián Herrera,24,Centre-Back,NA,sold,Summer,1993,1993/1994,local
+PSV Eindhoven,FC Barcelona,Primera Division,Romário,27,Centre-Forward,10.8M,sold,Summer,1993,1993/1994,international
+Sporting Gijón,FC Barcelona,Primera Division,Iván Iglesias,21,Central Midfield,0.585M,sold,Summer,1993,1993/1994,local
+Sporting Gijón,FC Barcelona,Primera Division,Thomas Christiansen,20,Centre-Forward,NA,on loan,Summer,1993,1993/1994,local
+Athletic Bilbao,FC Barcelona,Primera Division,Xabier Eskurza,24,Central Midfield,3.6M,sold,Summer,1994,1994/1995,local
+Brescia Calcio,FC Barcelona,Serie A,Gheorghe Hagi,29,Attacking Midfield,3.6M,sold,Summer,1994,1994/1995,international
+CA Osasuna,FC Barcelona,Primera Division,Sánchez Jara,24,Midfielder,NA,sold,Summer,1994,1994/1995,local
+CA Osasuna,FC Barcelona,Primera Division,José Mari,23,Centre-Forward,NA,sold,Winter,1994,1994/1995,local
+CD Logroñés (liq.),FC Barcelona,Primera Division,Julen Lopetegui,27,Goalkeeper,NA,sold,Summer,1994,1994/1995,local
+FC Barcelona,Albacete Balompié,Primera Division,Óscar García,21,Attacking Midfield,NA,on loan,Summer,1994,1994/1995,local
+FC Barcelona,Athletic Bilbao,Primera Division,Jon Andoni Goikoetxea,28,Right Midfield,NA,sold,Summer,1994,1994/1995,local
+FC Barcelona,CD Logroñés (liq.),Primera Division,Javier Delgado,22,Centre-Back,NA,sold,Winter,1994,1994/1995,local
+FC Barcelona,Dep. La Coruña,Primera Division,Julio Salinas,32,Centre-Forward,2.16M,sold,Summer,1994,1994/1995,local
+FC Barcelona,Deportivo de La Coruña,Primera Division,Julio Salinas,32,Centre-Forward,2.16M,sold,Summer,1994,1994/1995,local
+FC Barcelona,FC Barcelona,Primera Division,Jordi Cruyff,20,Attacking Midfield,NA,sold,Summer,1994,1994/1995,local
+FC Barcelona,FC Barcelona,Primera Division,Srdjan Pecelj,19,Centre-Back,NA,sold,Summer,1994,1994/1995,local
+FC Barcelona,FC Barcelona,Primera Division,Roger García,18,Left Midfield,NA,sold,Winter,1994,1994/1995,local
+FC Barcelona,Flamengo,Primera Division,Romário,28,Centre-Forward,NA,sold,Winter,1994,1994/1995,international
+FC Barcelona,Hajduk Split,Primera Division,Goran Vucevic,23,Central Midfield,NA,on loan,Summer,1994,1994/1995,local
+FC Barcelona,Oldham Athletic,Primera Division,Jon Andoni Goikoetxea,28,Right Midfield,NA,sold,Summer,1994,1994/1995,international
+FC Barcelona,RCD Espanyol Barcelona,Primera Division,Luis Cembranos,22,Attacking Midfield,NA,sold,Winter,1994,1994/1995,local
+FC Barcelona,Racing Santander,Primera Division,Thomas Christiansen,21,Centre-Forward,NA,on loan,Summer,1994,1994/1995,local
+FC Barcelona,Racing Santander,Primera Division,Lluís Carreras,21,Left-Back,NA,on loan,Summer,1994,1994/1995,local
+FC Barcelona,Real Madrid,Primera Division,Michael Laudrup,30,Attacking Midfield,8.64M,sold,Summer,1994,1994/1995,local
+FC Barcelona,Southampton FC,Premier League,Ronnie Ekelund,22,Left Midfield,0.585M,sold,Summer,1994,1994/1995,international
+FC Barcelona,Valencia CF,Primera Division,Andoni Zubizarreta,32,Goalkeeper,1.89M,sold,Summer,1994,1994/1995,local
+FC Barcelona,Valencia CF,Primera Division,Juan Carlos,NA,Goalkeeper,0.81M,sold,Summer,1994,1994/1995,local
+FC Barcelona,Valencia CF,Primera Division,Juan Carlos,29,Goalkeeper,NA,sold,Summer,1994,1994/1995,local
+Oldham Athletic,FC Barcelona,Primera Division,Xabier Eskurza,24,Central Midfield,3.6M,sold,Summer,1994,1994/1995,international
+RCD Espanyol Barcelona,FC Barcelona,Primera Division,Igor Korneev,26,Right Winger,NA,sold,Summer,1994,1994/1995,local
+Real Oviedo,FC Barcelona,Primera Division,Lluís Carreras,21,Left-Back,NA,on loan,Summer,1994,1994/1995,local
+Red Star,FC Barcelona,Primera Division,Srdjan Pecelj,19,Centre-Back,NA,sold,Summer,1994,1994/1995,international
+Sporting Gijón,FC Barcelona,Primera Division,Abelardo,24,Centre-Back,2.7M,sold,Summer,1994,1994/1995,local
+Sporting Gijón,FC Barcelona,Primera Division,Jose Maria Cela,24,Forward,NA,sold,Summer,1994,1994/1995,local
+Sporting Gijón,FC Barcelona,Primera Division,Xavier Escaich,25,Centre-Forward,1.08M,sold,Summer,1994,1994/1995,local
+Albacete Balompié,FC Barcelona,Primera Division,Óscar García,22,Attacking Midfield,NA,on loan,Summer,1995,1995/1996,local
+Barça U16,FC Barcelona,Primera Division,Juan Carlos Moreno,20,Left Midfield,NA,sold,Summer,1995,1995/1996,international
+FC Barcelona,AC Parma,Serie A,Hristo Stoichkov,29,Left Winger,9.9M,sold,Summer,1995,1995/1996,international
+FC Barcelona,Albacete Balompié,Primera Division,Xavier Escaich,26,Centre-Forward,0.63M,sold,Summer,1995,1995/1996,local
+FC Barcelona,CP Mérida (diss.),Primera Division,Goran Vucevic,24,Central Midfield,NA,on loan,Summer,1995,1995/1996,local
+FC Barcelona,CP Mérida (diss.),Primera Division,David Pirri,21,Left Midfield,NA,sold,Summer,1995,1995/1996,local
+FC Barcelona,CP Mérida (diss.),Primera Division,Quique Martín,22,Left Winger,NA,on loan,Summer,1995,1995/1996,local
+FC Barcelona,Celta de Vigo,Primera Division,Eusebio,31,Defensive Midfield,NA,sold,Summer,1995,1995/1996,local
+FC Barcelona,Dep. La Coruña,Primera Division,Txiki Begiristain,30,Left Winger,2.25M,sold,Summer,1995,1995/1996,local
+FC Barcelona,Deportivo de La Coruña,Primera Division,Txiki Begiristain,30,Left Winger,2.25M,sold,Summer,1995,1995/1996,local
+FC Barcelona,FC Barcelona,Primera Division,Iván De La Peña,19,Attacking Midfield,NA,sold,Summer,1995,1995/1996,local
+FC Barcelona,FC Barcelona,Primera Division,Josep Setvalls,20,Midfielder,NA,sold,Summer,1995,1995/1996,local
+FC Barcelona,FC Barcelona,Primera Division,Thomas Christiansen,22,Centre-Forward,NA,sold,Summer,1995,1995/1996,local
+FC Barcelona,FC Barcelona,Primera Division,Albert Celades,19,Defensive Midfield,NA,sold,Summer,1995,1995/1996,local
+FC Barcelona,Feyenoord Rotterdam,Primera Division,Ronald Koeman,32,Sweeper,1.8M,sold,Summer,1995,1995/1996,international
+FC Barcelona,Real Betis Balompié,Primera Division,José Mari,24,Centre-Forward,NA,sold,Summer,1995,1995/1996,local
+FC Barcelona,Real Betis Balompié,Primera Division,Óscar Arpón,20,Central Midfield,NA,sold,Summer,1995,1995/1996,local
+FC Barcelona,Real Betis Balompié,Primera Division,Sánchez Jara,25,Midfielder,NA,sold,Summer,1995,1995/1996,local
+FC Barcelona,SC Heerenveen,Primera Division,Igor Korneev,27,Right Winger,NA,sold,Summer,1995,1995/1996,international
+FC Barcelona,Sporting Gijón,Primera Division,Iván Iglesias,23,Central Midfield,0.45M,sold,Summer,1995,1995/1996,local
+FC Barcelona,Valencia CF,Primera Division,Xabier Eskurza,25,Central Midfield,1.8M,sold,Summer,1995,1995/1996,local
+Hajduk Split,FC Barcelona,Primera Division,Goran Vucevic,24,Central Midfield,NA,on loan,Summer,1995,1995/1996,local
+Racing Santander,FC Barcelona,Primera Division,Thomas Christiansen,22,Centre-Forward,NA,on loan,Summer,1995,1995/1996,local
+Racing Santander,FC Barcelona,Primera Division,Lluís Carreras,22,Left-Back,NA,on loan,Summer,1995,1995/1996,local
+Real Betis Balompié,FC Barcelona,Primera Division,Ángel Cuéllar,22,Forward,2.7M,sold,Summer,1995,1995/1996,local
+Real Oviedo,FC Barcelona,Primera Division,Robert Prosinecki,26,Central Midfield,2.7M,sold,Summer,1995,1995/1996,local
+Real Sociedad,FC Barcelona,Primera Division,Meho Kodro,28,Centre-Forward,4.95M,sold,Summer,1995,1995/1996,local
+Sporting CP,FC Barcelona,Primera Division,Luís Figo,22,Right Winger,2.25M,sold,Summer,1995,1995/1996,international
+Spurs,FC Barcelona,Primera Division,Gheorghe Popescu,27,Centre-Back,2.52M,sold,Summer,1995,1995/1996,international
+Tottenham Hotspur,FC Barcelona,Premier League,Gheorghe Popescu,27,Centre-Back,2.52M,sold,Summer,1995,1995/1996,international
+AC Parma,FC Barcelona,Serie A,Fernando Couto,26,Centre-Back,4.95M,sold,Summer,1996,1996/1997,international
+AC Parma,FC Barcelona,Serie A,Hristo Stoichkov,30,Left Winger,2.16M,sold,Summer,1996,1996/1997,international
+AJ Auxerre,FC Barcelona,Primera Division,Laurent Blanc,30,Sweeper,4.14M,sold,Summer,1996,1996/1997,international
+CD Tenerife,FC Barcelona,Primera Division,Juan Antonio Pizzi,28,Centre-Forward,NA,sold,Summer,1996,1996/1997,local
+CP Mérida (diss.),FC Barcelona,Primera Division,Goran Vucevic,25,Central Midfield,NA,on loan,Summer,1996,1996/1997,local
+FC Barcelona,CD Tenerife,Primera Division,Meho Kodro,29,Centre-Forward,2.7M,sold,Summer,1996,1996/1997,local
+FC Barcelona,CF Extremadura (diss.),Primera Division,Francisco Javier García Pimienta,21,Forward,NA,on loan,Summer,1996,1996/1997,local
+FC Barcelona,FC Barcelona,Primera Division,Juan Carlos Moreno,21,Left Midfield,NA,sold,Summer,1996,1996/1997,local
+FC Barcelona,Galatasaray,Primera Division,Gheorghe Hagi,31,Attacking Midfield,3.38M,sold,Summer,1996,1996/1997,international
+FC Barcelona,Man Utd,Primera Division,Jordi Cruyff,22,Attacking Midfield,2.25M,sold,Summer,1996,1996/1997,international
+FC Barcelona,Manchester United,Premier League,Jordi Cruyff,22,Attacking Midfield,2.25M,sold,Summer,1996,1996/1997,international
+FC Barcelona,RCD Mallorca,Primera Division,Lluís Carreras,23,Left-Back,NA,sold,Summer,1996,1996/1997,local
+FC Barcelona,Real Oviedo,Primera Division,Thomas Christiansen,23,Centre-Forward,NA,sold,Summer,1996,1996/1997,local
+FC Barcelona,Real Oviedo,Primera Division,Toni Velamazán,19,Right Midfield,0.27M,on loan,Summer,1996,1996/1997,local
+FC Barcelona,Sevilla FC,Primera Division,Robert Prosinecki,27,Central Midfield,1.5M,sold,Winter,1996,1996/1997,local
+FC Barcelona,Tiburones Rojos,Primera Division,José Mari Bakero,33,Attacking Midfield,NA,sold,Winter,1996,1996/1997,international
+FC Porto,FC Barcelona,Primera Division,Vítor Baía,26,Goalkeeper,5.85M,sold,Summer,1996,1996/1997,international
+PSV Eindhoven,FC Barcelona,Primera Division,Ronaldo,19,Centre-Forward,13.5M,sold,Summer,1996,1996/1997,international
+Real Madrid,FC Barcelona,Primera Division,Luis Enrique,26,Right Midfield,NA,sold,Summer,1996,1996/1997,local
+Santos FC,FC Barcelona,Primera Division,Giovanni,24,Centre-Forward,4.95M,sold,Summer,1996,1996/1997,international
+AS Monaco,FC Barcelona,Primera Division,Sonny Anderson,26,Centre-Forward,16.2M,sold,Summer,1997,1997/1998,international
+CP Mérida (diss.),FC Barcelona,Primera Division,Quique Martín,24,Left Winger,NA,on loan,Summer,1997,1997/1998,local
+Dep. La Coruña,FC Barcelona,Primera Division,Rivaldo,25,Attacking Midfield,21.15M,sold,Summer,1997,1997/1998,local
+Deportivo de La Coruña,FC Barcelona,Primera Division,Rivaldo,25,Attacking Midfield,21.15M,sold,Summer,1997,1997/1998,local
+FC Barcelona,1. FC Köln,1 Bundesliga,Goran Vucevic,26,Central Midfield,NA,sold,Summer,1997,1997/1998,international
+FC Barcelona,Albacete Balompié,Primera Division,Toni Velamazán,20,Right Midfield,NA,on loan,Summer,1997,1997/1998,local
+FC Barcelona,Boavista FC,Liga Nos,Pepe De La Sagra,21,Attacking Midfield,NA,sold,Summer,1997,1997/1998,international
+FC Barcelona,CD Logroñés (liq.),Primera Division,Quique Álvarez,21,Centre-Back,NA,on loan,Summer,1997,1997/1998,local
+FC Barcelona,CP Mérida (diss.),Primera Division,David Ávila,19,Forward,NA,sold,Summer,1997,1997/1998,local
+FC Barcelona,CSKA Sofia,Primera Division,Hristo Stoichkov,31,Left Winger,NA,sold,Winter,1997,1997/1998,international
+FC Barcelona,FC Barcelona,Primera Division,Ibán Cuadrado,18,Centre-Back,NA,sold,Summer,1997,1997/1998,local
+FC Barcelona,FC Internazionale,Serie A,Ronaldo,20,Centre-Forward,25.2M,sold,Summer,1997,1997/1998,international
+FC Barcelona,Galatasaray,Primera Division,Gheorghe Popescu,29,Centre-Back,4.05M,sold,Summer,1997,1997/1998,international
+FC Barcelona,Olympique Marseille,Primera Division,Christophe Dugarry,25,Centre-Forward,4.95M,sold,Winter,1997,1997/1998,international
+FC Barcelona,Olympique Marseille,Primera Division,Laurent Blanc,31,Sweeper,2.25M,sold,Summer,1997,1997/1998,international
+FC Barcelona,RCD Espanyol Barcelona,Primera Division,Quique Martín,24,Left Winger,0.63M,sold,Summer,1997,1997/1998,local
+FC Barcelona,Rayo Vallecano,Primera Division,Julen Lopetegui,30,Goalkeeper,NA,sold,Summer,1997,1997/1998,local
+FC Barcelona,Real Betis Balompié,Primera Division,Ángel Cuéllar,24,Forward,1.62M,sold,Summer,1997,1997/1998,local
+FC Barcelona,UE Lleida (liq.),Primera Division,Josep Setvalls,22,Midfielder,NA,sold,Summer,1997,1997/1998,local
+FC Barcelona,Valencia CF,Primera Division,Gerard López,18,Central Midfield,NA,sold,Summer,1997,1997/1998,local
+Milan AC,FC Barcelona,Serie A,Winston Bogarde,27,Centre-Back,3.33M,sold,Winter,1997,1997/1998,international
+Milan AC,FC Barcelona,Serie A,Christophe Dugarry,25,Centre-Forward,3.6M,sold,Summer,1997,1997/1998,international
+Milan AC,FC Barcelona,Serie A,Michael Reiziger,24,Right-Back,7.2M,sold,Summer,1997,1997/1998,international
+Partizan,FC Barcelona,Primera Division,Dragan Ciric,22,Attacking Midfield,0.81M,sold,Summer,1997,1997/1998,international
+Real Oviedo,FC Barcelona,Primera Division,Toni Velamazán,20,Right Midfield,NA,on loan,Summer,1997,1997/1998,local
+Roda JC Kerkrade,FC Barcelona,Primera Division,Ruud Hesp,31,Goalkeeper,0.99M,sold,Summer,1997,1997/1998,international
+Sporting CP,FC Barcelona,Primera Division,Emmanuel Amunike,26,Left Winger,NA,sold,Summer,1997,1997/1998,international
+Ajax Amsterdam,FC Barcelona,Primera Division,Frank de Boer,28,Centre-Back,6.75M,sold,Winter,1998,1998/1999,international
+Ajax Amsterdam,FC Barcelona,Primera Division,Ronald de Boer,28,Right Winger,6.75M,sold,Winter,1998,1998/1999,international
+Anyang LG Cheeta,FC Barcelona,Primera Division,Seyit Cem Ünsal,22,Centre-Forward,NA,sold,Summer,1998,1998/1999,international
+FC Barcelona,AC Fiorentina,Serie A,Guillermo Amor,30,Central Midfield,NA,sold,Summer,1998,1998/1999,international
+FC Barcelona,CF Extremadura (diss.),Primera Division,Toni Velamazán,21,Right Midfield,NA,on loan,Summer,1998,1998/1999,local
+FC Barcelona,Chelsea FC,Premier League,Albert Ferrer,28,Right-Back,3.87M,sold,Summer,1998,1998/1999,international
+FC Barcelona,Deportivo Alavés,Primera Division,Ismael López,20,Midfielder,NA,sold,Summer,1998,1998/1999,local
+FC Barcelona,FC Barcelona,Primera Division,Xavi,18,Central Midfield,NA,sold,Summer,1998,1998/1999,local
+FC Barcelona,FC Barcelona,Primera Division,Luis García,20,Forward,NA,sold,Summer,1998,1998/1999,local
+FC Barcelona,FC Barcelona,Primera Division,Samuel Okunowo,19,Right-Back,NA,sold,Summer,1998,1998/1999,local
+FC Barcelona,FC Porto,Primera Division,Vítor Baía,29,Goalkeeper,NA,sold,Winter,1998,1998/1999,international
+FC Barcelona,RCD Mallorca,Primera Division,Albert Luque,20,Left Winger,NA,sold,Summer,1998,1998/1999,local
+FC Barcelona,Real Valladolid CF,Primera Division,Luis García,20,Forward,NA,on loan,Winter,1998,1998/1999,local
+FC Barcelona,River Plate,Primera Division,Juan Antonio Pizzi,30,Centre-Forward,2.7M,sold,Summer,1998,1998/1999,international
+FC Barcelona,SS Lazio,Serie A,Fernando Couto,28,Centre-Back,3.06M,sold,Summer,1998,1998/1999,international
+FC Barcelona,SS Lazio,Serie A,Iván De La Peña,22,Attacking Midfield,13.5M,sold,Summer,1998,1998/1999,international
+FC Barcelona,Trabzonspor,Primera Division,Seyit Cem Ünsal,22,Centre-Forward,NA,sold,Summer,1998,1998/1999,international
+Milan AC,FC Barcelona,Serie A,Patrick Kluivert,22,Centre-Forward,18.0M,sold,Summer,1998,1998/1999,international
+PSV Eindhoven,FC Barcelona,Primera Division,Boudewijn Zenden,21,Left Winger,10.8M,sold,Summer,1998,1998/1999,international
+PSV Eindhoven,FC Barcelona,Primera Division,Phillip Cocu,27,Defensive Midfield,NA,sold,Summer,1998,1998/1999,international
+Real Oviedo,FC Barcelona,Primera Division,Toni Velamazán,21,Right Midfield,NA,on loan,Summer,1998,1998/1999,local
+Vélez Sarsfield,FC Barcelona,Primera Division,Mauricio Pellegrino,26,Centre-Back,1.62M,on loan,Summer,1998,1998/1999,international
+Ajax Amsterdam,FC Barcelona,Primera Division,Jari Litmanen,28,Attacking Midfield,3.6M,sold,Summer,1999,1999/2000,international
+Albacete Balompié,FC Barcelona,Primera Division,Toni Velamazán,22,Right Midfield,NA,on loan,Summer,1999,1999/2000,local
+FC Barcelona,AEK Athens,Primera Division,Dragan Ciric,24,Attacking Midfield,NA,on loan,Summer,1999,1999/2000,international
+FC Barcelona,CD Toledo,Primera Division,Luis García,21,Forward,NA,on loan,Summer,1999,1999/2000,local
+FC Barcelona,Celta de Vigo,Primera Division,Albert Celades,23,Defensive Midfield,1.53M,sold,Summer,1999,1999/2000,local
+FC Barcelona,FC Barcelona,Primera Division,Carles Puyol,21,Centre-Back,NA,sold,Summer,1999,1999/2000,local
+FC Barcelona,FC Barcelona,Primera Division,Nano,17,Centre-Back,NA,sold,Summer,1999,1999/2000,local
+FC Barcelona,FC Barcelona,Primera Division,Francesc Arnau,24,Goalkeeper,NA,sold,Summer,1999,1999/2000,local
+FC Barcelona,FC Barcelona,Primera Division,Gabri,20,Defensive Midfield,NA,sold,Summer,1999,1999/2000,local
+FC Barcelona,Olympiacos,Primera Division,Giovanni,27,Centre-Forward,10.8M,sold,Summer,1999,1999/2000,international
+FC Barcelona,Olympique Lyon,Primera Division,Sonny Anderson,28,Centre-Forward,17.1M,sold,Summer,1999,1999/2000,international
+FC Barcelona,RCD Espanyol Barcelona,Primera Division,Roger García,22,Left Midfield,2.43M,sold,Summer,1999,1999/2000,local
+FC Barcelona,RCD Espanyol Barcelona,Primera Division,Toni Velamazán,22,Right Midfield,0.09M,sold,Summer,1999,1999/2000,local
+FC Barcelona,RCD Mallorca,Primera Division,Miguel Ángel Nadal,32,Centre-Back,NA,sold,Summer,1999,1999/2000,local
+FC Barcelona,Real Oviedo,Primera Division,Óscar Álvarez,22,Centre-Back,NA,sold,Summer,1999,1999/2000,local
+FC Barcelona,SL Benfica,Primera Division,Samuel Okunowo,20,Right-Back,NA,on loan,Summer,1999,1999/2000,international
+FC Barcelona,UE Lleida (liq.),Primera Division,Carles Busquets,31,Goalkeeper,NA,sold,Summer,1999,1999/2000,local
+FC Barcelona,Valencia CF,Primera Division,Óscar García,26,Attacking Midfield,NA,sold,Summer,1999,1999/2000,local
+FC Barcelona,Vélez Sarsfield,Primera Division,Mauricio Pellegrino,27,Centre-Back,NA,on loan,Summer,1999,1999/2000,international
+RC Lens,FC Barcelona,Primera Division,Frédéric Déhu,26,Centre-Back,NA,sold,Summer,1999,1999/2000,international
+RCD Mallorca,FC Barcelona,Primera Division,Dani García,24,Central Midfield,13.5M,sold,Summer,1999,1999/2000,local
+Real Valladolid CF,FC Barcelona,Primera Division,Luis García,21,Forward,NA,on loan,Summer,1999,1999/2000,local
+Sporting CP,FC Barcelona,Primera Division,Simão,19,Left Winger,2.7M,sold,Summer,1999,1999/2000,international
+AEK Athens,FC Barcelona,Primera Division,Dragan Ciric,25,Attacking Midfield,NA,on loan,Summer,2000,2000/2001,international
+Arsenal FC,FC Barcelona,Premier League,Emmanuel Petit,29,Defensive Midfield,13.5M,sold,Summer,2000,2000/2001,international
+Arsenal FC,FC Barcelona,Premier League,Marc Overmars,27,Left Winger,36.0M,sold,Summer,2000,2000/2001,international
+CD Toledo,FC Barcelona,Primera Division,Luis García,22,Forward,NA,on loan,Summer,2000,2000/2001,local
+Celta de Vigo,FC Barcelona,Primera Division,Richard Dutruel,27,Goalkeeper,3.6M,sold,Summer,2000,2000/2001,local
+FC Barcelona,Albacete Balompié,Primera Division,Emmanuel Amunike,29,Left Winger,NA,sold,Summer,2000,2000/2001,local
+FC Barcelona,CD Badajoz,Primera Division,Samuel Okunowo,21,Right-Back,NA,sold,Summer,2000,2000/2001,international
+FC Barcelona,CD Tenerife,Primera Division,Luis García,22,Forward,NA,on loan,Summer,2000,2000/2001,local
+FC Barcelona,Chelsea FC,Premier League,Winston Bogarde,30,Centre-Back,NA,sold,Winter,2000,2000/2001,international
+FC Barcelona,FC Barcelona,Primera Division,Sergio Santamaría,19,Right Winger,NA,sold,Summer,2000,2000/2001,local
+FC Barcelona,FC Barcelona,Primera Division,Mikel Arteta,18,Central Midfield,NA,sold,Summer,2000,2000/2001,local
+FC Barcelona,FC Barcelona,Primera Division,Pepe Reina,17,Goalkeeper,NA,sold,Summer,2000,2000/2001,local
+FC Barcelona,Fortuna Sittard,Primera Division,Ruud Hesp,34,Goalkeeper,1.08M,sold,Summer,2000,2000/2001,international
+FC Barcelona,Liverpool FC,Premier League,Jari Litmanen,29,Attacking Midfield,NA,sold,Winter,2000,2000/2001,international
+FC Barcelona,Málaga CF,Primera Division,Francesc Arnau,25,Goalkeeper,1.89M,sold,Summer,2000,2000/2001,local
+FC Barcelona,Paris SG,Primera Division,Mikel Arteta,18,Central Midfield,NA,on loan,Winter,2000,2000/2001,international
+FC Barcelona,Paris SG,Primera Division,Frédéric Déhu,27,Centre-Back,5.4M,sold,Summer,2000,2000/2001,international
+FC Barcelona,Paris Saint-Germain,Ligue 1,Mikel Arteta,18,Central Midfield,NA,on loan,Winter,2000,2000/2001,international
+FC Barcelona,Paris Saint-Germain,Ligue 1,Frédéric Déhu,27,Centre-Back,5.4M,sold,Summer,2000,2000/2001,international
+FC Barcelona,Queens Park Rangers,Primera Division,Ronald de Boer,30,Right Winger,4.95M,sold,Winter,2000,2000/2001,international
+FC Barcelona,RCD Espanyol Barcelona,Primera Division,Innocent Hamga,19,Defender,NA,sold,Summer,2000,2000/2001,local
+FC Barcelona,Real Madrid,Primera Division,Luís Figo,27,Right Winger,54.0M,sold,Summer,2000,2000/2001,local
+FC Barcelona,Real Valladolid CF,Primera Division,Dragan Ciric,25,Attacking Midfield,NA,sold,Summer,2000,2000/2001,local
+FC Barcelona,SS Lazio,Primera Division,Iván De La Peña,25,Attacking Midfield,NA,on loan,Summer,2000,2000/2001,international
+Real Betis Balompié,FC Barcelona,Primera Division,Alfonso,27,Centre-Forward,14.85M,sold,Summer,2000,2000/2001,local
+SL Benfica,FC Barcelona,Primera Division,Samuel Okunowo,21,Right-Back,NA,on loan,Summer,2000,2000/2001,international
+SS Lazio,FC Barcelona,Serie A,Iván De La Peña,24,Attacking Midfield,NA,on loan,Summer,2000,2000/2001,international
+Valencia CF,FC Barcelona,Primera Division,Gerard López,21,Central Midfield,19.44M,sold,Summer,2000,2000/2001,local
+AS Monaco,FC Barcelona,Primera Division,Philippe Christanval,22,Centre-Back,15.3M,sold,Summer,2001,2001/2002,international
+Bayern Munich,FC Barcelona,1 Bundesliga,Patrik Andersson,29,Centre-Back,7.2M,sold,Summer,2001,2001/2002,international
+CD Tenerife,FC Barcelona,Primera Division,Luis García,23,Forward,NA,on loan,Summer,2001,2001/2002,local
+Cruzeiro,FC Barcelona,Primera Division,Geovanni,21,Attacking Midfield,18.9M,sold,Winter,2001,2001/2002,international
+FC Barcelona,Brescia Calcio,Serie A,Pep Guardiola,30,Defensive Midfield,NA,sold,Summer,2001,2001/2002,international
+FC Barcelona,CD Tenerife,Primera Division,David Bermudo,22,Centre-Back,NA,sold,Summer,2001,2001/2002,local
+FC Barcelona,Chelsea FC,Premier League,Emmanuel Petit,30,Defensive Midfield,10.35M,sold,Summer,2001,2001/2002,international
+FC Barcelona,Chelsea FC,Premier League,Boudewijn Zenden,24,Left Winger,11.61M,sold,Summer,2001,2001/2002,international
+FC Barcelona,FC Barcelona,Primera Division,Thiago Motta,18,Defensive Midfield,NA,sold,Summer,2001,2001/2002,local
+FC Barcelona,Olympique Marseille,Primera Division,Alfonso,29,Centre-Forward,NA,on loan,Winter,2001,2001/2002,international
+FC Barcelona,Real Murcia CF,Primera Division,Ibán Cuadrado,22,Centre-Back,0.18M,sold,Summer,2001,2001/2002,local
+FC Barcelona,Real Oviedo,Primera Division,Sergio Santamaría,20,Right Winger,NA,on loan,Summer,2001,2001/2002,local
+FC Barcelona,Real Valladolid CF,Primera Division,Luis García,23,Forward,NA,on loan,Summer,2001,2001/2002,local
+FC Barcelona,SL Benfica,Primera Division,Simão,21,Left Winger,11.62M,sold,Summer,2001,2001/2002,international
+Internacional,FC Barcelona,Primera Division,Fábio Rochemback,19,Central Midfield,8.1M,sold,Winter,2001,2001/2002,international
+Milan AC,FC Barcelona,Serie A,Francesco Coco,24,Left-Back,0.9M,on loan,Summer,2001,2001/2002,international
+Paris SG,FC Barcelona,Primera Division,Mikel Arteta,20,Central Midfield,NA,on loan,Summer,2001,2001/2002,international
+Paris Saint-Germain,FC Barcelona,Ligue 1,Mikel Arteta,20,Central Midfield,NA,on loan,Summer,2001,2001/2002,international
+River Plate,FC Barcelona,Primera Division,Roberto Bonano,31,Goalkeeper,3.69M,sold,Summer,2001,2001/2002,international
+River Plate,FC Barcelona,Primera Division,Javier Saviola,19,Second Striker,32.31M,sold,Summer,2001,2001/2002,international
+Boca Juniors,FC Barcelona,Primera Division,Juan Román Riquelme,24,Attacking Midfield,9.0M,sold,Summer,2002,2002/2003,international
+Cruzeiro,FC Barcelona,Primera Division,Juan Pablo Sorín,26,Left-Back,NA,on loan,Winter,2002,2002/2003,international
+FC Barcelona,Atlético Madrid,Primera Division,Luis García,24,Forward,NA,on loan,Summer,2002,2002/2003,local
+FC Barcelona,Atlético Madrid,Primera Division,Sergi Barjuán,30,Left-Back,NA,sold,Summer,2002,2002/2003,local
+FC Barcelona,Deportivo Alavés,Primera Division,Abelardo,32,Centre-Back,NA,sold,Summer,2002,2002/2003,local
+FC Barcelona,Deportivo Alavés,Primera Division,Richard Dutruel,29,Goalkeeper,2.61M,sold,Summer,2002,2002/2003,local
+FC Barcelona,Elche CF,Primera Division,Sergio Santamaría,21,Right Winger,NA,on loan,Summer,2002,2002/2003,local
+FC Barcelona,FC Barcelona,Primera Division,Oleguer,22,Centre-Back,NA,sold,Summer,2002,2002/2003,local
+FC Barcelona,FC Barcelona,Primera Division,Roberto Trashorras,21,Central Midfield,NA,sold,Summer,2002,2002/2003,local
+FC Barcelona,FC Barcelona,Primera Division,Víctor Valdés,20,Goalkeeper,NA,sold,Summer,2002,2002/2003,local
+FC Barcelona,FC Barcelona,Primera Division,Andrés Iniesta,18,Central Midfield,NA,sold,Summer,2002,2002/2003,local
+FC Barcelona,FC Barcelona,Primera Division,Fernando Navarro,20,Left-Back,NA,sold,Summer,2002,2002/2003,local
+FC Barcelona,Milan AC,Primera Division,Francesco Coco,25,Left-Back,NA,on loan,Summer,2002,2002/2003,international
+FC Barcelona,Milan AC,Serie A,Rivaldo,30,Attacking Midfield,NA,sold,Summer,2002,2002/2003,international
+FC Barcelona,Queens Park Rangers,Primera Division,Mikel Arteta,20,Central Midfield,7.11M,sold,Summer,2002,2002/2003,international
+FC Barcelona,Real Betis Balompié,Primera Division,Alfonso,29,Centre-Forward,NA,on loan,Summer,2002,2002/2003,local
+FC Barcelona,SL Benfica,Primera Division,Geovanni,22,Attacking Midfield,NA,on loan,Winter,2002,2002/2003,international
+FC Barcelona,Villarreal CF,Primera Division,Pepe Reina,19,Goalkeeper,0.675M,sold,Summer,2002,2002/2003,local
+Olympique Marseille,FC Barcelona,Primera Division,Alfonso,29,Centre-Forward,NA,on loan,Summer,2002,2002/2003,international
+Real Oviedo,FC Barcelona,Primera Division,Sergio Santamaría,21,Right Winger,NA,on loan,Summer,2002,2002/2003,local
+Real Valladolid CF,FC Barcelona,Primera Division,Luis García,24,Forward,NA,on loan,Summer,2002,2002/2003,local
+Recreativo Huelva,FC Barcelona,Primera Division,Dani Güiza,22,Centre-Forward,NA,sold,Winter,2002,2002/2003,local
+SL Benfica,FC Barcelona,Primera Division,Robert Enke,24,Goalkeeper,NA,sold,Summer,2002,2002/2003,international
+SS Lazio,FC Barcelona,Serie A,Gaizka Mendieta,28,Right Midfield,1.35M,on loan,Summer,2002,2002/2003,international
+AC Perugia,FC Barcelona,Serie A,Tiago Calvano,22,Centre-Back,NA,sold,Summer,2003,2003/2004,international
+AS Monaco,FC Barcelona,Primera Division,Rafael Márquez,24,Centre-Back,4.73M,sold,Summer,2003,2003/2004,international
+Arsenal FC,FC Barcelona,Premier League,Giovanni van Bronckhorst,28,Left-Back,NA,on loan,Summer,2003,2003/2004,international
+Atlético Madrid,FC Barcelona,Primera Division,Luis García,25,Forward,NA,on loan,Summer,2003,2003/2004,local
+Elche CF,FC Barcelona,Primera Division,Sergio Santamaría,22,Right Winger,NA,sold,Summer,2003,2003/2004,local
+Elche CF,FC Barcelona,Primera Division,Sergio Santamaría,22,Right Winger,NA,on loan,Summer,2003,2003/2004,local
+FC Barcelona,Albacete Balompié,Primera Division,David Sánchez,20,Central Midfield,NA,on loan,Summer,2003,2003/2004,local
+FC Barcelona,Albacete Balompié,Primera Division,Fernando Navarro,21,Left-Back,NA,on loan,Winter,2003,2003/2004,local
+FC Barcelona,Atlético Madrid,Primera Division,Nano,21,Centre-Back,NA,sold,Summer,2003,2003/2004,local
+FC Barcelona,CD Tenerife,Primera Division,Robert Enke,26,Goalkeeper,NA,on loan,Winter,2003,2003/2004,local
+FC Barcelona,Cruzeiro,Primera Division,Juan Pablo Sorín,27,Left-Back,NA,on loan,Summer,2003,2003/2004,international
+FC Barcelona,FC Barcelona,Primera Division,Ros,22,Defensive Midfield,NA,sold,Summer,2003,2003/2004,local
+FC Barcelona,FC Barcelona,Primera Division,Sergio García,20,Centre-Forward,NA,sold,Summer,2003,2003/2004,local
+FC Barcelona,FC Barcelona,Primera Division,Albert Jorquera,24,Goalkeeper,NA,sold,Summer,2003,2003/2004,local
+FC Barcelona,FC Barcelona,Primera Division,Óscar López,23,Right-Back,NA,sold,Summer,2003,2003/2004,local
+FC Barcelona,Fenerbahce,Primera Division,Robert Enke,25,Goalkeeper,0.36M,on loan,Summer,2003,2003/2004,international
+FC Barcelona,Galatasaray,Primera Division,Frank de Boer,33,Centre-Back,NA,sold,Summer,2003,2003/2004,international
+FC Barcelona,Malmö FF,Primera Division,Patrik Andersson,32,Centre-Back,NA,sold,Winter,2003,2003/2004,international
+FC Barcelona,Olympique Marseille,Primera Division,Philippe Christanval,24,Centre-Back,NA,sold,Summer,2003,2003/2004,international
+FC Barcelona,Real Betis Balompié,Primera Division,Alfonso,30,Centre-Forward,NA,sold,Summer,2003,2003/2004,local
+FC Barcelona,Real Madrid,Primera Division,Roberto Trashorras,22,Central Midfield,NA,sold,Summer,2003,2003/2004,local
+FC Barcelona,Real Murcia CF,Primera Division,Roberto Bonano,33,Goalkeeper,NA,sold,Winter,2003,2003/2004,local
+FC Barcelona,Real Zaragoza,Primera Division,Dani García,29,Central Midfield,NA,on loan,Winter,2003,2003/2004,local
+FC Barcelona,SL Benfica,Primera Division,Geovanni,23,Attacking Midfield,NA,sold,Summer,2003,2003/2004,international
+FC Barcelona,SS Lazio,Primera Division,Gaizka Mendieta,29,Right Midfield,NA,on loan,Summer,2003,2003/2004,international
+FC Barcelona,Sporting CP,Primera Division,Fábio Rochemback,21,Central Midfield,2.25M,on loan,Summer,2003,2003/2004,international
+FC Barcelona,Villarreal CF,Primera Division,Juan Román Riquelme,25,Attacking Midfield,NA,on loan,Summer,2003,2003/2004,local
+Fenerbahce,FC Barcelona,Primera Division,Robert Enke,26,Goalkeeper,NA,on loan,Summer,2003,2003/2004,international
+Fenerbahce,FC Barcelona,Primera Division,Rüstü Recber,30,Goalkeeper,NA,sold,Summer,2003,2003/2004,international
+Juventus FC,FC Barcelona,Serie A,Edgar Davids,30,Central Midfield,NA,on loan,Winter,2003,2003/2004,international
+Paris SG,FC Barcelona,Primera Division,Ronaldinho,23,Attacking Midfield,29.03M,sold,Summer,2003,2003/2004,international
+Paris Saint-Germain,FC Barcelona,Ligue 1,Ronaldinho,23,Attacking Midfield,29.03M,sold,Summer,2003,2003/2004,international
+Real Betis Balompié,FC Barcelona,Primera Division,Alfonso,30,Centre-Forward,NA,on loan,Summer,2003,2003/2004,local
+Real Valladolid CF,FC Barcelona,Primera Division,Mario Álvarez,21,Centre-Back,NA,on loan,Summer,2003,2003/2004,local
+SL Benfica,FC Barcelona,Primera Division,Geovanni,23,Attacking Midfield,NA,on loan,Summer,2003,2003/2004,international
+Sporting CP,FC Barcelona,Primera Division,Ricardo Quaresma,19,Right Winger,5.72M,sold,Summer,2003,2003/2004,international
+AS Monaco,FC Barcelona,Primera Division,Ludovic Giuly,27,Right Winger,7.65M,sold,Summer,2004,2004/2005,international
+Albacete Balompié,FC Barcelona,Primera Division,Fernando Navarro,22,Left-Back,NA,on loan,Summer,2004,2004/2005,local
+Albacete Balompié,FC Barcelona,Primera Division,David Sánchez,22,Central Midfield,NA,on loan,Winter,2004,2004/2005,local
+Arsenal FC,FC Barcelona,Premier League,Giovanni van Bronckhorst,29,Left-Back,NA,sold,Summer,2004,2004/2005,international
+Atalanta BC,FC Barcelona,Serie A,Demetrio Albertini,33,Defensive Midfield,NA,sold,Winter,2004,2004/2005,international
+CD Tenerife,FC Barcelona,Primera Division,Robert Enke,26,Goalkeeper,NA,on loan,Summer,2004,2004/2005,local
+Celta de Vigo,FC Barcelona,Primera Division,Sylvinho,30,Left-Back,1.35M,sold,Summer,2004,2004/2005,local
+Celtic,FC Barcelona,Primera Division,Henrik Larsson,32,Centre-Forward,NA,sold,Summer,2004,2004/2005,international
+FC Barcelona,AS Monaco,Primera Division,Javier Saviola,22,Second Striker,NA,on loan,Summer,2004,2004/2005,international
+FC Barcelona,Arsenal FC,Premier League,Giovanni van Bronckhorst,29,Left-Back,NA,on loan,Summer,2004,2004/2005,international
+FC Barcelona,CD Numancia,Primera Division,Ramón Ros,23,Defensive Midfield,NA,on loan,Summer,2004,2004/2005,local
+FC Barcelona,Career break,Primera Division,Marc Overmars,31,Left Winger,NA,sold,Summer,2004,2004/2005,international
+FC Barcelona,FC Barcelona,Primera Division,Albert Jorquera,25,Goalkeeper,NA,sold,Summer,2004,2004/2005,local
+FC Barcelona,FC Barcelona,Primera Division,Damià,22,Right-Back,NA,sold,Winter,2004,2004/2005,local
+FC Barcelona,FC Porto,Primera Division,Ricardo Quaresma,20,Right Winger,5.4M,sold,Summer,2004,2004/2005,international
+FC Barcelona,Fenerbahce,Primera Division,Rüstü Recber,31,Goalkeeper,NA,on loan,Summer,2004,2004/2005,international
+FC Barcelona,Hannover 96,1 Bundesliga,Robert Enke,26,Goalkeeper,NA,sold,Summer,2004,2004/2005,international
+FC Barcelona,Juventus FC,Primera Division,Edgar Davids,31,Central Midfield,NA,on loan,Summer,2004,2004/2005,international
+FC Barcelona,Levante UD,Primera Division,Sergio García,21,Centre-Forward,NA,on loan,Summer,2004,2004/2005,local
+FC Barcelona,Liverpool FC,Premier League,Luis García,26,Forward,7.88M,sold,Summer,2004,2004/2005,international
+FC Barcelona,Manchester United,Premier League,Gerard Piqué,17,Centre-Back,4.73M,sold,Summer,2004,2004/2005,international
+FC Barcelona,Middlesbrough FC,Premier League,Michael Reiziger,31,Right-Back,NA,sold,Summer,2004,2004/2005,international
+FC Barcelona,Newcastle United,Premier League,Patrick Kluivert,28,Centre-Forward,NA,sold,Summer,2004,2004/2005,international
+FC Barcelona,PSV Eindhoven,Primera Division,Phillip Cocu,33,Defensive Midfield,NA,sold,Summer,2004,2004/2005,international
+FC Barcelona,RCD Espanyol Barcelona,Primera Division,Dani García,29,Central Midfield,NA,sold,Summer,2004,2004/2005,local
+FC Barcelona,Real Valladolid CF,Primera Division,Mario Abrante,22,Centre-Back,NA,on loan,Summer,2004,2004/2005,local
+FC Barcelona,Retired,Primera Division,Luis Enrique,34,Right Midfield,NA,sold,Summer,2004,2004/2005,international
+FC Barcelona,SS Lazio,Serie A,Óscar López,24,Right-Back,NA,on loan,Summer,2004,2004/2005,international
+FC Porto,FC Barcelona,Primera Division,Deco,26,Attacking Midfield,18.9M,sold,Summer,2004,2004/2005,international
+Olympique Lyon,FC Barcelona,Primera Division,Edmílson,27,Defensive Midfield,7.2M,sold,Summer,2004,2004/2005,international
+RC Strasbourg Alsace,FC Barcelona,Ligue 1,Ludovic Sylvestre,20,Central Midfield,NA,sold,Winter,2004,2004/2005,international
+RCD Mallorca,FC Barcelona,Primera Division,Samuel Eto'o,23,Centre-Forward,24.3M,sold,Summer,2004,2004/2005,local
+Real Zaragoza,FC Barcelona,Primera Division,Dani García,29,Central Midfield,NA,on loan,Summer,2004,2004/2005,local
+River Plate,FC Barcelona,Primera Division,Maxi López,20,Centre-Forward,5.85M,sold,Winter,2004,2004/2005,international
+Villarreal CF,FC Barcelona,Primera Division,Juliano Belletti,28,Right-Back,5.4M,sold,Summer,2004,2004/2005,local
+AS Monaco,FC Barcelona,Primera Division,Javier Saviola,23,Second Striker,NA,on loan,Summer,2005,2005/2006,international
+Athletic Bilbao,FC Barcelona,Primera Division,Santiago Ezquerro,28,Centre-Forward,NA,sold,Summer,2005,2005/2006,local
+Deportivo Alavés,FC Barcelona,Primera Division,David Sánchez,22,Central Midfield,NA,on loan,Summer,2005,2005/2006,local
+Deportivo Alavés,FC Barcelona,Primera Division,Andrea Orlandi,20,Central Midfield,NA,on loan,Summer,2005,2005/2006,local
+Deportivo Alavés,FC Barcelona,Primera Division,Sergio Santamaría,24,Right Winger,NA,on loan,Summer,2005,2005/2006,local
+FC Barcelona,AS Monaco,Primera Division,Gerard López,26,Central Midfield,NA,sold,Summer,2005,2005/2006,international
+FC Barcelona,Deportivo de La Coruña,Primera Division,Rodri,20,Centre-Back,NA,sold,Summer,2005,2005/2006,local
+FC Barcelona,FC Barcelona,Primera Division,Lionel Messi,18,Right Winger,NA,sold,Summer,2005,2005/2006,local
+FC Barcelona,Middlesbrough FC,Premier League,Fábio Rochemback,23,Central Midfield,1.35M,sold,Summer,2005,2005/2006,international
+FC Barcelona,Portsmouth FC,Premier League,Franck Songo'o,18,Right Winger,0.338M,sold,Summer,2005,2005/2006,international
+FC Barcelona,RCD Mallorca,Primera Division,Fernando Navarro,23,Left-Back,NA,on loan,Summer,2005,2005/2006,local
+FC Barcelona,Racing Santander,Primera Division,Damià,23,Right-Back,NA,on loan,Winter,2005,2005/2006,local
+FC Barcelona,Real Betis Balompié,Primera Division,Óscar López,25,Right-Back,NA,on loan,Summer,2005,2005/2006,local
+FC Barcelona,Real Zaragoza,Primera Division,Sergio García,22,Centre-Forward,1.35M,sold,Summer,2005,2005/2006,local
+FC Barcelona,Retired,Primera Division,Demetrio Albertini,33,Defensive Midfield,NA,sold,Summer,2005,2005/2006,international
+FC Barcelona,Sevilla FC,Primera Division,Javier Saviola,23,Second Striker,NA,on loan,Summer,2005,2005/2006,local
+FC Barcelona,Villarreal CF,Primera Division,Juan Román Riquelme,27,Attacking Midfield,7.2M,sold,Summer,2005,2005/2006,local
+Levante UD,FC Barcelona,Primera Division,Sergio García,22,Centre-Forward,NA,on loan,Summer,2005,2005/2006,local
+Oldham Athletic,FC Barcelona,Primera Division,Santiago Ezquerro,28,Centre-Forward,NA,sold,Summer,2005,2005/2006,international
+PSV Eindhoven,FC Barcelona,Primera Division,Mark van Bommel,28,Defensive Midfield,NA,sold,Summer,2005,2005/2006,international
+SS Lazio,FC Barcelona,Serie A,Óscar López,25,Right-Back,NA,on loan,Summer,2005,2005/2006,international
+Sporting CP,FC Barcelona,Primera Division,Fábio Rochemback,23,Central Midfield,NA,on loan,Summer,2005,2005/2006,international
+Villarreal CF,FC Barcelona,Primera Division,Juan Román Riquelme,27,Attacking Midfield,NA,on loan,Summer,2005,2005/2006,local
+Chelsea FC,FC Barcelona,Premier League,Eidur Gudjohnsen,27,Centre-Forward,10.8M,sold,Summer,2006,2006/2007,international
+FC Barcelona,Ajax Amsterdam,Primera Division,Gabri,27,Defensive Midfield,NA,sold,Summer,2006,2006/2007,international
+FC Barcelona,Bayern Munich,1 Bundesliga,Mark van Bommel,29,Defensive Midfield,5.4M,sold,Summer,2006,2006/2007,international
+FC Barcelona,Deportivo de La Coruña,Primera Division,Cristian Hidalgo,22,Left Winger,NA,sold,Summer,2006,2006/2007,local
+FC Barcelona,Deportivo de La Coruña,Primera Division,Joan Verdú,23,Attacking Midfield,NA,sold,Summer,2006,2006/2007,local
+FC Barcelona,FC Bayern,Primera Division,Mark van Bommel,29,Defensive Midfield,5.4M,sold,Summer,2006,2006/2007,international
+FC Barcelona,Fenerbahce,Primera Division,Rüstü Recber,33,Goalkeeper,NA,sold,Summer,2006,2006/2007,international
+FC Barcelona,Gimnàstic de Tarragona,Primera Division,Nano,22,Centre-Back,NA,on loan,Winter,2006,2006/2007,local
+FC Barcelona,Helsingborg,Primera Division,Henrik Larsson,34,Centre-Forward,NA,sold,Summer,2006,2006/2007,international
+FC Barcelona,RCD Mallorca,Primera Division,Fernando Navarro,24,Left-Back,5.4M,sold,Summer,2006,2006/2007,local
+FC Barcelona,RCD Mallorca,Primera Division,Maxi López,22,Centre-Forward,NA,on loan,Summer,2006,2006/2007,local
+FC Barcelona,Real Betis Balompié,Primera Division,Damià,24,Right-Back,0.9M,sold,Summer,2006,2006/2007,local
+FC Barcelona,Real Betis Balompié,Primera Division,Óscar López,26,Right-Back,0.18M,sold,Summer,2006,2006/2007,local
+FC Barcelona,Sunderland AFC,Championship,Arnau Riera,24,Left Winger,NA,sold,Summer,2006,2006/2007,international
+Fenerbahce,FC Barcelona,Primera Division,Rüstü Recber,33,Goalkeeper,NA,on loan,Summer,2006,2006/2007,international
+Gimnàstic de Tarragona,FC Barcelona,Primera Division,Nano,21,Centre-Back,NA,on loan,Summer,2006,2006/2007,local
+Juventus FC,FC Barcelona,Primera Division,Gianluca Zambrotta,29,Right-Back,12.6M,sold,Summer,2006,2006/2007,international
+Juventus FC,FC Barcelona,Primera Division,Lilian Thuram,34,Centre-Back,4.5M,sold,Summer,2006,2006/2007,international
+RCD Mallorca,FC Barcelona,Primera Division,Fernando Navarro,24,Left-Back,NA,on loan,Summer,2006,2006/2007,local
+Racing Santander,FC Barcelona,Primera Division,Damià,24,Right-Back,NA,on loan,Summer,2006,2006/2007,local
+Real Betis Balompié,FC Barcelona,Primera Division,Óscar López,26,Right-Back,NA,on loan,Summer,2006,2006/2007,local
+Sevilla FC,FC Barcelona,Primera Division,Javier Saviola,24,Second Striker,NA,on loan,Summer,2006,2006/2007,local
+AS Monaco,FC Barcelona,Primera Division,Yaya Touré,24,Central Midfield,8.1M,sold,Summer,2007,2007/2008,international
+Arsenal FC,FC Barcelona,Premier League,Thierry Henry,29,Centre-Forward,21.6M,sold,Summer,2007,2007/2008,international
+Celta de Vigo,FC Barcelona,Primera Division,José Manuel Pinto,32,Goalkeeper,0.45M,on loan,Winter,2007,2007/2008,local
+FC Barcelona,AS Roma,Serie A,Ludovic Giuly,30,Right Winger,4.05M,sold,Summer,2007,2007/2008,international
+FC Barcelona,Atlético Madrid,Primera Division,Thiago Motta,24,Defensive Midfield,1.8M,sold,Summer,2007,2007/2008,local
+FC Barcelona,Atlético de Madrid,Primera Division,Thiago Motta,24,Defensive Midfield,1.8M,sold,Summer,2007,2007/2008,local
+FC Barcelona,Chelsea FC,Premier League,Juliano Belletti,31,Right-Back,4.95M,sold,Summer,2007,2007/2008,international
+FC Barcelona,FC Barcelona,Primera Division,Giovani dos Santos,18,Second Striker,NA,sold,Summer,2007,2007/2008,local
+FC Barcelona,FC Barcelona,Primera Division,Marc Crosas,19,Defensive Midfield,NA,sold,Summer,2007,2007/2008,local
+FC Barcelona,FC Barcelona,Primera Division,Oier Olazábal,17,Goalkeeper,NA,sold,Summer,2007,2007/2008,local
+FC Barcelona,FC Barcelona,Primera Division,Bojan Krkic,16,Second Striker,NA,sold,Summer,2007,2007/2008,local
+FC Barcelona,FC Barcelona,Primera Division,Pedro,20,Central Midfield,NA,sold,Winter,2007,2007/2008,local
+FC Barcelona,FC Moscow,Premier Liga,Maxi López,23,Centre-Forward,1.8M,sold,Summer,2007,2007/2008,international
+FC Barcelona,Feyenoord Rotterdam,Primera Division,Giovanni van Bronckhorst,32,Left-Back,NA,sold,Summer,2007,2007/2008,international
+FC Barcelona,Olympique Lyon,Primera Division,Marc Crosas,19,Defensive Midfield,NA,on loan,Winter,2007,2007/2008,international
+FC Barcelona,Real Madrid,Primera Division,Javier Saviola,25,Second Striker,NA,sold,Summer,2007,2007/2008,local
+Olympique Lyon,FC Barcelona,Primera Division,Éric Abidal,27,Left-Back,13.5M,sold,Summer,2007,2007/2008,international
+RCD Mallorca,FC Barcelona,Primera Division,Maxi López,23,Centre-Forward,NA,on loan,Summer,2007,2007/2008,local
+Real Zaragoza,FC Barcelona,Primera Division,Gabriel Milito,26,Centre-Back,18.0M,sold,Summer,2007,2007/2008,local
+Arsenal FC,FC Barcelona,Premier League,Aleksandr Hleb,27,Attacking Midfield,15.3M,sold,Summer,2008,2008/2009,international
+Celta de Vigo,FC Barcelona,Primera Division,José Manuel Pinto,32,Goalkeeper,NA,sold,Summer,2008,2008/2009,local
+Desp. Brasil,FC Barcelona,Primera Division,Henrique,21,Centre-Back,7.2M,sold,Summer,2008,2008/2009,local
+FC Barcelona,AC Milan,Serie A,Gianluca Zambrotta,31,Right-Back,9.45M,sold,Summer,2008,2008/2009,international
+FC Barcelona,AC Milan,Serie A,Ronaldinho Gaúcho,28,Attacking Midfield,21.74M,sold,Summer,2008,2008/2009,international
+FC Barcelona,Ajax Amsterdam,Primera Division,Oleguer,28,Centre-Back,2.7M,sold,Summer,2008,2008/2009,international
+FC Barcelona,Bay. Leverkusen,Primera Division,Henrique,21,Centre-Back,0.36M,on loan,Summer,2008,2008/2009,international
+FC Barcelona,Bayer 04 Leverkusen,1 Bundesliga,Henrique,21,Centre-Back,0.36M,on loan,Summer,2008,2008/2009,international
+FC Barcelona,CA Osasuna,Primera Division,Santiago Ezquerro,31,Centre-Forward,NA,sold,Summer,2008,2008/2009,local
+FC Barcelona,CD Numancia,Primera Division,Dimas Delgado,25,Central Midfield,NA,sold,Summer,2008,2008/2009,local
+FC Barcelona,Celta de Vigo,Primera Division,José Manuel Pinto,32,Goalkeeper,NA,on loan,Summer,2008,2008/2009,local
+FC Barcelona,Celtic,Primera Division,Marc Crosas,20,Defensive Midfield,0.486M,sold,Summer,2008,2008/2009,international
+FC Barcelona,Chelsea FC,Premier League,Deco,30,Attacking Midfield,9.0M,sold,Summer,2008,2008/2009,international
+FC Barcelona,FC Barcelona,Primera Division,Oier Olazábal,18,Goalkeeper,NA,sold,Summer,2008,2008/2009,local
+FC Barcelona,FC Barcelona,Primera Division,Sergio Busquets,20,Defensive Midfield,NA,sold,Summer,2008,2008/2009,local
+FC Barcelona,NAC Breda,Eredivisie,Enric Vallès,18,Central Midfield,NA,sold,Summer,2008,2008/2009,international
+FC Barcelona,Retired,Primera Division,Lilian Thuram,36,Centre-Back,NA,sold,Summer,2008,2008/2009,international
+FC Barcelona,Spurs,Primera Division,Giovani dos Santos,19,Second Striker,5.4M,sold,Summer,2008,2008/2009,international
+FC Barcelona,Tottenham Hotspur,Premier League,Giovani dos Santos,19,Second Striker,5.4M,sold,Summer,2008,2008/2009,international
+FC Barcelona,Villarreal CF,Primera Division,Edmílson,31,Defensive Midfield,NA,sold,Summer,2008,2008/2009,local
+Man Utd,FC Barcelona,Primera Division,Gerard Piqué,21,Centre-Back,4.5M,sold,Summer,2008,2008/2009,international
+Manchester United,FC Barcelona,Premier League,Gerard Piqué,21,Centre-Back,4.5M,sold,Summer,2008,2008/2009,international
+Olympique Lyon,FC Barcelona,Primera Division,Marc Crosas,20,Defensive Midfield,NA,on loan,Summer,2008,2008/2009,international
+Sevilla FC,FC Barcelona,Primera Division,Dani Alves,25,Right-Back,31.95M,sold,Summer,2008,2008/2009,local
+Sevilla FC,FC Barcelona,Primera Division,Seydou Keita,28,Central Midfield,12.6M,sold,Summer,2008,2008/2009,local
+Sporting Gijón,FC Barcelona,Primera Division,Jony López,21,Centre-Back,NA,on loan,Summer,2008,2008/2009,local
+Villarreal CF,FC Barcelona,Primera Division,Martín Cáceres,21,Centre-Back,14.85M,sold,Summer,2008,2008/2009,local
+Bay. Leverkusen,FC Barcelona,Primera Division,Henrique,22,Centre-Back,NA,on loan,Summer,2009,2009/2010,international
+Bayer 04 Leverkusen,FC Barcelona,1 Bundesliga,Henrique,22,Centre-Back,NA,on loan,Summer,2009,2009/2010,international
+Desp. Brasil,FC Barcelona,Primera Division,Keirrison,20,Centre-Forward,12.6M,sold,Summer,2009,2009/2010,local
+FC Barcelona,AC Fiorentina,Primera Division,Keirrison,21,Centre-Forward,NA,on loan,Winter,2009,2009/2010,international
+FC Barcelona,ACF Fiorentina,Serie A,Keirrison,21,Centre-Forward,NA,on loan,Winter,2009,2009/2010,international
+FC Barcelona,AS Monaco,Primera Division,Eidur Gudjohnsen,30,Centre-Forward,1.8M,sold,Summer,2009,2009/2010,international
+FC Barcelona,FC Barcelona,Primera Division,Jeffren,21,Right Winger,NA,sold,Summer,2009,2009/2010,local
+FC Barcelona,FC Barcelona,Primera Division,Víctor Sánchez,21,Central Midfield,NA,sold,Summer,2009,2009/2010,local
+FC Barcelona,FC Internazionale,Serie A,Samuel Eto'o,28,Centre-Forward,18.0M,sold,Summer,2009,2009/2010,international
+FC Barcelona,Girona FC,Primera Division,Albert Jorquera,30,Goalkeeper,NA,sold,Summer,2009,2009/2010,local
+FC Barcelona,Juventus FC,Serie A,Martín Cáceres,22,Centre-Back,0.45M,on loan,Summer,2009,2009/2010,international
+FC Barcelona,Man City,Primera Division,Sylvinho,35,Left-Back,NA,sold,Summer,2009,2009/2010,international
+FC Barcelona,Manchester City,Premier League,Sylvinho,35,Left-Back,NA,sold,Summer,2009,2009/2010,international
+FC Barcelona,Málaga CF,Primera Division,Xavi Torres,22,Defensive Midfield,NA,sold,Summer,2009,2009/2010,local
+FC Barcelona,Racing Santander,Primera Division,Henrique,22,Centre-Back,NA,on loan,Summer,2009,2009/2010,local
+FC Barcelona,Real Zaragoza,Primera Division,Antonio Longás,24,Central Midfield,NA,on loan,Summer,2009,2009/2010,local
+FC Barcelona,SL Benfica,Primera Division,Keirrison,20,Centre-Forward,NA,on loan,Summer,2009,2009/2010,international
+FC Barcelona,Sporting Gijón,Primera Division,Jony López,22,Centre-Back,NA,on loan,Summer,2009,2009/2010,local
+FC Barcelona,Sporting Gijón,Primera Division,Alberto Botía,20,Centre-Back,NA,on loan,Summer,2009,2009/2010,local
+FC Barcelona,VfB Stuttgart,1 Bundesliga,Aleksandr Hleb,28,Attacking Midfield,1.8M,on loan,Summer,2009,2009/2010,international
+FC Barcelona,Xerez CD,Primera Division,Víctor Sánchez,21,Central Midfield,NA,on loan,Summer,2009,2009/2010,local
+FC Internazionale,FC Barcelona,Serie A,Zlatan Ibrahimovic,27,Centre-Forward,62.55M,sold,Summer,2009,2009/2010,international
+FC Internazionale,FC Barcelona,Serie A,Maxwell,27,Left-Back,4.5M,sold,Summer,2009,2009/2010,international
+SL Benfica,FC Barcelona,Primera Division,Keirrison,21,Centre-Forward,NA,on loan,Winter,2009,2009/2010,international
+Shakhtar D.,FC Barcelona,Primera Division,Dmytro Chygrynskyi,22,Centre-Back,22.5M,sold,Summer,2009,2009/2010,international
+AC Fiorentina,FC Barcelona,Primera Division,Keirrison,21,Centre-Forward,NA,on loan,Summer,2010,2010/2011,international
+ACF Fiorentina,FC Barcelona,Serie A,Keirrison,21,Centre-Forward,NA,on loan,Summer,2010,2010/2011,international
+FC Barcelona,AC Milan,Serie A,Zlatan Ibrahimovic,28,Centre-Forward,5.4M,on loan,Summer,2010,2010/2011,international
+FC Barcelona,Birmingham City,Premier League,Aleksandr Hleb,29,Attacking Midfield,1.08M,on loan,Summer,2010,2010/2011,international
+FC Barcelona,Blackburn Rovers,Premier League,Rubén Rochina,19,Right Winger,0.405M,sold,Winter,2010,2010/2011,international
+FC Barcelona,FC Barcelona,Primera Division,Andreu Fontàs,21,Centre-Back,NA,sold,Winter,2010,2010/2011,local
+FC Barcelona,Getafe CF,Primera Division,Víctor Sánchez,22,Central Midfield,NA,on loan,Summer,2010,2010/2011,local
+FC Barcelona,Man City,Primera Division,Yaya Touré,27,Central Midfield,27.0M,sold,Summer,2010,2010/2011,international
+FC Barcelona,Manchester City,Premier League,Yaya Touré,27,Central Midfield,27.0M,sold,Summer,2010,2010/2011,international
+FC Barcelona,New York,Primera Division,Thierry Henry,32,Centre-Forward,NA,sold,Summer,2010,2010/2011,local
+FC Barcelona,New York,Primera Division,Rafael Márquez,31,Centre-Back,NA,sold,Summer,2010,2010/2011,local
+FC Barcelona,Santos FC,Primera Division,Keirrison,21,Centre-Forward,NA,on loan,Summer,2010,2010/2011,international
+FC Barcelona,Sevilla FC,Primera Division,Martín Cáceres,23,Centre-Back,0.45M,on loan,Summer,2010,2010/2011,local
+FC Barcelona,Shakhtar D.,Primera Division,Dmytro Chygrynskyi,23,Centre-Back,13.5M,sold,Summer,2010,2010/2011,international
+FC Barcelona,Sporting Gijón,Primera Division,Alberto Botía,21,Centre-Back,NA,sold,Summer,2010,2010/2011,local
+FC Barcelona,UD Almería,Primera Division,Miguel Ángel Luque,19,Central Midfield,NA,sold,Summer,2010,2010/2011,local
+FC Barcelona,Vitesse Arnhem,Eredivisie,Martí Riverola,19,Central Midfield,NA,on loan,Winter,2010,2010/2011,international
+Juventus FC,FC Barcelona,Serie A,Martín Cáceres,23,Centre-Back,NA,on loan,Summer,2010,2010/2011,international
+Liverpool FC,FC Barcelona,Premier League,Javier Mascherano,26,Defensive Midfield,18.0M,sold,Summer,2010,2010/2011,international
+PSV Eindhoven,FC Barcelona,Primera Division,Ibrahim Afellay,24,Left Midfield,2.7M,sold,Winter,2010,2010/2011,international
+Sevilla FC,FC Barcelona,Primera Division,Adriano,25,Centre-Forward,8.55M,sold,Summer,2010,2010/2011,local
+Sporting Gijón,FC Barcelona,Primera Division,Alberto Botía,21,Centre-Back,NA,on loan,Summer,2010,2010/2011,local
+Valencia CF,FC Barcelona,Primera Division,David Villa,28,Centre-Forward,36.0M,sold,Summer,2010,2010/2011,local
+VfB Stuttgart,FC Barcelona,1 Bundesliga,Aleksandr Hleb,29,Attacking Midfield,NA,on loan,Summer,2010,2010/2011,international
+Xerez CD,FC Barcelona,Primera Division,Víctor Sánchez,22,Central Midfield,NA,on loan,Summer,2010,2010/2011,local
+AC Milan,FC Barcelona,Serie A,Zlatan Ibrahimovic,29,Centre-Forward,NA,on loan,Summer,2011,2011/2012,international
+Arsenal FC,FC Barcelona,Premier League,Cesc Fàbregas,24,Central Midfield,30.6M,sold,Summer,2011,2011/2012,international
+Birmingham City,FC Barcelona,Primera Division,Aleksandr Hleb,30,Attacking Midfield,NA,on loan,Summer,2011,2011/2012,international
+Cruzeiro,FC Barcelona,Primera Division,Keirrison,23,Centre-Forward,NA,on loan,Winter,2011,2011/2012,international
+FC Barcelona,AC Milan,Serie A,Zlatan Ibrahimovic,29,Centre-Forward,21.6M,sold,Summer,2011,2011/2012,international
+FC Barcelona,AS Roma,Serie A,Bojan Krkic,20,Second Striker,10.8M,sold,Summer,2011,2011/2012,international
+FC Barcelona,Chelsea FC,Premier League,Oriol Romeu,19,Defensive Midfield,4.14M,sold,Summer,2011,2011/2012,international
+FC Barcelona,Coritiba FC,Primera Division,Keirrison,23,Centre-Forward,NA,on loan,Winter,2011,2011/2012,international
+FC Barcelona,Cruzeiro,Primera Division,Keirrison,22,Centre-Forward,NA,on loan,Summer,2011,2011/2012,international
+FC Barcelona,FC Barcelona,Primera Division,Thiago,20,Centre-Forward,NA,sold,Summer,2011,2011/2012,local
+FC Barcelona,FC Barcelona,Primera Division,Isaac Cuenca,20,Left Winger,NA,sold,Winter,2011,2011/2012,local
+FC Barcelona,Independiente,Primera Division,Gabriel Milito,30,Centre-Back,NA,sold,Summer,2011,2011/2012,international
+FC Barcelona,KS Samara,Primera Division,Aleksandr Hleb,30,Attacking Midfield,NA,sold,Winter,2011,2011/2012,international
+FC Barcelona,Krylya Sovetov Samara,Premier Liga,Aleksandr Hleb,30,Attacking Midfield,NA,sold,Winter,2011,2011/2012,international
+FC Barcelona,Neuchâtel Xamax,Primera Division,Víctor Sánchez,23,Central Midfield,NA,sold,Summer,2011,2011/2012,international
+FC Barcelona,Palmeiras,Primera Division,Henrique,24,Centre-Back,NA,on loan,Summer,2011,2011/2012,international
+FC Barcelona,Paris SG,Primera Division,Maxwell,30,Left-Back,3.15M,sold,Winter,2011,2011/2012,international
+FC Barcelona,Paris Saint-Germain,Ligue 1,Maxwell,30,Left-Back,3.15M,sold,Winter,2011,2011/2012,international
+FC Barcelona,Real Zaragoza,Primera Division,Abraham Minero,25,Left-Back,NA,sold,Summer,2011,2011/2012,local
+FC Barcelona,Real Zaragoza,Primera Division,Edu Oriol,24,Right-Back,NA,sold,Summer,2011,2011/2012,local
+FC Barcelona,SL Benfica,Liga Nos,Nolito,24,Left Winger,NA,sold,Summer,2011,2011/2012,international
+FC Barcelona,Sevilla FC,Primera Division,Martín Cáceres,24,Centre-Back,2.7M,sold,Summer,2011,2011/2012,local
+FC Barcelona,Sporting CP,Primera Division,Jeffren,23,Right Winger,3.38M,sold,Summer,2011,2011/2012,international
+FC Barcelona,VfL Wolfsburg,1 Bundesliga,Aleksandr Hleb,30,Attacking Midfield,0.63M,on loan,Summer,2011,2011/2012,international
+Getafe CF,FC Barcelona,Primera Division,Víctor Sánchez,23,Central Midfield,NA,on loan,Summer,2011,2011/2012,local
+Racing Santander,FC Barcelona,Primera Division,Henrique,24,Centre-Back,NA,on loan,Summer,2011,2011/2012,local
+Santos FC,FC Barcelona,Primera Division,Keirrison,22,Centre-Forward,NA,on loan,Summer,2011,2011/2012,international
+Sevilla FC,FC Barcelona,Primera Division,Martín Cáceres,24,Centre-Back,NA,on loan,Summer,2011,2011/2012,local
+Sevilla FC,FC Barcelona,Primera Division,Rodri Ríos,21,Centre-Forward,1.35M,sold,Summer,2011,2011/2012,local
+Udinese Calcio,FC Barcelona,Serie A,Alexis Sánchez,22,Centre-Forward,23.4M,sold,Summer,2011,2011/2012,international
+VfL Wolfsburg,FC Barcelona,1 Bundesliga,Aleksandr Hleb,30,Attacking Midfield,NA,on loan,Winter,2011,2011/2012,international
+Vitesse Arnhem,FC Barcelona,Eredivisie,Martí Riverola,20,Central Midfield,NA,on loan,Summer,2011,2011/2012,international
+Arsenal FC,FC Barcelona,Premier League,Alex Song,24,Defensive Midfield,17.1M,sold,Summer,2012,2012/2013,international
+FC Barcelona,Ajax Amsterdam,Primera Division,Isaac Cuenca,21,Left Winger,NA,on loan,Winter,2012,2012/2013,international
+FC Barcelona,Bologna FC 1909,Serie A,Martí Riverola,21,Central Midfield,NA,sold,Summer,2012,2012/2013,international
+FC Barcelona,DL Aerbin,Primera Division,Seydou Keita,32,Central Midfield,NA,sold,Summer,2012,2012/2013,local
+FC Barcelona,FC Barcelona,Primera Division,Cristian Tello,20,Left Winger,NA,sold,Summer,2012,2012/2013,local
+FC Barcelona,FC Barcelona,Primera Division,Jonathan dos Santos,22,Central Midfield,NA,sold,Summer,2012,2012/2013,local
+FC Barcelona,FC Barcelona,Primera Division,Marc Bartra,21,Centre-Back,NA,sold,Summer,2012,2012/2013,local
+FC Barcelona,FC Barcelona,Primera Division,Martín Montoya,21,Right-Back,NA,sold,Summer,2012,2012/2013,local
+FC Barcelona,FC Schalke 04,1 Bundesliga,Ibrahim Afellay,26,Left Midfield,0.45M,on loan,Summer,2012,2012/2013,international
+FC Barcelona,Palmeiras,Primera Division,Henrique,25,Centre-Back,NA,sold,Summer,2012,2012/2013,international
+FC Barcelona,RCD Mallorca,Primera Division,Andreu Fontàs,22,Centre-Back,NA,on loan,Summer,2012,2012/2013,local
+FC Barcelona,RCD Mallorca,Primera Division,Rubén Miño,23,Goalkeeper,NA,sold,Summer,2012,2012/2013,local
+FC Barcelona,Real Zaragoza,Primera Division,Rodri Ríos,22,Centre-Forward,NA,on loan,Winter,2012,2012/2013,local
+FC Barcelona,Sheffield Wednesday,Championship,Rodri Ríos,22,Centre-Forward,NA,on loan,Summer,2012,2012/2013,international
+Palmeiras,FC Barcelona,Primera Division,Henrique,25,Centre-Back,NA,on loan,Summer,2012,2012/2013,international
+Sevilla FC,FC Barcelona,Primera Division,Luis Alberto,19,Central Midfield,0.18M,on loan,Summer,2012,2012/2013,local
+Sheffield Wednesday,FC Barcelona,Championship,Rodri Ríos,22,Centre-Forward,NA,on loan,Winter,2012,2012/2013,international
+Valencia CF,FC Barcelona,Primera Division,Jordi Alba,23,Left-Back,12.6M,sold,Summer,2012,2012/2013,local
+AS Roma,FC Barcelona,Serie A,Bojan Krkic,22,Second Striker,11.7M,sold,Summer,2013,2013/2014,international
+Ajax Amsterdam,FC Barcelona,Primera Division,Isaac Cuenca,22,Left Winger,NA,on loan,Summer,2013,2013/2014,international
+FC Barcelona,AS Monaco,Primera Division,Éric Abidal,33,Left-Back,NA,sold,Summer,2013,2013/2014,international
+FC Barcelona,Ajax Amsterdam,Primera Division,Bojan Krkic,22,Second Striker,NA,on loan,Summer,2013,2013/2014,international
+FC Barcelona,Atlético Madrid,Primera Division,David Villa,31,Centre-Forward,1.89M,sold,Summer,2013,2013/2014,local
+FC Barcelona,Atlético de Madrid,Primera Division,David Villa,31,Centre-Forward,1.89M,sold,Summer,2013,2013/2014,local
+FC Barcelona,Bayern Munich,1 Bundesliga,Thiago,22,Centre-Forward,22.5M,sold,Summer,2013,2013/2014,international
+FC Barcelona,Celta de Vigo,Primera Division,Rafinha,20,Right-Back,NA,on loan,Summer,2013,2013/2014,local
+FC Barcelona,Celta de Vigo,Primera Division,Andreu Fontàs,23,Centre-Back,0.9M,sold,Summer,2013,2013/2014,local
+FC Barcelona,Elche CF,Primera Division,David Lombán,26,Centre-Back,0.045M,sold,Summer,2013,2013/2014,local
+FC Barcelona,Everton FC,Premier League,Gerard Deulofeu,19,Left Winger,NA,on loan,Summer,2013,2013/2014,international
+FC Barcelona,FC Arouca,Liga Nos,Iván Balliu,21,Right-Back,NA,sold,Summer,2013,2013/2014,international
+FC Barcelona,FC Barcelona,Primera Division,Oier Olazábal,23,Goalkeeper,NA,sold,Summer,2013,2013/2014,local
+FC Barcelona,FC Barcelona,Primera Division,Sergi Roberto,21,Central Midfield,NA,sold,Summer,2013,2013/2014,local
+FC Barcelona,FC Barcelona,Primera Division,Rafinha,20,Right-Back,NA,sold,Summer,2013,2013/2014,local
+FC Barcelona,FC Barcelona,Primera Division,Gerard Deulofeu,19,Left Winger,NA,sold,Summer,2013,2013/2014,local
+FC Barcelona,FC Bayern,Primera Division,Thiago,22,Centre-Forward,22.5M,sold,Summer,2013,2013/2014,international
+FC Barcelona,Rio Ave FC,Liga Nos,Gus Ledes,20,Central Midfield,NA,sold,Summer,2013,2013/2014,international
+FC Barcelona,Sevilla FC,Primera Division,Luis Alberto,20,Central Midfield,NA,on loan,Summer,2013,2013/2014,local
+FC Barcelona,Stoke City,Premier League,Marc Muniesa,21,Centre-Back,NA,sold,Summer,2013,2013/2014,international
+FC Barcelona,UD Almería,Primera Division,Rodri Ríos,23,Centre-Forward,NA,on loan,Summer,2013,2013/2014,local
+FC Barcelona,US Sassuolo,Serie A,Antonio Sanabria,17,Centre-Forward,5.13M,sold,Winter,2013,2013/2014,international
+FC Barcelona,Villarreal CF,Primera Division,Joan Román,20,Left Winger,NA,on loan,Winter,2013,2013/2014,local
+FC Schalke 04,FC Barcelona,1 Bundesliga,Ibrahim Afellay,27,Left Midfield,NA,on loan,Summer,2013,2013/2014,international
+RCD Mallorca,FC Barcelona,Primera Division,Andreu Fontàs,23,Centre-Back,NA,on loan,Summer,2013,2013/2014,local
+Santos FC,FC Barcelona,Primera Division,Neymar,21,Left Winger,79.2M,sold,Summer,2013,2013/2014,international
+Ajax Amsterdam,FC Barcelona,Primera Division,Bojan Krkic,23,Second Striker,NA,on loan,Summer,2014,2014/2015,international
+Arsenal FC,FC Barcelona,Premier League,Thomas Vermaelen,28,Centre-Back,17.1M,sold,Summer,2014,2014/2015,international
+Bor. M'gladbach,FC Barcelona,Primera Division,Marc-André ter Stegen,22,Goalkeeper,10.8M,sold,Summer,2014,2014/2015,international
+Borussia Mönchengladbach,FC Barcelona,1 Bundesliga,Marc-André ter Stegen,22,Goalkeeper,10.8M,sold,Summer,2014,2014/2015,international
+Celta de Vigo,FC Barcelona,Primera Division,Rafinha,21,Right-Back,NA,on loan,Summer,2014,2014/2015,local
+Coritiba FC,FC Barcelona,Primera Division,Keirrison,25,Centre-Forward,NA,on loan,Summer,2014,2014/2015,international
+Everton FC,FC Barcelona,Premier League,Gerard Deulofeu,20,Left Winger,NA,on loan,Summer,2014,2014/2015,international
+FC Barcelona,Ajax Amsterdam,Eredivisie,André Onana,18,Goalkeeper,0.135M,sold,Winter,2014,2014/2015,international
+FC Barcelona,Arsenal FC,Premier League,Alexis Sánchez,25,Centre-Forward,38.25M,sold,Summer,2014,2014/2015,international
+FC Barcelona,Celta de Vigo,Primera Division,Carles Planas,23,Left-Back,NA,sold,Summer,2014,2014/2015,local
+FC Barcelona,Celta de Vigo,Primera Division,Sergi Gómez,22,Centre-Back,0.09M,sold,Summer,2014,2014/2015,local
+FC Barcelona,Chelsea FC,Premier League,Cesc Fàbregas,27,Central Midfield,29.7M,sold,Summer,2014,2014/2015,international
+FC Barcelona,Coritiba FC,Primera Division,Keirrison,25,Centre-Forward,NA,sold,Summer,2014,2014/2015,international
+FC Barcelona,Dep. La Coruña,Primera Division,Isaac Cuenca,23,Left Winger,NA,sold,Summer,2014,2014/2015,local
+FC Barcelona,Deportivo de La Coruña,Primera Division,Isaac Cuenca,23,Left Winger,NA,sold,Summer,2014,2014/2015,local
+FC Barcelona,FC Barcelona,Primera Division,Jordi Masip,25,Goalkeeper,NA,sold,Summer,2014,2014/2015,local
+FC Barcelona,FC Barcelona,Primera Division,Denis Suárez,20,Attacking Midfield,NA,sold,Summer,2014,2014/2015,local
+FC Barcelona,FC Porto,Primera Division,Cristian Tello,22,Left Winger,2.7M,on loan,Summer,2014,2014/2015,international
+FC Barcelona,Granada CF,Primera Division,Oier Olazábal,24,Goalkeeper,NA,sold,Summer,2014,2014/2015,local
+FC Barcelona,Olympiacos,Primera Division,Ibrahim Afellay,28,Left Midfield,NA,on loan,Summer,2014,2014/2015,international
+FC Barcelona,Retired,Primera Division,Carles Puyol,36,Centre-Back,NA,sold,Summer,2014,2014/2015,international
+FC Barcelona,Retired,Primera Division,José Manuel Pinto,38,Goalkeeper,NA,sold,Summer,2014,2014/2015,international
+FC Barcelona,SD Eibar,Primera Division,Dani Nieto,23,Left Winger,0.135M,sold,Summer,2014,2014/2015,local
+FC Barcelona,Sevilla FC,Primera Division,Denis Suárez,20,Attacking Midfield,NA,on loan,Summer,2014,2014/2015,local
+FC Barcelona,Sevilla FC,Primera Division,Gerard Deulofeu,20,Left Winger,NA,on loan,Summer,2014,2014/2015,local
+FC Barcelona,Stoke City,Premier League,Bojan Krkic,23,Second Striker,1.62M,sold,Summer,2014,2014/2015,international
+FC Barcelona,Villarreal CF,Primera Division,Jonathan dos Santos,24,Central Midfield,1.35M,sold,Summer,2014,2014/2015,local
+FC Barcelona,Villarreal CF,Primera Division,Javier Espinosa,21,Central Midfield,NA,sold,Summer,2014,2014/2015,local
+FC Barcelona,West Ham United,Premier League,Alex Song,26,Defensive Midfield,NA,on loan,Summer,2014,2014/2015,international
+FC Barcelona,Without Club,Primera Division,Víctor Valdés,32,Goalkeeper,NA,sold,Summer,2014,2014/2015,international
+Liverpool FC,FC Barcelona,Premier League,Luis Suárez,27,Centre-Forward,73.55M,sold,Summer,2014,2014/2015,international
+Real Sociedad,FC Barcelona,Primera Division,Claudio Bravo,31,Goalkeeper,10.8M,sold,Summer,2014,2014/2015,local
+Sevilla FC,FC Barcelona,Primera Division,Ivan Rakitic,26,Central Midfield,16.2M,sold,Summer,2014,2014/2015,local
+São Paulo,FC Barcelona,Primera Division,Douglas,24,Central Midfield,3.6M,sold,Summer,2014,2014/2015,international
+UD Almería,FC Barcelona,Primera Division,Rodri Ríos,24,Centre-Forward,NA,on loan,Summer,2014,2014/2015,local
+Valencia CF,FC Barcelona,Primera Division,Jérémy Mathieu,30,Centre-Back,18.0M,sold,Summer,2014,2014/2015,local
+Villarreal CF,FC Barcelona,Primera Division,Joan Román,21,Left Winger,NA,on loan,Summer,2014,2014/2015,local
+AS Monaco,FC Barcelona,Ligue 1,Borja López,21,Centre-Back,NA,sold,Winter,2015,2015/2016,international
+Atlético Madrid,FC Barcelona,Primera Division,Arda Turan,28,Left Winger,30.6M,sold,Summer,2015,2015/2016,local
+Atlético de Madrid,FC Barcelona,Primera Division,Arda Turan,28,Left Winger,30.6M,sold,Summer,2015,2015/2016,local
+CD Tondela,FC Barcelona,Liga Nos,Salva Chamorro,25,attack,NA,sold,Winter,2015,2015/2016,international
+FC Barcelona,AC Fiorentina,Primera Division,Cristian Tello,24,Left Winger,NA,on loan,Winter,2015,2015/2016,international
+FC Barcelona,ACF Fiorentina,Serie A,Cristian Tello,24,Left Winger,NA,on loan,Winter,2015,2015/2016,international
+FC Barcelona,Al-Sadd SC,Primera Division,Xavi,35,Central Midfield,NA,sold,Summer,2015,2015/2016,international
+FC Barcelona,Aston Villa,Premier League,Adama Traoré,19,Second Striker,9.0M,sold,Summer,2015,2015/2016,international
+FC Barcelona,Chelsea FC,Premier League,Pedro,28,Central Midfield,24.3M,sold,Summer,2015,2015/2016,international
+FC Barcelona,Everton FC,Premier League,Gerard Deulofeu,21,Left Winger,5.4M,sold,Summer,2015,2015/2016,international
+FC Barcelona,FC Barcelona,Primera Division,Alen Halilovic,19,Attacking Midfield,NA,sold,Summer,2015,2015/2016,local
+FC Barcelona,FC Barcelona,Primera Division,Munir El Haddadi,19,Centre-Forward,NA,sold,Summer,2015,2015/2016,local
+FC Barcelona,FC Barcelona,Primera Division,Sandro Ramírez,19,Centre-Forward,NA,sold,Summer,2015,2015/2016,local
+FC Barcelona,FC Internazionale,Primera Division,Martín Montoya,24,Right-Back,1.17M,on loan,Summer,2015,2015/2016,international
+FC Barcelona,Inter Milan,Serie A,Martín Montoya,24,Right-Back,1.17M,on loan,Summer,2015,2015/2016,international
+FC Barcelona,Real Betis Balompié,Primera Division,Martín Montoya,24,Right-Back,NA,on loan,Winter,2015,2015/2016,local
+FC Barcelona,SC Braga,Liga Nos,Joan Román,22,Left Winger,NA,sold,Summer,2015,2015/2016,international
+FC Barcelona,SL Benfica,Liga Nos,Alejandro Grimaldo,20,Left-Back,1.89M,sold,Winter,2015,2015/2016,international
+FC Barcelona,SS Lazio,Serie A,Patric,22,Right-Back,0.45M,sold,Summer,2015,2015/2016,international
+FC Barcelona,Sporting Gijón,Primera Division,Alen Halilovic,19,Attacking Midfield,NA,on loan,Summer,2015,2015/2016,local
+FC Barcelona,Stoke City,Premier League,Ibrahim Afellay,29,Left Midfield,NA,sold,Summer,2015,2015/2016,international
+FC Barcelona,Villarreal CF,Primera Division,Denis Suárez,21,Attacking Midfield,3.6M,sold,Summer,2015,2015/2016,local
+FC Barcelona,West Ham United,Premier League,Alex Song,27,Defensive Midfield,NA,on loan,Summer,2015,2015/2016,international
+FC Internazionale,FC Barcelona,Primera Division,Martín Montoya,24,Right-Back,NA,on loan,Winter,2015,2015/2016,international
+FC Porto,FC Barcelona,Primera Division,Cristian Tello,24,Left Winger,NA,on loan,Winter,2015,2015/2016,international
+Inter Milan,FC Barcelona,Serie A,Martín Montoya,24,Right-Back,NA,on loan,Winter,2015,2015/2016,international
+Olympiacos,FC Barcelona,Primera Division,Ibrahim Afellay,29,Left Midfield,NA,on loan,Summer,2015,2015/2016,international
+Sevilla FC,FC Barcelona,Primera Division,Aleix Vidal,25,Right-Back,15.3M,sold,Summer,2015,2015/2016,local
+Sevilla FC,FC Barcelona,Primera Division,Denis Suárez,21,Attacking Midfield,NA,on loan,Summer,2015,2015/2016,local
+Sevilla FC,FC Barcelona,Primera Division,Gerard Deulofeu,21,Left Winger,NA,on loan,Summer,2015,2015/2016,local
+West Ham United,FC Barcelona,Premier League,Alex Song,27,Defensive Midfield,NA,on loan,Summer,2015,2015/2016,international
+AC Fiorentina,FC Barcelona,Primera Division,Cristian Tello,24,Left Winger,NA,on loan,Summer,2016,2016/2017,international
+ACF Fiorentina,FC Barcelona,Serie A,Cristian Tello,24,Left Winger,NA,on loan,Summer,2016,2016/2017,international
+Ajax Amsterdam,FC Barcelona,Primera Division,Jasper Cillessen,27,Goalkeeper,11.7M,sold,Summer,2016,2016/2017,international
+FC Barcelona,AC Fiorentina,Primera Division,Cristian Tello,25,Left Winger,0.45M,on loan,Summer,2016,2016/2017,international
+FC Barcelona,ACF Fiorentina,Serie A,Cristian Tello,25,Left Winger,0.45M,on loan,Summer,2016,2016/2017,international
+FC Barcelona,AS Roma,Serie A,Thomas Vermaelen,30,Centre-Back,NA,on loan,Summer,2016,2016/2017,international
+FC Barcelona,Besiktas,Primera Division,Adriano,31,Centre-Forward,2.07M,sold,Summer,2016,2016/2017,international
+FC Barcelona,Bor. Dortmund,Primera Division,Marc Bartra,25,Centre-Back,7.2M,sold,Summer,2016,2016/2017,international
+FC Barcelona,Borussia Dortmund,1 Bundesliga,Marc Bartra,25,Centre-Back,7.2M,sold,Summer,2016,2016/2017,international
+FC Barcelona,Deportivo Alavés,Primera Division,Adrián Ortolá,22,Goalkeeper,NA,on loan,Summer,2016,2016/2017,local
+FC Barcelona,FC Barcelona,Primera Division,Sergi Samper,21,Defensive Midfield,NA,sold,Summer,2016,2016/2017,local
+FC Barcelona,Granada CF,Primera Division,Sergi Samper,21,Defensive Midfield,NA,on loan,Summer,2016,2016/2017,local
+FC Barcelona,Hamburger SV,1 Bundesliga,Alen Halilovic,20,Attacking Midfield,4.5M,sold,Summer,2016,2016/2017,international
+FC Barcelona,Juventus FC,Serie A,Dani Alves,33,Right-Back,NA,sold,Summer,2016,2016/2017,international
+FC Barcelona,Man City,Primera Division,Claudio Bravo,33,Goalkeeper,16.2M,sold,Summer,2016,2016/2017,international
+FC Barcelona,Manchester City,Premier League,Claudio Bravo,33,Goalkeeper,16.2M,sold,Summer,2016,2016/2017,international
+FC Barcelona,Málaga CF,Primera Division,Sandro Ramírez,20,Centre-Forward,NA,sold,Summer,2016,2016/2017,local
+FC Barcelona,Rubin Kazan,Premier Liga,Alex Song,28,Defensive Midfield,NA,sold,Summer,2016,2016/2017,international
+FC Barcelona,Sporting Gijón,Primera Division,Douglas,26,Central Midfield,NA,on loan,Summer,2016,2016/2017,local
+FC Barcelona,Valencia CF,Primera Division,Martín Montoya,25,Right-Back,NA,sold,Summer,2016,2016/2017,local
+FC Barcelona,Valencia CF,Primera Division,Munir El Haddadi,20,Centre-Forward,NA,on loan,Summer,2016,2016/2017,local
+Olympique Lyon,FC Barcelona,Primera Division,Samuel Umtiti,22,Centre-Back,22.5M,sold,Summer,2016,2016/2017,international
+Paris SG,FC Barcelona,Primera Division,Lucas Digne,22,Left-Back,14.85M,sold,Summer,2016,2016/2017,international
+Paris Saint-Germain,FC Barcelona,Ligue 1,Lucas Digne,22,Left-Back,14.85M,sold,Summer,2016,2016/2017,international
+Real Betis Balompié,FC Barcelona,Primera Division,Martín Montoya,25,Right-Back,NA,on loan,Summer,2016,2016/2017,local
+Sporting Gijón,FC Barcelona,Primera Division,Alen Halilovic,20,Attacking Midfield,NA,on loan,Summer,2016,2016/2017,local
+Valencia CF,FC Barcelona,Primera Division,André Gomes,22,Central Midfield,33.3M,sold,Summer,2016,2016/2017,local
+Valencia CF,FC Barcelona,Primera Division,Paco Alcácer,23,Centre-Forward,27.0M,sold,Summer,2016,2016/2017,local
+Villarreal CF,FC Barcelona,Primera Division,Denis Suárez,22,Attacking Midfield,2.93M,sold,Summer,2016,2016/2017,local
+West Ham United,FC Barcelona,Premier League,Alex Song,28,Defensive Midfield,NA,on loan,Summer,2016,2016/2017,international
+AC Fiorentina,FC Barcelona,Primera Division,Cristian Tello,25,Left Winger,NA,on loan,Summer,2017,2017/2018,international
+ACF Fiorentina,FC Barcelona,Serie A,Cristian Tello,25,Left Winger,NA,on loan,Summer,2017,2017/2018,international
+AS Roma,FC Barcelona,Serie A,Thomas Vermaelen,31,Centre-Back,NA,on loan,Summer,2017,2017/2018,international
+Bor. Dortmund,FC Barcelona,Primera Division,Ousmane Dembélé,20,Right Winger,126.0M,sold,Summer,2017,2017/2018,international
+Borussia Dortmund,FC Barcelona,1 Bundesliga,Ousmane Dembélé,20,Right Winger,126.0M,sold,Summer,2017,2017/2018,international
+Celta de Vigo,FC Barcelona,Primera Division,David Costas,22,Centre-Back,NA,on loan,Summer,2017,2017/2018,local
+Deportivo Alavés,FC Barcelona,Primera Division,Adrián Ortolá,23,Goalkeeper,NA,on loan,Summer,2017,2017/2018,local
+Everton FC,FC Barcelona,Premier League,Gerard Deulofeu,23,Left Winger,10.8M,sold,Summer,2017,2017/2018,international
+FC Barcelona,AS Monaco,Ligue 1,Jordi Mboula,18,Right Winger,2.7M,sold,Summer,2017,2017/2018,international
+FC Barcelona,Basaksehir,Primera Division,Arda Turan,30,Left Winger,NA,on loan,Winter,2017,2017/2018,international
+FC Barcelona,Borussia Dortmund,1 Bundesliga,Sergio Gómez,17,Left-Back,2.7M,sold,Winter,2017,2017/2018,international
+FC Barcelona,CD Leganés,Primera Division,Gerard Gumbau,22,Defensive Midfield,NA,sold,Summer,2017,2017/2018,local
+FC Barcelona,Deportivo Alavés,Primera Division,Munir El Haddadi,22,Centre-Forward,NA,on loan,Summer,2017,2017/2018,local
+FC Barcelona,FC Internazionale,Primera Division,Rafinha,24,Right-Back,NA,on loan,Winter,2017,2017/2018,international
+FC Barcelona,Girona FC,Primera Division,Choco Lozano,24,Centre-Forward,1.58M,sold,Winter,2017,2017/2018,local
+FC Barcelona,HB CFFC,Primera Division,Javier Mascherano,33,Defensive Midfield,4.95M,sold,Winter,2017,2017/2018,local
+FC Barcelona,Hellas Verona,Serie A,Seung-woo Lee,19,Left Winger,1.35M,sold,Summer,2017,2017/2018,international
+FC Barcelona,Inter Milan,Serie A,Rafinha,24,Right-Back,NA,on loan,Winter,2017,2017/2018,international
+FC Barcelona,OGC Nice,Primera Division,Marlon,21,Centre-Back,NA,on loan,Summer,2017,2017/2018,international
+FC Barcelona,Paris SG,Primera Division,Neymar,25,Left Winger,199.8M,sold,Summer,2017,2017/2018,international
+FC Barcelona,Paris Saint-Germain,Ligue 1,Neymar,25,Left Winger,199.8M,sold,Summer,2017,2017/2018,international
+FC Barcelona,Real Betis Balompié,Primera Division,Cristian Tello,25,Left Winger,3.6M,sold,Summer,2017,2017/2018,local
+FC Barcelona,Real Sociedad,Primera Division,David Concha,21,Right Winger,NA,on loan,Winter,2017,2017/2018,local
+FC Barcelona,Real Valladolid CF,Primera Division,Jordi Masip,28,Goalkeeper,NA,sold,Summer,2017,2017/2018,local
+FC Barcelona,SL Benfica,Primera Division,Douglas,27,Central Midfield,NA,on loan,Summer,2017,2017/2018,international
+FC Barcelona,Sporting CP,Primera Division,Jérémy Mathieu,33,Centre-Back,NA,sold,Summer,2017,2017/2018,international
+FC Barcelona,UD Las Palmas,Primera Division,Sergi Samper,22,Defensive Midfield,NA,on loan,Summer,2017,2017/2018,local
+FC Barcelona,Watford FC,Premier League,Gerard Deulofeu,23,Left Winger,0.9M,on loan,Winter,2017,2017/2018,international
+Fluminense,FC Barcelona,Primera Division,Marlon,21,Centre-Back,4.5M,sold,Summer,2017,2017/2018,international
+GZ Evergrande,FC Barcelona,Primera Division,Paulinho,29,Central Midfield,36.0M,sold,Summer,2017,2017/2018,international
+Girona FC,FC Barcelona,Primera Division,Juan Cámara,23,Right Winger,NA,on loan,Summer,2017,2017/2018,local
+Granada CF,FC Barcelona,Primera Division,Sergi Samper,22,Defensive Midfield,NA,on loan,Summer,2017,2017/2018,local
+Liverpool FC,FC Barcelona,Premier League,Philippe Coutinho,25,Attacking Midfield,121.5M,sold,Winter,2017,2017/2018,international
+Palmeiras,FC Barcelona,Primera Division,Yerry Mina,23,Centre-Back,11.16M,sold,Winter,2017,2017/2018,international
+Real Sociedad,FC Barcelona,Primera Division,David Concha,20,Right Winger,NA,on loan,Summer,2017,2017/2018,local
+SD Eibar,FC Barcelona,Primera Division,Christian Rivera,20,Central Midfield,NA,on loan,Winter,2017,2017/2018,local
+SL Benfica,FC Barcelona,Primera Division,Nélson Semedo,23,Right-Back,32.13M,sold,Summer,2017,2017/2018,international
+Sporting Gijón,FC Barcelona,Primera Division,Douglas,26,Central Midfield,NA,on loan,Summer,2017,2017/2018,local
+UD Las Palmas,FC Barcelona,Primera Division,Sergi Samper,23,Defensive Midfield,NA,on loan,Winter,2017,2017/2018,local
+Valencia CF,FC Barcelona,Primera Division,Munir El Haddadi,21,Centre-Forward,NA,on loan,Summer,2017,2017/2018,local
+Villarreal CF,FC Barcelona,Primera Division,Matías Nahuel,21,Left Winger,NA,on loan,Winter,2017,2017/2018,local
+Atlético-MG,FC Barcelona,Primera Division,Emerson Royal,20,Right-Back,10.8M,sold,Winter,2018,2018/2019,international
+Bayern Munich,FC Barcelona,1 Bundesliga,Arturo Vidal,31,Central Midfield,16.2M,sold,Summer,2018,2018/2019,international
+Deportivo Alavés,FC Barcelona,Primera Division,Munir El Haddadi,22,Centre-Forward,NA,on loan,Summer,2018,2018/2019,local
+FC Barcelona,Arsenal FC,Premier League,Denis Suárez,25,Attacking Midfield,2.25M,on loan,Winter,2018,2018/2019,international
+FC Barcelona,Bor. Dortmund,Primera Division,Paco Alcácer,24,Centre-Forward,1.8M,on loan,Summer,2018,2018/2019,international
+FC Barcelona,Borussia Dortmund,1 Bundesliga,Paco Alcácer,24,Centre-Forward,1.8M,on loan,Summer,2018,2018/2019,international
+FC Barcelona,CD Leganés,Primera Division,José Manuel Arnáiz,23,Left Winger,4.5M,sold,Summer,2018,2018/2019,local
+FC Barcelona,CD Leganés,Primera Division,Rodri Tarín,21,Centre-Back,NA,sold,Summer,2018,2018/2019,local
+FC Barcelona,Celta de Vigo,Primera Division,David Costas,23,Centre-Back,NA,on loan,Summer,2018,2018/2019,local
+FC Barcelona,Dep. La Coruña,Primera Division,Adrián Ortolá,24,Goalkeeper,NA,on loan,Summer,2018,2018/2019,local
+FC Barcelona,Everton FC,Premier League,André Gomes,25,Central Midfield,2.03M,on loan,Summer,2018,2018/2019,international
+FC Barcelona,Everton FC,Premier League,Lucas Digne,25,Left-Back,18.18M,sold,Summer,2018,2018/2019,international
+FC Barcelona,Everton FC,Premier League,Yerry Mina,23,Centre-Back,27.23M,sold,Summer,2018,2018/2019,international
+FC Barcelona,FC Barcelona,Primera Division,Marc Cardona,22,Centre-Forward,NA,sold,Summer,2018,2018/2019,local
+FC Barcelona,FC Barcelona,Primera Division,Carles Aleñá,20,Central Midfield,NA,sold,Winter,2018,2018/2019,local
+FC Barcelona,FC Barcelona,Primera Division,Adrián Ortolá,24,Goalkeeper,NA,sold,Summer,2018,2018/2019,local
+FC Barcelona,FC Barcelona,Primera Division,Marc Cucurella,19,Left-Back,NA,sold,Summer,2018,2018/2019,local
+FC Barcelona,FC Barcelona,Primera Division,Sergi Palencia,22,Right-Back,NA,sold,Summer,2018,2018/2019,local
+FC Barcelona,FC Girondins Bordeaux,Ligue 1,Sergi Palencia,22,Right-Back,NA,on loan,Summer,2018,2018/2019,international
+FC Barcelona,G. Bordeaux,Primera Division,Sergi Palencia,22,Right-Back,NA,on loan,Summer,2018,2018/2019,international
+FC Barcelona,GZ Evergrande,Primera Division,Paulinho,29,Central Midfield,4.95M,on loan,Summer,2018,2018/2019,international
+FC Barcelona,GZ Evergrande,Primera Division,Paulinho,30,Central Midfield,37.8M,sold,Winter,2018,2018/2019,international
+FC Barcelona,Real Betis Balompié,Primera Division,Emerson Royal,20,Right-Back,5.4M,sold,Winter,2018,2018/2019,local
+FC Barcelona,SD Eibar,Primera Division,Christian Rivera,20,Central Midfield,NA,on loan,Summer,2018,2018/2019,local
+FC Barcelona,SD Eibar,Primera Division,José Antonio Martínez,25,Centre-Back,NA,sold,Summer,2018,2018/2019,local
+FC Barcelona,SD Eibar,Primera Division,Marc Cardona,23,Centre-Forward,NA,on loan,Summer,2018,2018/2019,local
+FC Barcelona,SD Eibar,Primera Division,Marc Cucurella,20,Left-Back,NA,on loan,Summer,2018,2018/2019,local
+FC Barcelona,Sevilla FC,Primera Division,Munir El Haddadi,23,Centre-Forward,0.945M,sold,Winter,2018,2018/2019,local
+FC Barcelona,Sevilla FC,Primera Division,Aleix Vidal,28,Right-Back,8.37M,sold,Summer,2018,2018/2019,local
+FC Barcelona,Sivasspor,Primera Division,Douglas,27,Central Midfield,NA,on loan,Summer,2018,2018/2019,international
+FC Barcelona,US Sassuolo,Serie A,Marlon,22,Centre-Back,10.8M,sold,Summer,2018,2018/2019,international
+FC Barcelona,Villarreal CF,Primera Division,Matías Nahuel,21,Left Winger,NA,on loan,Summer,2018,2018/2019,local
+FC Barcelona,Vissel Kobe,Primera Division,Andrés Iniesta,34,Central Midfield,NA,sold,Summer,2018,2018/2019,international
+FC Barcelona,Vissel Kobe,Primera Division,Sergi Samper,24,Defensive Midfield,NA,sold,Winter,2018,2018/2019,international
+FC Barcelona,Watford FC,Premier League,Gerard Deulofeu,24,Left Winger,11.7M,sold,Summer,2018,2018/2019,international
+FC Bayern,FC Barcelona,Primera Division,Arturo Vidal,31,Central Midfield,16.2M,sold,Summer,2018,2018/2019,international
+FC Girondins Bordeaux,FC Barcelona,Ligue 1,Malcom,21,Right Winger,36.9M,sold,Summer,2018,2018/2019,international
+FC Internazionale,FC Barcelona,Primera Division,Rafinha,25,Right-Back,NA,on loan,Summer,2018,2018/2019,international
+FC Toulouse,FC Barcelona,Primera Division,Jean-Clair Todibo,19,Centre-Back,0.9M,sold,Winter,2018,2018/2019,international
+G. Bordeaux,FC Barcelona,Primera Division,Malcom,21,Right Winger,36.9M,sold,Summer,2018,2018/2019,international
+GZ Evergrande,FC Barcelona,Primera Division,Paulinho,30,Central Midfield,NA,on loan,Winter,2018,2018/2019,international
+Getafe CF,FC Barcelona,Primera Division,Merveil Ndockyt,20,Left Winger,NA,on loan,Winter,2018,2018/2019,local
+Grêmio,FC Barcelona,Primera Division,Arthur,21,Central Midfield,27.9M,sold,Summer,2018,2018/2019,international
+Inter Milan,FC Barcelona,Serie A,Rafinha,25,Right-Back,NA,on loan,Summer,2018,2018/2019,international
+OGC Nice,FC Barcelona,Primera Division,Marlon,22,Centre-Back,NA,on loan,Summer,2018,2018/2019,international
+SL Benfica,FC Barcelona,Primera Division,Douglas,27,Central Midfield,NA,on loan,Summer,2018,2018/2019,international
+Sevilla FC,FC Barcelona,Primera Division,Clément Lenglet,23,Centre-Back,32.31M,sold,Summer,2018,2018/2019,local
+US Sassuolo,FC Barcelona,Serie A,Kevin-Prince Boateng,31,Attacking Midfield,0.9M,on loan,Winter,2018,2018/2019,international
+Valencia CF,FC Barcelona,Primera Division,Jeison Murillo,26,Centre-Back,1.08M,on loan,Winter,2018,2018/2019,local
+Watford FC,FC Barcelona,Premier League,Gerard Deulofeu,24,Left Winger,NA,on loan,Summer,2018,2018/2019,international
+Ajax Amsterdam,FC Barcelona,Primera Division,Frenkie de Jong,22,Central Midfield,77.4M,sold,Summer,2019,2019/2020,international
+Arsenal FC,FC Barcelona,Premier League,Denis Suárez,25,Attacking Midfield,NA,on loan,Summer,2019,2019/2020,international
+Atlético Madrid,FC Barcelona,Primera Division,Antoine Griezmann,28,Second Striker,108.0M,sold,Summer,2019,2019/2020,local
+Atlético de Madrid,FC Barcelona,Primera Division,Antoine Griezmann,28,Second Striker,108.0M,sold,Summer,2019,2019/2020,local
+Basaksehir,FC Barcelona,Primera Division,Arda Turan,32,Left Winger,NA,on loan,Winter,2019,2019/2020,international
+Bor. Dortmund,FC Barcelona,Primera Division,Paco Alcácer,25,Centre-Forward,NA,on loan,Summer,2019,2019/2020,international
+Borussia Dortmund,FC Barcelona,1 Bundesliga,Paco Alcácer,25,Centre-Forward,NA,on loan,Summer,2019,2019/2020,international
+CD Leganés,FC Barcelona,Primera Division,Martin Braithwaite,28,Centre-Forward,16.2M,sold,Winter,2019,2019/2020,local
+Dep. La Coruña,FC Barcelona,Primera Division,Adrián Ortolá,25,Goalkeeper,NA,on loan,Summer,2019,2019/2020,local
+Everton FC,FC Barcelona,Premier League,André Gomes,25,Central Midfield,NA,on loan,Summer,2019,2019/2020,international
+FC Barcelona,AS Roma,Serie A,Carles Pérez,21,Right Winger,0.9M,on loan,Winter,2019,2019/2020,international
+FC Barcelona,AS Saint-Étienne,Primera Division,Sergi Palencia,23,Right-Back,1.8M,sold,Summer,2019,2019/2020,international
+FC Barcelona,Bayern Munich,1 Bundesliga,Philippe Coutinho,27,Attacking Midfield,7.65M,on loan,Summer,2019,2019/2020,international
+FC Barcelona,Besiktas,Primera Division,Douglas,28,Central Midfield,NA,sold,Summer,2019,2019/2020,international
+FC Barcelona,Bor. Dortmund,Primera Division,Paco Alcácer,25,Centre-Forward,18.9M,sold,Summer,2019,2019/2020,international
+FC Barcelona,Borussia Dortmund,1 Bundesliga,Paco Alcácer,25,Centre-Forward,18.9M,sold,Summer,2019,2019/2020,international
+FC Barcelona,Borussia Dortmund,1 Bundesliga,Mateu Morey Bauzà,19,Right-Back,NA,sold,Summer,2019,2019/2020,international
+FC Barcelona,CA Osasuna,Primera Division,Marc Cardona,23,Centre-Forward,2.25M,sold,Summer,2019,2019/2020,local
+FC Barcelona,CD Tenerife,Primera Division,Adrián Ortolá,25,Goalkeeper,NA,sold,Summer,2019,2019/2020,local
+FC Barcelona,Celta de Vigo,Primera Division,Rafinha,26,Right-Back,1.35M,on loan,Summer,2019,2019/2020,local
+FC Barcelona,Celta de Vigo,Primera Division,Denis Suárez,25,Attacking Midfield,11.61M,sold,Summer,2019,2019/2020,local
+FC Barcelona,Everton FC,Premier League,André Gomes,25,Central Midfield,22.5M,sold,Summer,2019,2019/2020,international
+FC Barcelona,FC Barcelona,Primera Division,Juan Miranda,19,Left-Back,NA,sold,Summer,2019,2019/2020,local
+FC Barcelona,FC Barcelona,Primera Division,Carles Pérez,21,Right Winger,NA,sold,Summer,2019,2019/2020,local
+FC Barcelona,FC Barcelona,Primera Division,Moussa Wagué,20,Right-Back,NA,sold,Summer,2019,2019/2020,local
+FC Barcelona,FC Bayern,Primera Division,Philippe Coutinho,27,Attacking Midfield,7.65M,on loan,Summer,2019,2019/2020,international
+FC Barcelona,FC Schalke 04,1 Bundesliga,Jean-Clair Todibo,20,Centre-Back,1.35M,on loan,Winter,2019,2019/2020,international
+FC Barcelona,FC Schalke 04,1 Bundesliga,Juan Miranda,19,Left-Back,NA,on loan,Summer,2019,2019/2020,international
+FC Barcelona,Getafe CF,Primera Division,Marc Cucurella,20,Left-Back,NA,on loan,Summer,2019,2019/2020,local
+FC Barcelona,Getafe CF,Primera Division,Merveil Ndockyt,20,Left Winger,NA,on loan,Summer,2019,2019/2020,local
+FC Barcelona,OGC Nice,Primera Division,Moussa Wagué,21,Right-Back,NA,on loan,Winter,2019,2019/2020,international
+FC Barcelona,Real Betis Balompié,Primera Division,Carles Aleñá,21,Central Midfield,NA,on loan,Winter,2019,2019/2020,local
+FC Barcelona,Real Valladolid CF,Primera Division,Matheus Fernandes,21,Central Midfield,NA,on loan,Winter,2019,2019/2020,local
+FC Barcelona,SC Braga,Liga Nos,Abel Ruiz,20,Centre-Forward,NA,on loan,Winter,2019,2019/2020,international
+FC Barcelona,SD Eibar,Primera Division,Marc Cucurella,20,Left-Back,1.8M,sold,Summer,2019,2019/2020,local
+FC Barcelona,Twente Enschede FC,Eredivisie,Oriol Busquets,20,Defensive Midfield,NA,on loan,Summer,2019,2019/2020,international
+FC Barcelona,UD Las Palmas,Primera Division,Pedri,16,Central Midfield,NA,on loan,Summer,2019,2019/2020,local
+FC Barcelona,US Sassuolo,Primera Division,Kevin-Prince Boateng,32,Attacking Midfield,NA,on loan,Summer,2019,2019/2020,international
+FC Barcelona,Valencia CF,Primera Division,Jeison Murillo,27,Centre-Back,NA,on loan,Summer,2019,2019/2020,local
+FC Barcelona,Valencia CF,Primera Division,Jasper Cillessen,30,Goalkeeper,31.5M,sold,Summer,2019,2019/2020,local
+FC Barcelona,Vissel Kobe,Primera Division,Thomas Vermaelen,33,Centre-Back,NA,sold,Summer,2019,2019/2020,international
+FC Barcelona,Zenit S-Pb,Primera Division,Malcom,22,Right Winger,36.0M,sold,Summer,2019,2019/2020,international
+FC Barcelona,Zenit St. Petersburg,Premier Liga,Malcom,22,Right Winger,36.0M,sold,Summer,2019,2019/2020,international
+FC Girondins Bordeaux,FC Barcelona,Ligue 1,Sergi Palencia,23,Right-Back,NA,on loan,Summer,2019,2019/2020,international
+FC Groningen,FC Barcelona,Eredivisie,Ludovit Reis,19,Central Midfield,2.93M,sold,Summer,2019,2019/2020,international
+G. Bordeaux,FC Barcelona,Primera Division,Sergi Palencia,23,Right-Back,NA,on loan,Summer,2019,2019/2020,international
+Palmeiras,FC Barcelona,Primera Division,Matheus Fernandes,21,Central Midfield,6.3M,sold,Winter,2019,2019/2020,international
+Real Betis Balompié,FC Barcelona,Primera Division,Junior Firpo,22,Left-Back,18.0M,sold,Summer,2019,2019/2020,local
+Real Valladolid CF,FC Barcelona,Primera Division,Matheus Fernandes,22,Central Midfield,NA,on loan,Summer,2019,2019/2020,local
+SD Eibar,FC Barcelona,Primera Division,Marc Cardona,23,Centre-Forward,NA,on loan,Summer,2019,2019/2020,local
+SD Eibar,FC Barcelona,Primera Division,Marc Cucurella,20,Left-Back,3.6M,sold,Summer,2019,2019/2020,local
+SD Eibar,FC Barcelona,Primera Division,Marc Cucurella,20,Left-Back,NA,on loan,Summer,2019,2019/2020,local
+Sivasspor,FC Barcelona,Primera Division,Douglas,28,Central Midfield,NA,on loan,Summer,2019,2019/2020,international
+UD Las Palmas,FC Barcelona,Primera Division,Pedri,16,Central Midfield,18.0M,sold,Summer,2019,2019/2020,local
+Valencia CF,FC Barcelona,Primera Division,Neto,29,Goalkeeper,23.4M,sold,Summer,2019,2019/2020,local
+AS Roma,FC Barcelona,Serie A,Carles Pérez,22,Right Winger,NA,on loan,Summer,2020,2020/2021,international
+Ajax Amsterdam,FC Barcelona,Primera Division,Sergiño Dest,19,Right-Back,18.9M,sold,Summer,2020,2020/2021,international
+Bayern Munich,FC Barcelona,1 Bundesliga,Philippe Coutinho,28,Attacking Midfield,NA,on loan,Summer,2020,2020/2021,international
+Celta de Vigo,FC Barcelona,Primera Division,Rafinha,27,Right-Back,NA,on loan,Summer,2020,2020/2021,local
+FC Barcelona,AS Roma,Serie A,Carles Pérez,22,Right Winger,11.25M,sold,Summer,2020,2020/2021,international
+FC Barcelona,Atlético Madrid,Primera Division,Luis Suárez,33,Centre-Forward,6.3M,sold,Summer,2020,2020/2021,local
+FC Barcelona,Atlético de Madrid,Primera Division,Luis Suárez,33,Centre-Forward,6.3M,sold,Summer,2020,2020/2021,local
+FC Barcelona,FC Barcelona,Primera Division,Ansu Fati,17,Left Winger,NA,sold,Summer,2020,2020/2021,local
+FC Barcelona,FC Barcelona,Primera Division,Ronald Araújo,21,Centre-Back,NA,sold,Summer,2020,2020/2021,local
+FC Barcelona,FC Barcelona,Primera Division,Monchu,20,Central Midfield,NA,sold,Summer,2020,2020/2021,local
+FC Barcelona,FC Barcelona,Primera Division,Riqui Puig,20,Central Midfield,NA,sold,Summer,2020,2020/2021,local
+FC Barcelona,FC Barcelona,Primera Division,Óscar Mingueza,21,Centre-Back,NA,sold,Winter,2020,2020/2021,local
+FC Barcelona,FC Famalicão,Liga Nos,Dani Morer,22,Right-Back,0.36M,sold,Summer,2020,2020/2021,international
+FC Barcelona,FC Internazionale,Primera Division,Arturo Vidal,33,Central Midfield,NA,sold,Summer,2020,2020/2021,international
+FC Barcelona,Galatasaray,Primera Division,Arda Turan,33,Left Winger,NA,sold,Summer,2020,2020/2021,international
+FC Barcelona,Getafe CF,Primera Division,Carles Aleñá,23,Central Midfield,NA,on loan,Winter,2020,2020/2021,local
+FC Barcelona,Getafe CF,Primera Division,Marc Cucurella,21,Left-Back,10.62M,sold,Summer,2020,2020/2021,local
+FC Barcelona,Girona FC,Primera Division,Monchu,21,Central Midfield,NA,on loan,Summer,2020,2020/2021,local
+FC Barcelona,Inter Milan,Serie A,Arturo Vidal,33,Central Midfield,NA,sold,Summer,2020,2020/2021,international
+FC Barcelona,Juventus FC,Serie A,Arthur,24,Central Midfield,68.4M,sold,Summer,2020,2020/2021,international
+FC Barcelona,OGC Nice,Primera Division,Jean-Clair Todibo,21,Centre-Back,NA,on loan,Winter,2020,2020/2021,international
+FC Barcelona,PAOK Salonika,Primera Division,Moussa Wagué,21,Right-Back,NA,on loan,Summer,2020,2020/2021,international
+FC Barcelona,Paris SG,Primera Division,Rafinha,27,Right-Back,1.35M,sold,Summer,2020,2020/2021,international
+FC Barcelona,Paris Saint-Germain,Ligue 1,Rafinha,27,Right-Back,1.35M,sold,Summer,2020,2020/2021,international
+FC Barcelona,Real Betis Balompié,Primera Division,Juan Miranda,20,Left-Back,NA,on loan,Summer,2020,2020/2021,local
+FC Barcelona,SC Braga,Liga Nos,Abel Ruiz,20,Centre-Forward,7.2M,sold,Summer,2020,2020/2021,international
+FC Barcelona,SL Benfica,Primera Division,Jean-Clair Todibo,20,Centre-Back,1.8M,on loan,Summer,2020,2020/2021,international
+FC Barcelona,Sevilla FC,Primera Division,Ivan Rakitic,32,Central Midfield,3.15M,sold,Summer,2020,2020/2021,local
+FC Barcelona,Villarreal CF,Primera Division,Jorge Cuenca,20,Centre-Back,2.25M,sold,Summer,2020,2020/2021,local
+FC Barcelona,Wolverhampton Wanderers,Premier League,Nélson Semedo,26,Right-Back,28.8M,sold,Summer,2020,2020/2021,international
+FC Barcelona,Wolves,Primera Division,Nélson Semedo,26,Right-Back,28.8M,sold,Summer,2020,2020/2021,international
+FC Bayern,FC Barcelona,Primera Division,Philippe Coutinho,28,Attacking Midfield,NA,on loan,Summer,2020,2020/2021,international
+FC Schalke 04,FC Barcelona,1 Bundesliga,Jean-Clair Todibo,20,Centre-Back,NA,on loan,Summer,2020,2020/2021,international
+FC Schalke 04,FC Barcelona,1 Bundesliga,Juan Miranda,20,Left-Back,NA,on loan,Summer,2020,2020/2021,international
+Getafe CF,FC Barcelona,Primera Division,Marc Cucurella,21,Left-Back,NA,on loan,Summer,2020,2020/2021,local
+Juventus FC,FC Barcelona,Serie A,Miralem Pjanic,30,Central Midfield,54.0M,sold,Summer,2020,2020/2021,international
+OGC Nice,FC Barcelona,Primera Division,Moussa Wagué,21,Right-Back,NA,on loan,Summer,2020,2020/2021,international
+PAOK Salonika,FC Barcelona,Primera Division,Moussa Wagué,22,Right-Back,NA,on loan,Winter,2020,2020/2021,international
+Real Betis Balompié,FC Barcelona,Primera Division,Carles Aleñá,22,Central Midfield,NA,on loan,Summer,2020,2020/2021,local
+SC Braga,FC Barcelona,Liga Nos,Abel Ruiz,20,Centre-Forward,NA,on loan,Summer,2020,2020/2021,international
+SC Braga,FC Barcelona,Primera Division,Francisco Trincão,20,Right Winger,27.9M,sold,Summer,2020,2020/2021,international
+SL Benfica,FC Barcelona,Primera Division,Jean-Clair Todibo,21,Centre-Back,NA,on loan,Winter,2020,2020/2021,international
+Twente Enschede FC,FC Barcelona,Eredivisie,Oriol Busquets,21,Defensive Midfield,NA,on loan,Summer,2020,2020/2021,international
+UD Las Palmas,FC Barcelona,Primera Division,Pedri,17,Central Midfield,NA,on loan,Summer,2020,2020/2021,local
+FC Barcelona,Atlético Madrid,Primera Division,Antoine Griezmann,30,Second Striker,NA,on loan,Summer,2021,2021/2022,local
+FC Barcelona,Atlético de Madrid,Primera Division,Antoine Griezmann,30,Second Striker,NA,on loan,Summer,2021,2021/2022,local
+FC Barcelona,Besiktas,Primera Division,Miralem Pjanic,31,Central Midfield,NA,on loan,Summer,2021,2021/2022,international
+FC Barcelona,Clermont Foot 63,Ligue 1,Oriol Busquets,22,Defensive Midfield,NA,sold,Summer,2021,2021/2022,international
+FC Barcelona,FC Barcelona,Primera Division,Nico González,19,Central Midfield,NA,sold,Summer,2021,2021/2022,local
+FC Barcelona,FC Barcelona,Primera Division,Álex Collado,22,Right Winger,NA,sold,Summer,2021,2021/2022,local
+FC Barcelona,FC Barcelona,Primera Division,Gavi,16,Central Midfield,NA,sold,Summer,2021,2021/2022,local
+FC Barcelona,FC Barcelona,Primera Division,Ez Abde,19,Left Winger,NA,sold,Summer,2021,2021/2022,local
+FC Barcelona,Getafe CF,Primera Division,Carles Aleñá,23,Central Midfield,4.5M,sold,Summer,2021,2021/2022,local
+FC Barcelona,Granada CF,Primera Division,Álex Collado,22,Right Winger,NA,on loan,Winter,2021,2021/2022,local
+FC Barcelona,Granada CF,Primera Division,Monchu,21,Central Midfield,NA,sold,Summer,2021,2021/2022,local
+FC Barcelona,Leeds United,Premier League,Junior Firpo,24,Left-Back,13.5M,sold,Summer,2021,2021/2022,international
+FC Barcelona,OGC Nice,Primera Division,Jean-Clair Todibo,21,Centre-Back,7.65M,sold,Summer,2021,2021/2022,international
+FC Barcelona,Olympique Marseille,Ligue 1,Konrad de la Fuente,19,Left Winger,2.7M,sold,Summer,2021,2021/2022,international
+FC Barcelona,Palmeiras,Primera Division,Matheus Fernandes,23,Central Midfield,NA,sold,Summer,2021,2021/2022,international
+FC Barcelona,Paris SG,Primera Division,Lionel Messi,34,Right Winger,NA,sold,Summer,2021,2021/2022,international
+FC Barcelona,Paris Saint-Germain,Ligue 1,Lionel Messi,34,Right Winger,NA,sold,Summer,2021,2021/2022,international
+FC Barcelona,RB Leipzig,1 Bundesliga,Ilaix Moriba,18,Central Midfield,14.4M,sold,Summer,2021,2021/2022,international
+FC Barcelona,Real Betis Balompié,Primera Division,Juan Miranda,21,Left-Back,NA,sold,Summer,2021,2021/2022,local
+FC Barcelona,Retired,Primera Division,Sergio Agüero,33,Centre-Forward,NA,sold,Winter,2021,2021/2022,international
+FC Barcelona,Spezia Calcio,Serie A,Rey Manaj,24,Centre-Forward,0.27M,on loan,Summer,2021,2021/2022,international
+FC Barcelona,Spurs,Primera Division,Emerson Royal,22,Right-Back,22.5M,sold,Summer,2021,2021/2022,international
+FC Barcelona,Tottenham Hotspur,Premier League,Emerson Royal,22,Right-Back,22.5M,sold,Summer,2021,2021/2022,international
+FC Barcelona,Wolverhampton Wanderers,Premier League,Francisco Trincão,21,Right Winger,5.4M,on loan,Summer,2021,2021/2022,international
+FC Barcelona,Wolves,Primera Division,Francisco Trincão,21,Right Winger,5.4M,on loan,Summer,2021,2021/2022,international
+Getafe CF,FC Barcelona,Primera Division,Carles Aleñá,23,Central Midfield,NA,on loan,Summer,2021,2021/2022,local
+Girona FC,FC Barcelona,Primera Division,Monchu,21,Central Midfield,NA,on loan,Summer,2021,2021/2022,local
+Man City,FC Barcelona,Primera Division,Eric García,20,Centre-Back,NA,sold,Summer,2021,2021/2022,international
+Man City,FC Barcelona,Primera Division,Ferran Torres,21,Right Winger,49.5M,sold,Winter,2021,2021/2022,international
+Man City,FC Barcelona,Primera Division,Sergio Agüero,33,Centre-Forward,NA,sold,Summer,2021,2021/2022,international
+Manchester City,FC Barcelona,Premier League,Eric García,20,Centre-Back,NA,sold,Summer,2021,2021/2022,international
+Manchester City,FC Barcelona,Premier League,Ferran Torres,21,Right Winger,49.5M,sold,Winter,2021,2021/2022,international
+Manchester City,FC Barcelona,Premier League,Sergio Agüero,33,Centre-Forward,NA,sold,Summer,2021,2021/2022,international
+OGC Nice,FC Barcelona,Primera Division,Jean-Clair Todibo,21,Centre-Back,NA,on loan,Summer,2021,2021/2022,international
+Olympique Lyon,FC Barcelona,Primera Division,Memphis Depay,27,Centre-Forward,NA,sold,Summer,2021,2021/2022,international
+Paris Saint-Germain,FC Barcelona,Ligue 1,Kays Ruiz-Atil,18,Central Midfield,NA,sold,Summer,2021,2021/2022,international
+Rapid Vienna,FC Barcelona,Primera Division,Yusuf Demir,18,Right Winger,0.45M,on loan,Summer,2021,2021/2022,international
+Real Betis Balompié,FC Barcelona,Primera Division,Juan Miranda,21,Left-Back,NA,on loan,Summer,2021,2021/2022,local
+Real Betis Balompié,FC Barcelona,Primera Division,Emerson Royal,22,Right-Back,12.6M,sold,Summer,2021,2021/2022,local
+Sevilla FC,FC Barcelona,Primera Division,Luuk de Jong,31,Centre-Forward,NA,on loan,Summer,2021,2021/2022,local
+Without Club,FC Barcelona,Primera Division,Dani Alves,38,Right-Back,NA,sold,Winter,2021,2021/2022,international
