@@ -3,7 +3,7 @@ class Transfer:
         self.fromClub = fromClub
         self.toClub = toClub
         self.player = player
-        self.fee    = fee
+        self.fee : float = fee
         self.season = season
         self.period = period
         self.isLoan = isLoan

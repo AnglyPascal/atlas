@@ -1,0 +1,79 @@
+from club,to club,league,player name,age,position,fee,transfer type,period,year,season,tranfer between
+RSC Anderlecht,Chelsea FC,Premier League,Romelu Lukaku,18,Centre-Forward,13.5M,sold,Summer,2011,2011/2012,international
+Chelsea FC,Everton FC,Premier League,Romelu Lukaku,20,Centre-Forward,3.15M,on loan,Summer,2013,2013/2014,local
+Chelsea FC,Everton FC,Premier League,Romelu Lukaku,21,Centre-Forward,31.82M,sold,Summer,2014,2014/2015,local
+Everton FC,Manchester United,Premier League,Romelu Lukaku,24,Centre-Forward,76.23M,sold,Summer,2017,2017/2018,local
+Manchester United,FC Internazionale,Premier League,Romelu Lukaku,26,Centre-Forward,66.6M,sold,Summer,2019,2019/2020,international
+Manchester United,Inter Milan,Serie A,Romelu Lukaku,26,Centre-Forward,66.6M,sold,Summer,2019,2019/2020,international
+FC Internazionale,Chelsea FC,Premier League,Romelu Lukaku,28,Centre-Forward,103.5M,sold,Summer,2021,2021/2022,international
+Inter Milan,Chelsea FC,Serie A,Romelu Lukaku,28,Centre-Forward,103.5M,sold,Summer,2021,2021/2022,international
+Santos FC,FC Barcelona,Primera Division,Neymar,21,Left Winger,79.2M,sold,Summer,2013,2013/2014,international
+FC Barcelona,Paris Saint-Germain,Primera Division,Neymar,25,Left Winger,199.8M,sold,Summer,2017,2017/2018,international
+Sporting CP,Manchester United,Premier League,Cristiano Ronaldo,18,Centre-Forward,17.1M,sold,Summer,2003,2003/2004,international
+Manchester United,Real Madrid,Premier League,Cristiano Ronaldo,24,Centre-Forward,84.6M,sold,Summer,2009,2009/2010,international
+Real Madrid,Juventus FC,Serie A,Cristiano Ronaldo,33,Centre-Forward,105.3M,sold,Summer,2018,2018/2019,international
+Juventus FC,Manchester United,Premier League,Cristiano Ronaldo,36,Centre-Forward,13.5M,sold,Summer,2021,2021/2022,international
+Real Madrid,Juventus FC,Serie A,Álvaro Morata,21,Centre-Forward,18.0M,sold,Summer,2014,2014/2015,international
+Juventus FC,Real Madrid,Serie A,Álvaro Morata,23,Centre-Forward,27.0M,sold,Summer,2016,2016/2017,international
+Real Madrid,Chelsea FC,Premier League,Álvaro Morata,24,Centre-Forward,59.4M,sold,Summer,2017,2017/2018,international
+Chelsea FC,Atlético de Madrid,Premier League,Álvaro Morata,26,Centre-Forward,16.2M,on loan,Winter,2018,2018/2019,international
+Atlético de Madrid,Juventus FC,Serie A,Álvaro Morata,27,Centre-Forward,18.0M,on loan,Summer,2020,2020/2021,international
+Chelsea FC,Atlético de Madrid,Premier League,Álvaro Morata,27,Centre-Forward,31.5M,sold,Summer,2020,2020/2021,international
+Rosario Central,SL Benfica,Liga Nos,Ángel Di María,19,Right Winger,7.2M,sold,Summer,2007,2007/2008,international
+SL Benfica,Real Madrid,Primera Division,Ángel Di María,22,Right Winger,29.7M,sold,Summer,2010,2010/2011,international
+Real Madrid,Manchester United,Premier League,Ángel Di María,26,Right Winger,67.5M,sold,Summer,2014,2014/2015,international
+Manchester United,Paris Saint-Germain,Premier League,Ángel Di María,27,Right Winger,56.7M,sold,Summer,2015,2015/2016,international
+Stade Rennais FC,Borussia Dortmund,1 Bundesliga,Ousmane Dembélé,19,Right Winger,31.5M,sold,Summer,2016,2016/2017,international
+Borussia Dortmund,FC Barcelona,1 Bundesliga,Ousmane Dembélé,20,Right Winger,126.0M,sold,Summer,2017,2017/2018,international
+Real Sociedad,Atlético de Madrid,Primera Division,Antoine Griezmann,23,Second Striker,48.6M,sold,Summer,2014,2014/2015,local
+Atlético de Madrid,FC Barcelona,Primera Division,Antoine Griezmann,28,Second Striker,108.0M,sold,Summer,2019,2019/2020,local
+Vasco da Gama,FC Internazionale,Serie A,Philippe Coutinho,16,Attacking Midfield,3.42M,sold,Summer,2008,2008/2009,international
+FC Internazionale,Liverpool FC,Premier League,Philippe Coutinho,20,Attacking Midfield,11.7M,sold,Winter,2012,2012/2013,international
+Liverpool FC,FC Barcelona,Premier League,Philippe Coutinho,25,Attacking Midfield,121.5M,sold,Winter,2017,2017/2018,international
+FC Barcelona,Bayern Munich,1 Bundesliga,Philippe Coutinho,27,Attacking Midfield,7.65M,on loan,Summer,2019,2019/2020,international
+River Plate,Real Madrid,Primera Division,Gonzalo Higuaín,19,Centre-Forward,10.8M,sold,Winter,2006,2006/2007,international
+Real Madrid,SSC Napoli,Serie A,Gonzalo Higuaín,25,Centre-Forward,35.1M,sold,Summer,2013,2013/2014,international
+SSC Napoli,Juventus FC,Serie A,Gonzalo Higuaín,28,Centre-Forward,81.0M,sold,Summer,2016,2016/2017,local
+Juventus FC,AC Milan,Serie A,Gonzalo Higuaín,30,Centre-Forward,9.18M,on loan,Summer,2018,2018/2019,local
+Juventus FC,Chelsea FC,Premier League,Gonzalo Higuaín,31,Centre-Forward,7.02M,on loan,Winter,2018,2018/2019,international
+Malmö FF,Ajax Amsterdam,Eredivisie,Zlatan Ibrahimovic,19,Centre-Forward,7.02M,sold,Summer,2001,2001/2002,international
+Ajax Amsterdam,Juventus FC,Serie A,Zlatan Ibrahimovic,22,Centre-Forward,14.4M,sold,Summer,2004,2004/2005,international
+Juventus FC,FC Internazionale,Serie A,Zlatan Ibrahimovic,24,Centre-Forward,22.32M,sold,Summer,2006,2006/2007,local
+FC Internazionale,FC Barcelona,Serie A,Zlatan Ibrahimovic,27,Centre-Forward,62.55M,sold,Summer,2009,2009/2010,international
+FC Barcelona,AC Milan,Serie A,Zlatan Ibrahimovic,28,Centre-Forward,5.4M,on loan,Summer,2010,2010/2011,international
+FC Barcelona,AC Milan,Serie A,Zlatan Ibrahimovic,29,Centre-Forward,21.6M,sold,Summer,2011,2011/2012,international
+AC Milan,Paris Saint-Germain,Serie A,Zlatan Ibrahimovic,30,Centre-Forward,18.9M,sold,Summer,2012,2012/2013,international
+LOSC Lille,Chelsea FC,Premier League,Eden Hazard,21,Left Winger,31.5M,sold,Summer,2012,2012/2013,international
+Chelsea FC,Real Madrid,Premier League,Eden Hazard,28,Left Winger,103.5M,sold,Summer,2019,2019/2020,international
+AS Monaco,Paris Saint-Germain,Ligue 1,Kylian Mbappé,19,Centre-Forward,130.5M,sold,Summer,2018,2018/2019,local
+CA Banfield,FC Porto,Liga Nos,James Rodríguez,18,Attacking Midfield,6.62M,sold,Summer,2010,2010/2011,international
+FC Porto,AS Monaco,Liga Nos,James Rodríguez,21,Attacking Midfield,40.5M,sold,Summer,2013,2013/2014,international
+AS Monaco,Real Madrid,Primera Division,James Rodríguez,23,Attacking Midfield,67.5M,sold,Summer,2014,2014/2015,international
+Real Madrid,Bayern Munich,1 Bundesliga,James Rodríguez,26,Attacking Midfield,11.7M,on loan,Summer,2017,2017/2018,international
+Everton FC,Al-Rayyan SC,Premier League,James Rodríguez,30,Attacking Midfield,7.2M,sold,Summer,2021,2021/2022,international
+CD Nacional,FC Groningen,Eredivisie,Luis Suárez,19,Centre-Forward,0.72M,sold,Summer,2006,2006/2007,international
+FC Groningen,Ajax Amsterdam,Eredivisie,Luis Suárez,20,Centre-Forward,6.75M,sold,Summer,2007,2007/2008,local
+Ajax Amsterdam,Liverpool FC,Premier League,Luis Suárez,24,Centre-Forward,23.85M,sold,Winter,2010,2010/2011,international
+Liverpool FC,FC Barcelona,Premier League,Luis Suárez,27,Centre-Forward,73.55M,sold,Summer,2014,2014/2015,international
+FC Barcelona,Atlético de Madrid,Primera Division,Luis Suárez,33,Centre-Forward,6.3M,sold,Summer,2020,2020/2021,local
+Watford FC,Granada CF,Primera Division,Luis Suárez,22,Centre-Forward,6.3M,sold,Summer,2020,2020/2021,international
+SL Benfica,Atlético de Madrid,Primera Division,João Félix,19,Second Striker,114.48M,sold,Summer,2019,2019/2020,international
+River Plate,AC Parma,Serie A,Hernán Crespo,21,Centre-Forward,3.72M,sold,Summer,1996,1996/1997,local
+AC Parma,SS Lazio,Serie A,Hernán Crespo,25,Centre-Forward,51.13M,sold,Summer,2000,2000/2001,local
+SS Lazio,FC Internazionale,Serie A,Hernán Crespo,27,Centre-Forward,32.4M,sold,Summer,2002,2002/2003,local
+FC Internazionale,Chelsea FC,Premier League,Hernán Crespo,28,Centre-Forward,23.4M,sold,Summer,2003,2003/2004,international
+SL Benfica,Valencia CF,Primera Division,João Cancelo,21,Right-Back,13.5M,sold,Summer,2015,2015/2016,international
+Valencia CF,Juventus FC,Serie A,João Cancelo,24,Right-Back,36.36M,sold,Summer,2018,2018/2019,international
+Juventus FC,Man City,Serie A,João Cancelo,25,Right-Back,58.5M,sold,Summer,2019,2019/2020,international
+Juventus FC,Manchester City,Premier League,João Cancelo,25,Right-Back,58.5M,sold,Summer,2019,2019/2020,international
+EC Vitória,SL Benfica,Liga Nos,David Luiz,20,Centre-Back,0.45M,sold,Summer,2007,2007/2008,local
+SL Benfica,Chelsea FC,Premier League,David Luiz,23,Centre-Back,22.5M,sold,Winter,2010,2010/2011,international
+Chelsea FC,Paris Saint-Germain,Premier League,David Luiz,27,Centre-Back,44.55M,sold,Summer,2014,2014/2015,international
+Paris Saint-Germain,Chelsea FC,Premier League,David Luiz,29,Centre-Back,31.5M,sold,Summer,2016,2016/2017,international
+Chelsea FC,Arsenal FC,Premier League,David Luiz,32,Centre-Back,7.83M,sold,Summer,2019,2019/2020,local
+Aston Villa,Man City,Premier League,Jack Grealish,25,Left Winger,105.75M,sold,Summer,2021,2021/2022,local
+Aston Villa,Manchester City,Premier League,Jack Grealish,25,Left Winger,105.75M,sold,Summer,2021,2021/2022,local
+Southampton FC,Spurs,Championship,Gareth Bale,17,Right Winger,13.23M,sold,Summer,2007,2007/2008,local
+Southampton FC,Tottenham Hotspur,Premier League,Gareth Bale,17,Right Winger,13.23M,sold,Summer,2007,2007/2008,local
+Spurs,Real Madrid,Primera Division,Gareth Bale,24,Right Winger,90.9M,sold,Summer,2013,2013/2014,international
+Tottenham Hotspur,Real Madrid,Premier League,Gareth Bale,24,Right Winger,90.9M,sold,Summer,2013,2013/2014,international
