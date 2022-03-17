@@ -1,12 +1,37 @@
-import csv
-# import json
+import csv, pickle, json
+from os.path import exists
+import resource, sys
 from BuildData import BuildData
 from Transfer import Transfer
-from League import League, TopClubs
+# from League import League, TopClubs
+
+# we need this part to raise the stack size to allow pickling to happen
+max_rec = 0x100000
+# May segfault without this line. 0x100 is a guess at the size of each stack frame.
+resource.setrlimit(resource.RLIMIT_STACK, [0x100 * max_rec, resource.RLIM_INFINITY])
+sys.setrecursionlimit(max_rec)
 
 class Query:
-    def __init__(self):
-        self.data = BuildData()
+    def __init__(self, renew = False):
+        """ We pickle the data if it's already computed so as to avoid redoing a lot of work.
+            We can force this method to recompute all the data by setting renew to True.
+        """
+        if not renew and exists("./stored_compiled_data_obj"):
+            try:
+                with open("./stored_compiled_data_obj", 'rb') as data_file:
+                    self.data = pickle.load(data_file)
+            except TypeError:
+                self.data = BuildData()
+                with open("./stored_compiled_data_obj", 'wb') as data_file:
+                    pickle.dump(self.data, data_file)
+        else:
+            # if pickling is not desired, removing this block by 
+            # this single line will do the job
+            self.data = BuildData() 
+            with open("./stored_compiled_data_obj", 'wb') as data_file:
+                pickle.dump(self.data, data_file)
+
+        # creating pointers to the data structure fields
         self.clubs = self.data.clubs
         self.players = self.data.players
         self.seasons = self.data.seasons
@@ -40,19 +65,21 @@ class Query:
                                          ("_"+player_name if player_name else "") + \
                                          ("_"+"_".join(season.split("/")) if season else "") + \
                                          ".csv"
-        self.csv(filteredTransfersArray, fileName)
+        self.csvTranfers(filteredTransfersArray, fileName)
 
+    def csv(sself, arrayToPrint, fileName):
+        with open("./compiled_data/" + fileName, 'w', newline='') as file:
+            mywriter = csv.writer(file, delimiter=',')
+            mywriter.writerows(arrayToPrint)
 
-    def csv(self, array: list[Transfer], fileName: str):
+    def csvTranfers(self, array: list[Transfer], fileName: str):
         """ Given an array of Transfer objects and a filename,
             write the array contents into a csv file
         """
         arrayToPrint = [["from club", "to club", "league", "player name", "age", "position", "fee",
                          "transfer type", "period", "year", "season", "tranfer between"]]
         arrayToPrint.extend([tf.toArray() for tf in array])
-        with open("./compiled_data/" + fileName, 'w', newline='') as file:
-            mywriter = csv.writer(file, delimiter=',')
-            mywriter.writerows(arrayToPrint)
+        self.csv(arrayToPrint, fileName)
 
     def mostTransferredPlayers(self, num: int):
         """ Find the num most transferred players """
@@ -65,7 +92,7 @@ class Query:
         for player in playersList:
             array += player.transfers
         fileName = "./compiled_data/most transfererred players.csv"
-        self.csv(array, fileName)
+        self.csvTranfers(array, fileName)
 
     def mostValuablePlayers(self, num: int):
         """ Find the num most valued players """
@@ -77,7 +104,7 @@ class Query:
         for player in playersList:
             array += [tf for tf in player.transfers if tf.fee != 0]
         fileName = "./compiled_data/most valuable players.csv"
-        self.csv(array, fileName)
+        self.csvTranfers(array, fileName)
 
     def mostExpensiveTranfers(self, num: int):
         """ Find the num most expensive transactions """
@@ -85,7 +112,7 @@ class Query:
                              key = lambda tf: tf.fee,
                              reverse = True)[:num]
         fileName = "./compiled_data/most expensive transfers.csv"
-        self.csv(transfersList, fileName)
+        self.csvTranfers(transfersList, fileName)
 
 
     def transfersBetweenClubs(self, clubs1_name: str, clubs2_name: str) -> list[Transfer]:
@@ -105,7 +132,7 @@ class Query:
         transfers = self.transfersBetweenClubs(clubs1_name, clubs2_name)
         fileName = "transfers between (" + ", ".join(clubs1_name) + \
             ") and (" + ", ".join(clubs2_name) + ").csv"
-        self.csv(transfers, fileName)
+        self.csvTranfers(transfers, fileName)
 
     def weightOfTransfersBetweenClubs(self, clubs1_name, clubs2_name, withLoan = False):
         """ Find the total amount of transfers that happend between the two sets of clubs """
@@ -138,12 +165,19 @@ class Query:
             weight += (tr.fee if not tr.isLoan or withLoan else 0)
         return weight
 
+    def clubList(self):
+        array = [["Club name", "Country", "League", "Total Market Value (in M)",
+                  "Squad size", "Average age", "Number of national team players"]]
+        for _, club in self.clubs.items():
+            array.append(club.toArray())
+        fileName = "clubs_list.csv"
+        self.csv(array, fileName)
+
 
 if __name__ == "__main__":
-    data = Query()
-    # data.transfersBetweenClubs(["Barcelona", "Ajax Amsterdam"], ["Real Madrid"])
-    # data.mostExpensiveTranfers(100)
+    data = Query(True)
+    # data.csvTransfersBetweenClubs(["Ajax Amsterdam"], ["Barcelona"])
+    data.clubList()
 
-    # with open("clubNames.json", 'w', encoding="utf-8") as f:
-    #     json.dump(data.clubNames, f, ensure_ascii=False)
-
+    with open("clubNames.json", 'w', encoding="utf-8") as f:
+        json.dump(data.clubNames, f, ensure_ascii=False)

@@ -128,7 +128,7 @@ class BuildData:
             club_name: str = array[0]
             if club_name not in self.clubNames:
                 self.clubNames[club_name] = club_name
-                self.clubs[club_name] = Club(club_name, array[-1])
+                self.clubs[club_name] = Club(club_name)
 
             season_name: str = array[11]
             if season_name not in self.seasons:
@@ -156,7 +156,7 @@ class BuildData:
                     self.clubNames[club_name] = name_matches[0]
                 else:
                     self.clubNames[club_name] = club_name
-                    self.clubs[club_name] = Club(club_name, array[-1])
+                    self.clubs[club_name] = Club(club_name)
 
         for key, _ in self.outcastClubNames.items():
             self.clubNames[key] = self.outcastClubNames[key]
