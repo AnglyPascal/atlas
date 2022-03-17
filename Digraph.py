@@ -77,4 +77,10 @@ class Digraph:
     also copy the code to make an undirected graph
 
     find a way to visually represent the code
+
+    top 5 clubs from each league
+    one node for others from each league
+    one node for remaining clubs from each country
+    group asia, east asia, africa etc
 """
+

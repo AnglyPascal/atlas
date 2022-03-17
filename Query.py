@@ -1,4 +1,4 @@
-import csv, pickle, json
+import csv, pickle#, json
 from os.path import exists
 import resource, sys
 from BuildData import BuildData
@@ -67,7 +67,7 @@ class Query:
                                          ".csv"
         self.csvTranfers(filteredTransfersArray, fileName)
 
-    def csv(sself, arrayToPrint, fileName):
+    def csv(self, arrayToPrint, fileName):
         with open("./compiled_data/" + fileName, 'w', newline='') as file:
             mywriter = csv.writer(file, delimiter=',')
             mywriter.writerows(arrayToPrint)
@@ -175,9 +175,8 @@ class Query:
 
 
 if __name__ == "__main__":
-    data = Query(True)
-    # data.csvTransfersBetweenClubs(["Ajax Amsterdam"], ["Barcelona"])
-    data.clubList()
+    data = Query()
+    data.csvTransfersBetweenClubs(["Ajax Amsterdam"], ["Barcelona"])
 
-    with open("clubNames.json", 'w', encoding="utf-8") as f:
-        json.dump(data.clubNames, f, ensure_ascii=False)
+    # with open("clubNames.json", 'w', encoding="utf-8") as f:
+    #     json.dump(data.clubNames, f, ensure_ascii=False)

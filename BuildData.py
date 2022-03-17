@@ -119,6 +119,29 @@ class BuildData:
         """
         transfersArray = self.combineTransfers()
 
+        # read club data from ./compiled_data/clubs_list.csv
+        with open("./compiled_data/clubs_list.csv", encoding="utf-8") as file_name:
+            reader = csv.reader(file_name, delimiter=',')
+            reader.__next__()
+            for row in reader:
+                name = row[0]
+                country = row[1]
+                league = row[2]
+                total_market_value = row[3]
+                squad_size = row[4]
+                average_age = row[5]
+                nat_team_players = row[6]
+
+                club = Club(name, country, league, total_market_value, 
+                            squad_size, average_age, nat_team_players)
+
+                self.clubNames[name] = name
+                self.clubs[name] = club
+
+                
+
+
+
         # This loop gets all the full names of the clubs from the first column and creates
         # Club objects with those. The last element of the array represents the country of
         # this club assuming that's how the data was stored. 
@@ -128,7 +151,7 @@ class BuildData:
             club_name: str = array[0]
             if club_name not in self.clubNames:
                 self.clubNames[club_name] = club_name
-                self.clubs[club_name] = Club(club_name)
+                self.clubs[club_name] = Club.fetchFromURL(club_name)
 
             season_name: str = array[11]
             if season_name not in self.seasons:
@@ -156,7 +179,7 @@ class BuildData:
                     self.clubNames[club_name] = name_matches[0]
                 else:
                     self.clubNames[club_name] = club_name
-                    self.clubs[club_name] = Club(club_name)
+                    self.clubs[club_name] = Club.fetchFromURL(club_name)
 
         for key, _ in self.outcastClubNames.items():
             self.clubNames[key] = self.outcastClubNames[key]
