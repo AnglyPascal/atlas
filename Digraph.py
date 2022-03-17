@@ -68,3 +68,13 @@ class Digraph:
             result.w = self.w
 
             return result
+
+
+""" Make a directed graph consisting of:
+    5 top clubs from each league, and a collective node representing all the other clubs
+    each node will have the list of clubs that the node represents
+
+    also copy the code to make an undirected graph
+
+    find a way to visually represent the code
+"""

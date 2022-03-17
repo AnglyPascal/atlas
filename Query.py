@@ -50,7 +50,7 @@ class Query:
         arrayToPrint = [["from club", "to club", "league", "player name", "age", "position", "fee",
                          "transfer type", "period", "year", "season", "tranfer between"]]
         arrayToPrint.extend([tf.toArray() for tf in array])
-        with open(fileName, 'w', newline='') as file:
+        with open("./compiled_data/" + fileName, 'w', newline='') as file:
             mywriter = csv.writer(file, delimiter=',')
             mywriter.writerows(arrayToPrint)
 
@@ -64,7 +64,7 @@ class Query:
         array = []
         for player in playersList:
             array += player.transfers
-        fileName = "most transfererred players.csv"
+        fileName = "./compiled_data/most transfererred players.csv"
         self.csv(array, fileName)
 
     def mostValuablePlayers(self, num: int):
@@ -76,7 +76,7 @@ class Query:
         array = []
         for player in playersList:
             array += [tf for tf in player.transfers if tf.fee != 0]
-        fileName = "most valuable players.csv"
+        fileName = "./compiled_data/most valuable players.csv"
         self.csv(array, fileName)
 
     def mostExpensiveTranfers(self, num: int):
@@ -84,7 +84,7 @@ class Query:
         transfersList = sorted(self.transfersArray,
                              key = lambda tf: tf.fee,
                              reverse = True)[:num]
-        fileName = "most expensive transfers.csv"
+        fileName = "./compiled_data/most expensive transfers.csv"
         self.csv(transfersList, fileName)
 
 
@@ -137,7 +137,6 @@ class Query:
         for tr in transfers:
             weight += (tr.fee if not tr.isLoan or withLoan else 0)
         return weight
-
 
 
 if __name__ == "__main__":
