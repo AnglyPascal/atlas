@@ -1,0 +1,101 @@
+from club,to club,league,player name,age,position,fee,transfer type,period,year,season,tranfer between
+FC Barcelona,Paris Saint-Germain,Primera Division,Neymar,25,Left Winger,199.8M,sold,Summer,2017,2017/2018,international
+AS Monaco,Paris Saint-Germain,Ligue 1,Kylian Mbappé,19,Centre-Forward,130.5M,sold,Summer,2018,2018/2019,local
+Borussia Dortmund,FC Barcelona,1 Bundesliga,Ousmane Dembélé,20,Right Winger,126.0M,sold,Summer,2017,2017/2018,international
+Liverpool FC,FC Barcelona,Premier League,Philippe Coutinho,25,Attacking Midfield,121.5M,sold,Winter,2017,2017/2018,international
+SL Benfica,Atlético de Madrid,Primera Division,João Félix,19,Second Striker,114.48M,sold,Summer,2019,2019/2020,international
+Atlético de Madrid,FC Barcelona,Primera Division,Antoine Griezmann,28,Second Striker,108.0M,sold,Summer,2019,2019/2020,local
+Aston Villa,Man City,Premier League,Jack Grealish,25,Left Winger,105.75M,sold,Summer,2021,2021/2022,local
+Aston Villa,Manchester City,Premier League,Jack Grealish,25,Left Winger,105.75M,sold,Summer,2021,2021/2022,local
+Real Madrid,Juventus FC,Serie A,Cristiano Ronaldo,33,Centre-Forward,105.3M,sold,Summer,2018,2018/2019,international
+Chelsea FC,Real Madrid,Premier League,Eden Hazard,28,Left Winger,103.5M,sold,Summer,2019,2019/2020,international
+FC Internazionale,Chelsea FC,Premier League,Romelu Lukaku,28,Centre-Forward,103.5M,sold,Summer,2021,2021/2022,international
+Inter Milan,Chelsea FC,Serie A,Romelu Lukaku,28,Centre-Forward,103.5M,sold,Summer,2021,2021/2022,international
+Juventus FC,Manchester United,Premier League,Paul Pogba,23,Central Midfield,94.5M,sold,Summer,2016,2016/2017,international
+Spurs,Real Madrid,Primera Division,Gareth Bale,24,Right Winger,90.9M,sold,Summer,2013,2013/2014,international
+Tottenham Hotspur,Real Madrid,Premier League,Gareth Bale,24,Right Winger,90.9M,sold,Summer,2013,2013/2014,international
+Manchester United,Real Madrid,Premier League,Cristiano Ronaldo,24,Centre-Forward,84.6M,sold,Summer,2009,2009/2010,international
+SSC Napoli,Juventus FC,Serie A,Gonzalo Higuaín,28,Centre-Forward,81.0M,sold,Summer,2016,2016/2017,local
+Santos FC,FC Barcelona,Primera Division,Neymar,21,Left Winger,79.2M,sold,Summer,2013,2013/2014,international
+Leicester City,Manchester United,Premier League,Harry Maguire,26,Centre-Back,78.3M,sold,Summer,2019,2019/2020,local
+Ajax Amsterdam,FC Barcelona,Primera Division,Frenkie de Jong,22,Central Midfield,77.4M,sold,Summer,2019,2019/2020,international
+Ajax Amsterdam,Juventus FC,Serie A,Matthijs de Ligt,19,Centre-Back,76.95M,sold,Summer,2019,2019/2020,international
+Borussia Dortmund,Manchester United,Premier League,Jadon Sancho,21,Left Winger,76.5M,sold,Summer,2021,2021/2022,international
+Everton FC,Manchester United,Premier League,Romelu Lukaku,24,Centre-Forward,76.23M,sold,Summer,2017,2017/2018,local
+Southampton FC,Liverpool FC,Premier League,Virgil van Dijk,26,Centre-Back,76.19M,sold,Winter,2017,2017/2018,local
+Liverpool FC,FC Barcelona,Premier League,Luis Suárez,27,Centre-Forward,73.55M,sold,Summer,2014,2014/2015,international
+Athletic Bilbao,Chelsea FC,Primera Division,Kepa Arrizabalaga,23,Goalkeeper,72.0M,sold,Summer,2018,2018/2019,international
+Oldham Athletic,Chelsea FC,Premier League,Kepa Arrizabalaga,23,Goalkeeper,72.0M,sold,Summer,2018,2018/2019,local
+Atlético de Madrid,Bayern Munich,1 Bundesliga,Lucas Hernández,23,Centre-Back,72.0M,sold,Summer,2019,2019/2020,international
+LOSC Lille,Arsenal FC,Premier League,Nicolas Pépé,24,Right Winger,72.0M,sold,Summer,2019,2019/2020,international
+Bay. Leverkusen,Chelsea FC,Premier League,Kai Havertz,21,Attacking Midfield,72.0M,sold,Summer,2020,2020/2021,international
+Bayer 04 Leverkusen,Chelsea FC,1 Bundesliga,Kai Havertz,21,Attacking Midfield,72.0M,sold,Summer,2020,2020/2021,international
+Juventus FC,Real Madrid,Serie A,Zinédine Zidane,29,Attacking Midfield,69.75M,sold,Summer,2001,2001/2002,international
+VfL Wolfsburg,Man City,1 Bundesliga,Kevin De Bruyne,24,Attacking Midfield,68.4M,sold,Summer,2015,2015/2016,international
+VfL Wolfsburg,Manchester City,Premier League,Kevin De Bruyne,24,Attacking Midfield,68.4M,sold,Summer,2015,2015/2016,international
+FC Barcelona,Juventus FC,Serie A,Arthur,24,Central Midfield,68.4M,sold,Summer,2020,2020/2021,international
+AS Monaco,Real Madrid,Primera Division,James Rodríguez,23,Attacking Midfield,67.5M,sold,Summer,2014,2014/2015,international
+Real Madrid,Manchester United,Premier League,Ángel Di María,26,Right Winger,67.5M,sold,Summer,2014,2014/2015,international
+Manchester United,FC Internazionale,Premier League,Romelu Lukaku,26,Centre-Forward,66.6M,sold,Summer,2019,2019/2020,international
+Manchester United,Inter Milan,Serie A,Romelu Lukaku,26,Centre-Forward,66.6M,sold,Summer,2019,2019/2020,international
+AS Monaco,Atlético de Madrid,Primera Division,Thomas Lemar,22,Attacking Midfield,64.8M,sold,Summer,2018,2018/2019,international
+LOSC Lille,SSC Napoli,Serie A,Victor Osimhen,21,Centre-Forward,64.13M,sold,Summer,2020,2020/2021,international
+FC Internazionale,FC Barcelona,Serie A,Zlatan Ibrahimovic,27,Centre-Forward,62.55M,sold,Summer,2009,2009/2010,international
+SL Benfica,Man City,Liga Nos,Rúben Dias,23,Centre-Back,61.2M,sold,Summer,2020,2020/2021,international
+SL Benfica,Manchester City,Premier League,Rúben Dias,23,Centre-Back,61.2M,sold,Summer,2020,2020/2021,international
+Leicester City,Man City,Premier League,Riyad Mahrez,27,Right Winger,61.02M,sold,Summer,2018,2018/2019,local
+Leicester City,Manchester City,Premier League,Riyad Mahrez,27,Right Winger,61.02M,sold,Summer,2018,2018/2019,local
+AC Milan,Real Madrid,Serie A,Kaká,27,Centre-Back,60.3M,sold,Summer,2009,2009/2010,international
+Real Madrid,Chelsea FC,Premier League,Álvaro Morata,24,Centre-Forward,59.4M,sold,Summer,2017,2017/2018,international
+Athletic Bilbao,Man City,Primera Division,Aymeric Laporte,23,Centre-Back,58.5M,sold,Winter,2017,2017/2018,international
+Oldham Athletic,Manchester City,Premier League,Aymeric Laporte,23,Centre-Back,58.5M,sold,Winter,2017,2017/2018,local
+Juventus FC,Man City,Serie A,João Cancelo,25,Right-Back,58.5M,sold,Summer,2019,2019/2020,international
+Juventus FC,Manchester City,Premier League,João Cancelo,25,Right-Back,58.5M,sold,Summer,2019,2019/2020,international
+SSC Napoli,Paris Saint-Germain,Serie A,Edinson Cavani,26,Centre-Forward,58.05M,sold,Summer,2013,2013/2014,international
+Borussia Dortmund,Chelsea FC,Premier League,Christian Pulisic,20,Right Winger,57.6M,sold,Winter,2018,2018/2019,international
+Borussia Dortmund,Arsenal FC,Premier League,Pierre-Emerick Aubameyang,28,Centre-Forward,57.38M,sold,Winter,2017,2017/2018,international
+Liverpool FC,Man City,Premier League,Raheem Sterling,20,Left Winger,57.33M,sold,Summer,2015,2015/2016,local
+Liverpool FC,Manchester City,Premier League,Raheem Sterling,20,Left Winger,57.33M,sold,Summer,2015,2015/2016,local
+Manchester United,Paris Saint-Germain,Premier League,Ángel Di María,27,Right Winger,56.7M,sold,Summer,2015,2015/2016,international
+E. Frankfurt,Real Madrid,Primera Division,Luka Jovic,21,Centre-Forward,56.7M,sold,Summer,2019,2019/2020,international
+Eintracht Frankfurt,Real Madrid,1 Bundesliga,Luka Jovic,21,Centre-Forward,56.7M,sold,Summer,2019,2019/2020,international
+Sporting CP,Manchester United,Premier League,Bruno Fernandes,25,Central Midfield,56.7M,sold,Winter,2019,2019/2020,international
+Atlético de Madrid,Man City,Primera Division,Rodri,23,Centre-Back,56.43M,sold,Summer,2019,2019/2020,international
+Atlético de Madrid,Manchester City,Premier League,Rodri,23,Centre-Back,56.43M,sold,Summer,2019,2019/2020,international
+AS Roma,Liverpool FC,Premier League,Alisson,25,Goalkeeper,56.25M,sold,Summer,2018,2018/2019,international
+FC Barcelona,Real Madrid,Primera Division,Luís Figo,27,Right Winger,54.0M,sold,Summer,2000,2000/2001,local
+AS Monaco,Manchester United,Premier League,Anthony Martial,19,Centre-Forward,54.0M,sold,Summer,2015,2015/2016,international
+Chelsea FC,SH SIPG,Premier League,Oscar,25,Attacking Midfield,54.0M,sold,Winter,2016,2016/2017,international
+Chelsea FC,Atlético de Madrid,Premier League,Diego Costa,29,Centre-Forward,54.0M,sold,Winter,2017,2017/2018,international
+RB Leipzig,Liverpool FC,Premier League,Naby Keïta,23,Central Midfield,54.0M,sold,Summer,2018,2018/2019,international
+Olympique Lyon,Spurs,Ligue 1,Tanguy Ndombélé,22,Central Midfield,54.0M,sold,Summer,2019,2019/2020,international
+Olympique Lyon,Tottenham Hotspur,Premier League,Tanguy Ndombélé,22,Central Midfield,54.0M,sold,Summer,2019,2019/2020,international
+Juventus FC,FC Barcelona,Serie A,Miralem Pjanic,30,Central Midfield,54.0M,sold,Summer,2020,2020/2021,international
+Man City,Bayern Munich,1 Bundesliga,Leroy Sané,24,Left Winger,54.0M,sold,Summer,2020,2020/2021,international
+Manchester City,Bayern Munich,Premier League,Leroy Sané,24,Left Winger,54.0M,sold,Summer,2020,2020/2021,international
+FC Internazionale,Paris Saint-Germain,Ligue 1,Achraf Hakimi,22,Right-Back,54.0M,sold,Summer,2021,2021/2022,international
+Inter Milan,Paris Saint-Germain,Serie A,Achraf Hakimi,22,Right-Back,54.0M,sold,Summer,2021,2021/2022,international
+Shakhtar D.,Manchester United,Premier League,Fred,25,Centre-Forward,53.1M,sold,Summer,2018,2018/2019,international
+Liverpool FC,Chelsea FC,Premier League,Fernando Torres,26,Centre-Forward,52.65M,sold,Winter,2010,2010/2011,local
+Brighton & Hove Albion,Arsenal FC,Premier League,Ben White,23,Centre-Back,52.65M,sold,Summer,2021,2021/2022,local
+AS Monaco,Man City,Ligue 1,Benjamin Mendy,23,Left-Back,51.75M,sold,Summer,2017,2017/2018,international
+AS Monaco,Manchester City,Premier League,Benjamin Mendy,23,Left-Back,51.75M,sold,Summer,2017,2017/2018,international
+SSC Napoli,Chelsea FC,Premier League,Jorginho,26,Right-Back,51.3M,sold,Summer,2018,2018/2019,international
+AC Parma,SS Lazio,Serie A,Hernán Crespo,25,Centre-Forward,51.13M,sold,Summer,2000,2000/2001,local
+Zenit St. Petersburg,SH SIPG,Premier Liga,Hulk,29,Centre-Forward,50.22M,sold,Summer,2016,2016/2017,international
+Everton FC,Man City,Premier League,John Stones,22,Centre-Back,50.04M,sold,Summer,2016,2016/2017,local
+Everton FC,Manchester City,Premier League,John Stones,22,Centre-Back,50.04M,sold,Summer,2016,2016/2017,local
+Crystal Palace,Manchester United,Premier League,Aaron Wan-Bissaka,21,Right-Back,49.5M,sold,Summer,2019,2019/2020,local
+Man City,FC Barcelona,Primera Division,Ferran Torres,21,Right Winger,49.5M,sold,Winter,2021,2021/2022,international
+Manchester City,FC Barcelona,Premier League,Ferran Torres,21,Right Winger,49.5M,sold,Winter,2021,2021/2022,international
+Real Sociedad,Atlético de Madrid,Primera Division,Antoine Griezmann,23,Second Striker,48.6M,sold,Summer,2014,2014/2015,local
+Olympique Lyon,Arsenal FC,Premier League,Alexandre Lacazette,26,Centre-Forward,47.7M,sold,Summer,2017,2017/2018,international
+RB Leipzig,Chelsea FC,Premier League,Timo Werner,24,Centre-Forward,47.7M,sold,Summer,2020,2020/2021,international
+AC Parma,Juventus FC,Serie A,Gianluigi Buffon,23,Goalkeeper,47.6M,sold,Summer,2001,2001/2002,local
+Spurs,Manchester City,Premier League,Kyle Walker,27,Right-Back,47.43M,sold,Summer,2017,2017/2018,local
+Tottenham Hotspur,Man City,Premier League,Kyle Walker,27,Right-Back,47.43M,sold,Summer,2017,2017/2018,local
+FC Schalke 04,Man City,1 Bundesliga,Leroy Sané,20,Left Winger,46.8M,sold,Summer,2016,2016/2017,international
+FC Schalke 04,Manchester City,Premier League,Leroy Sané,20,Left Winger,46.8M,sold,Summer,2016,2016/2017,international
+Leicester City,Chelsea FC,Premier League,Ben Chilwell,23,Left-Back,45.18M,sold,Summer,2020,2020/2021,local
+AS Monaco,Man City,Ligue 1,Bernardo Silva,22,Attacking Midfield,45.0M,sold,Summer,2017,2017/2018,international
+AS Monaco,Manchester City,Premier League,Bernardo Silva,22,Attacking Midfield,45.0M,sold,Summer,2017,2017/2018,international

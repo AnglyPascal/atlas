@@ -1,10 +1,8 @@
 import csv
+# import json
 from BuildData import BuildData
 from Transfer import Transfer
-# from Club import Club
-# from Player import Player
-# from Season import Season
-
+from League import League, TopClubs
 
 class Query:
     def __init__(self):
@@ -44,23 +42,6 @@ class Query:
                                          ".csv"
         self.csv(filteredTransfersArray, fileName)
 
-    def csvMostTransferred(self, num):
-        """ Find the num most transferred players """
-        playersArray = self.mostTransferredPlayers(num)
-        array = []
-        for player in playersArray:
-            array += player.transfers
-        fileName = "most transfererred players.csv"
-        self.csv(array, fileName)
-
-    def csvMostValuable(self, num):
-        """ Find the num most transferred players """
-        playersArray = self.mostValuablePlayers(num)
-        array = []
-        for player in playersArray:
-            array += [tf for tf in player.transfers if tf.fee != 0]
-        fileName = "most valuable players.csv"
-        self.csv(array, fileName)
 
     def csv(self, array: list[Transfer], fileName: str):
         """ Given an array of Transfer objects and a filename,
@@ -74,27 +55,96 @@ class Query:
             mywriter.writerows(arrayToPrint)
 
     def mostTransferredPlayers(self, num: int):
+        """ Find the num most transferred players """
+
         playersList = [val for key, val in self.players.items()]
         playersList = sorted(playersList,
                              key = lambda tf: tf.num_of_transfers(),
                              reverse = True)[:num]
-        return playersList
+        array = []
+        for player in playersList:
+            array += player.transfers
+        fileName = "most transfererred players.csv"
+        self.csv(array, fileName)
 
     def mostValuablePlayers(self, num: int):
+        """ Find the num most valued players """
         playersList = [val for key, val in self.players.items()]
         playersList = sorted(playersList,
                              key = lambda tf: tf.value_with_loan,
                              reverse = True)[:num]
-        return playersList
+        array = []
+        for player in playersList:
+            array += [tf for tf in player.transfers if tf.fee != 0]
+        fileName = "most valuable players.csv"
+        self.csv(array, fileName)
+
+    def mostExpensiveTranfers(self, num: int):
+        """ Find the num most expensive transactions """
+        transfersList = sorted(self.transfersArray,
+                             key = lambda tf: tf.fee,
+                             reverse = True)[:num]
+        fileName = "most expensive transfers.csv"
+        self.csv(transfersList, fileName)
+
+
+    def transfersBetweenClubs(self, clubs1_name: str, clubs2_name: str) -> list[Transfer]:
+        """ Given two sets of clubs, returns the list of transfers 
+            that happend one set to another in either direction
+        """
+        clubs1 = [self.data.getClub(club1_name) for club1_name in clubs1_name]
+        clubs2 = [self.data.getClub(club2_name) for club2_name in clubs2_name]
+        allTransfers = []
+        for club in clubs1:
+            allTransfers.extend(club.transfers)
+        transfers = [tf for tf in allTransfers if (tf.fromClub in clubs2) or (tf.toClub in clubs2)]
+        return transfers
+
+    def csvTransfersBetweenClubs(self, clubs1_name, clubs2_name):
+        """ Print the transfers """
+        transfers = self.transfersBetweenClubs(clubs1_name, clubs2_name)
+        fileName = "transfers between (" + ", ".join(clubs1_name) + \
+            ") and (" + ", ".join(clubs2_name) + ").csv"
+        self.csv(transfers, fileName)
+
+    def weightOfTransfersBetweenClubs(self, clubs1_name, clubs2_name, withLoan = False):
+        """ Find the total amount of transfers that happend between the two sets of clubs """
+        transfers = self.transfersBetweenClubs(clubs1_name, clubs2_name)
+        weight = 0
+        for tr in transfers:
+            weight += (tr.fee if not tr.isLoan or withLoan else 0)
+        return weight
+
+
+    def transfersFromToClubs(self, clubs1_name: str, clubs2_name: str) -> list[Transfer]:
+        """ Given two sets of clubs, returns the list of transfers 
+            that happend from set1 to set2. Used to make the directed graph
+        """
+        clubs1 = [self.data.getClub(club1_name) for club1_name in clubs1_name]
+        clubs2 = [self.data.getClub(club2_name) for club2_name in clubs2_name]
+        allTransfers = []
+        for club in clubs1:
+            allTransfers.extend(club.transfers)
+        transfers = [tf for tf in allTransfers if (tf.fromClub in clubs1) and (tf.toClub in clubs2)]
+        return transfers
+
+    def weightOfTransfersFromToClubs(self, clubs1_name, clubs2_name, withLoan = False):
+        """ Given two sets of clubs, returns the total amount of transfers 
+            that happend from set1 to set2. Used to make the directed graph
+        """
+        transfers = self.transfersBetweenClubs(clubs1_name, clubs2_name)
+        weight = 0
+        for tr in transfers:
+            weight += (tr.fee if not tr.isLoan or withLoan else 0)
+        return weight
+
+
 
 if __name__ == "__main__":
     data = Query()
-    # data.csvFiltered(club_name   = "Barcelona", 
-    #                  season      = "2019/2020", 
-    #                  player_name = "Philippe Coutinho")
-    # print(data.players["Philippe Coutinho"].value)
-    data.csvMostValuable(20)
+    # data.transfersBetweenClubs(["Barcelona", "Ajax Amsterdam"], ["Real Madrid"])
+    # data.mostExpensiveTranfers(100)
 
     # with open("clubNames.json", 'w', encoding="utf-8") as f:
-    #     json.dump(bd.clubNames, f, ensure_ascii=False)
+    #     json.dump(data.clubNames, f, ensure_ascii=False)
 
