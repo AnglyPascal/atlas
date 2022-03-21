@@ -10,6 +10,7 @@ class Transfer:
         self.league = league
         self.player_age = player_age
         self.international = fromClub.country != toClub.country
+        self.group_name = None
 
     def __eq__(self, other):
         return self.season == other.season and      \
@@ -56,4 +57,8 @@ class Transfer:
         arr.append(self.season.year)
         arr.append(self.season.season)
         arr.append("international" if self.international else "local")
+        arr.append(self.fromClub.country)
+        arr.append(self.toClub.country)
+        if self.group_name:
+            arr.append(self.group_name)
         return arr

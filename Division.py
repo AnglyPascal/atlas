@@ -101,6 +101,13 @@ class Division:
         for group_name, club_names in self.group_names.items():
             self.groups[group_name] = [self.clubs[club_name] for club_name in club_names]
 
+        for group_name, clubs in self.groups.items():
+            for club in clubs:
+                for transfer in club.transfers:
+                    transfer.group_name = group_name
+
+        self.data.csvTranfers(self.data.transfersArray, "allTransfers.csv")
+
     def transfersBetweenGroups(self, group_name_1, group_name_2):
         clubs_1 = self.groups[group_name_1]
         clubs_2 = self.groups[group_name_2]

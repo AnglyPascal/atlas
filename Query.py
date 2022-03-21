@@ -77,7 +77,10 @@ class Query:
             write the array contents into a csv file
         """
         arrayToPrint = [["from club", "to club", "league", "player name", "age", "position", "fee",
-                         "transfer type", "period", "year", "season", "tranfer between"]]
+                         "transfer type", "period", "year", "season", "tranfer between",
+                         "from country", "to country"]]
+        if array[0].group_name:
+            arrayToPrint[0].append("group name")
         arrayToPrint.extend([tf.toArray() for tf in array])
         self.csv(arrayToPrint, fileName)
 
