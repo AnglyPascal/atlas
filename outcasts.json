@@ -1,5 +1,6 @@
 {
     "Barcelona" : "FC Barcelona",
+    "Bay. Leverkusen" : "Bayer 04 Leverkusen",
     "Admira/Wacker" : "Admira Wacker",
     "ADO" : "ADO Den Haag",
     "Boavista" : "Boavista FC",
@@ -39,5 +40,10 @@
     "Portimonense 23" : "Portimonense SC",
     "Atl. Levante" : "Levante UD"
     "Excelsior '31" : "Excelsior Rotterdam"
-
+    "Zenit S-Pb" : "Zenit St. Petersburg",
+    "ACF Fiorentina" : "AC Fiorentina",
+    "Lazio Youth" : "SS Lazio",
+    "Spurs" : "Tottenham Hotspur",
+    "Villarreal CF" : "FC Villarreal",
+    "CD Everton" : "Everton FC"
 }
