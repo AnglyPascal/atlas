@@ -7,7 +7,10 @@
     "Boro" : "Middlesbrough FC",
     "Botafogo-SP" : "Botafogo",
     "Boston Utd" : "Boston United",
+    "Genoa 1893" : "Genoa CFC",
     "FC Bayern" : "Bayern Munich",
+    "FC Internazionale" : "Inter Milan",
+    "Fetteh Feyenoord" : "Feyenoord Rotterdam"
     "Paris SG" : "Paris Saint-Germain",
     "Man Utd" : "Manchester United",
     "Atlético Madrid" : "Atlético de Madrid",
@@ -15,11 +18,32 @@
     "Dinamo Moscow" : "Dynamo Moscow",
     "Dynamo 2 Kyiv" : "Dynamo Kyiv",
     "Dynamo" : "Dynamo Moscow",
+    "Dinamo" : "Dynamo Moscow",
+    "Sheff Utd" : "Sheffield United",
+    "Wolves" : "Wolverhampton Wanderers",
+    "QPR" : "Queens Park Rangers",
+    "Newcastle Res." : "Newcastle United"
+    "Leeds Reserves" : "Leeds United",
+    "Racing Aprilia" : "Racing Santander",
+    "Recr. Huelva" : "Recreativo Huelva",
+    "West Ham Res." : "West Ham United",
+    "Loko Moscow" : "Lokomotiv Moscow", 
+    "Bor. M'gladbach" : "Borussia Mönchengladbach"
+    "HSC Montpellier" : "Montpellier HSC",
+    "Man City" : "Manchester City",
+    "G. Bordeaux" : "FC Girondins Bordeaux",
+    "R. Strasbourg" : "RC Strasbourg Alsace",
+    "Ajax Amateurs" : "Ajax Amsterdam", 
+    "1.FC K'lautern" : "1.FC Kaiserslautern",
+    "1.FC Köln" : "1.FC Köln",
+    "Nottm Forest" : "Nottingham Forest",
+    "Portimonense 23" : "Portimonense SC",
+    "Atl. Levante" : "Levante UD"
+    "Excelsior '31" : "Excelsior Rotterdam"
     "Zenit S-Pb" : "Zenit St. Petersburg",
     "ACF Fiorentina" : "AC Fiorentina",
     "Lazio Youth" : "SS Lazio",
     "Spurs" : "Tottenham Hotspur",
     "Villarreal CF" : "FC Villarreal",
-    "CD Everton" : "Everton FC",
-    "Dinamo" : "Dynamo Moscow"
+    "CD Everton" : "Everton FC"
 }
