@@ -18,6 +18,14 @@
     "Dinamo Moscow" : "Dynamo Moscow",
     "Dynamo 2 Kyiv" : "Dynamo Kyiv",
     "Dynamo" : "Dynamo Moscow",
+    "Dinamo" : "Dynamo Moscow", 
+    "Rennes" : "Stade Rennais FC", 
+    "West Brom Res." : "West Bromwich Albion",
+    "Northampt. Town" : "Northampton",
+    "GFCO Ajaccio" : "GFC Ajaccio", 
+    "SC Toulon Var" : "Sporting Club de Toulon et du Var", 
+    "E. Frankfurt" : "Eintracht Frankfurt", 
+    "Milan AC" : "AC Milan",
     "Dinamo" : "Dynamo Moscow",
     "Sheff Utd" : "Sheffield United",
     "Wolves" : "Wolverhampton Wanderers",
@@ -44,6 +52,5 @@
     "ACF Fiorentina" : "AC Fiorentina",
     "Lazio Youth" : "SS Lazio",
     "Spurs" : "Tottenham Hotspur",
-    "Villarreal CF" : "FC Villarreal",
-    "CD Everton" : "Everton FC"
+    "Villarreal CF" : "FC Villarreal"
 }
